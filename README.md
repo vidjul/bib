@@ -1,3 +1,9 @@
+> Hey batch 2021 (I guess?)
+> Wanna try this to see my progress from my 2018 project I've done as a student.
+> Good luck everyone!
+
+---
+
 # BIB
 
 > Maître Restaurateur x Bib Gourmand
