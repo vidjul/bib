@@ -63,6 +63,24 @@ const parsePriceCookingType = priceString => {
 };
 
 /**
+ * Get rating value from string
+ * TODO: Check if it's really useful, as every restaurant will probably be BIB_GOURMAND
+ * @param {String} ratingString
+ */
+const parseRating = ratingString => {
+  switch (ratingString) {
+    case 'ONE_STAR':
+      return 1;
+    case 'TWO_STARS':
+      return 2;
+    case 'THREE_STARS':
+      return 3;
+    default:
+      return 0;
+  }
+};
+
+/**
  * Parse webpage restaurant
  * @param  {String} data - html response
  * @return {Object} restaurant
@@ -89,6 +107,10 @@ const parse = data => {
     .prev()
     .text();
 
+  const rating = parseRating(
+    $('[data-event=CTA_tel]').data('restaurant-distinction')
+  );
+
   const services = cleanElem(
     $('.section-main ul.restaurant-details__services--list > li > div')
       .map((i, elem) => {
@@ -103,7 +125,7 @@ const parse = data => {
   return Object.assign(
     {},
     cleanElem({ name, experience, website, phone }),
-    { address, services },
+    { address, services, rating },
     price
   );
 };
