@@ -81,8 +81,28 @@ const parse = data => {
     ).text()
   );
   const experience = $('#experience-section > ul > li:nth-child(2)').text();
+  const website = $('[data-event=CTA_website]').attr('href');
+  const phone = $('[data-event=CTA_tel]')
+    .prev()
+    .text();
 
-  return Object.assign({}, cleanElem({ name, experience }), { address }, price);
+  const services = cleanElem(
+    $('.section-main ul.restaurant-details__services--list > li > div')
+      .map((i, elem) => {
+        return $(elem)
+          .contents()
+          .not('i')
+          .text();
+      })
+      .get()
+  );
+
+  return Object.assign(
+    {},
+    cleanElem({ name, experience, website, phone }),
+    { address, services },
+    price
+  );
 };
 
 /**
