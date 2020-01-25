@@ -80,7 +80,10 @@ const parse = data => {
       '.section-main ul.restaurant-details__heading--list > li.restaurant-details__heading-price'
     ).text()
   );
-  const experience = $('#experience-section > ul > li:nth-child(2)').text();
+  const experience = $('#experience-section > ul > li:nth-child(2)')
+    .contents()
+    .not('i')
+    .text();
   const website = $('[data-event=CTA_website]').attr('href');
   const phone = $('[data-event=CTA_tel]')
     .prev()
