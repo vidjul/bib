@@ -2,10 +2,29 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 /**
+ * REQUEST HELPERS
+ */
+
+/**
+ * Pause code execution for an amount of time
+ * @param {Number} ms Number of ms to wait
+ */
+const sleep = ms => {
+  return new Promise(resolve => setTimeout(resolve, ms));
+};
+
+/**
+ * PARSER / TEXT HELPERS
+ */
+
+/**
  * Clean a given text by removing white spaces and line breaks
  * @param {String} text text to clean
  */
 const cleanText = text => {
+  if (!text) {
+    return;
+  }
   return text
     .trim()
     .replace(/^s+/gm, '')
@@ -81,6 +100,39 @@ const parseRating = ratingString => {
 };
 
 /**
+ * Get the total number of restaurants from a search url
+ * @param {String} data
+ * @return {Number} total number of restaurants
+ */
+const getRestaurantsTotal = data => {
+  const $ = cheerio.load(data);
+
+  return parseInt(
+    $('.search-results__status > div > h1')
+      .contents()
+      .not('span')
+      .text()
+      .match(/\d+/g)[0],
+    10
+  );
+};
+
+/**
+ * Get an array of restaurants url from a search result
+ * @param {Object} data - html responge for the page
+ * @param {String} prefix - url prefix
+ */
+const getRestaurantUrls = (data, prefix) => {
+  const $ = cheerio.load(data);
+
+  return $('.card__menu > a')
+    .map((_i, elem) => {
+      return prefix + $(elem).attr('href');
+    })
+    .get();
+};
+
+/**
  * Parse webpage restaurant
  * @param  {String} data - html response
  * @return {Object} restaurant
@@ -139,11 +191,14 @@ module.exports.scrapeRestaurant = async url => {
   const response = await axios(url);
   const { data, status } = response;
 
+  process.stdout.write(`Scraping ${url}...`);
   if (status >= 200 && status < 300) {
-    return parse(data);
+    const parsed = parse(data);
+    process.stdout.write('Done. \n');
+    return parsed;
   }
 
-  console.error(status);
+  process.stdout.write(`Error: ${status} \n`);
 
   return null;
 };
@@ -152,6 +207,53 @@ module.exports.scrapeRestaurant = async url => {
  * Get all France located Bib Gourmand restaurants
  * @return {Array} restaurants
  */
-module.exports.get = () => {
-  return [];
+module.exports.get = async () => {
+  const BASE_URL = 'https://guide.michelin.com';
+  const BIB_GOURMAND_URL = `${BASE_URL}/fr/fr/restaurants/bib-gourmand`;
+
+  /**
+   * Items per page value was identified as 20 after the investigation step.
+   * Might be retrieved programatically but setting it manually makes everything
+   * smoother.
+   */
+  const ITEMS_PER_PAGE = 20;
+
+  const response = await axios(BIB_GOURMAND_URL);
+  const { data, status } = response;
+
+  if (status <= 200 && status > 300) {
+    return console.error(status);
+  }
+
+  const total = getRestaurantsTotal(data);
+  const nbPages = Math.round(total / ITEMS_PER_PAGE);
+
+  console.log(`${total} restaurant(s) to scrape.`);
+
+  console.log(`Gathering url from page 1/${nbPages}...`);
+  const restaurantsUrl = [...getRestaurantUrls(data, BASE_URL)];
+
+  /**
+   * Loop from 2 to nbPages to build the array of search pages
+   * We start from 2 as BIB_GOURMAND_URL is already the 1st page.
+   */
+  for (let i = 2; i <= nbPages; i++) {
+    const pageUrl = `${BIB_GOURMAND_URL}/page/${i}`;
+    const response = await axios(pageUrl);
+    const { data, status } = response;
+
+    if (status <= 200 && status > 300) {
+      return console.error(status);
+    }
+
+    console.log(`Gathering url from page ${i}/${nbPages}...`);
+    restaurantsUrl.push(...getRestaurantUrls(data, BASE_URL));
+    await sleep(200);
+  }
+
+  const results = await Promise.all(
+    restaurantsUrl.map(url => this.scrapeRestaurant(url))
+  );
+
+  return results;
 };
