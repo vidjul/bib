@@ -13,6 +13,7 @@ const { cleanText, cleanElem, sleep } = require('./util');
  */
 const parseAddr = addrString => {
   const addrArr = addrString.split(',');
+
   return cleanElem({
     street: addrArr[0],
     city: addrArr[1],
@@ -30,6 +31,7 @@ const parsePriceCookingType = priceString => {
   const cleanedString = cleanText(priceString);
   const [range, cookingType] = cleanedString.split('•');
   const rangeMatch = range.match(/(\d+)/g);
+
   return {
     price: {
       min: rangeMatch[0],
@@ -152,6 +154,7 @@ module.exports.scrapeRestaurant = async url => {
   process.stdout.write(`Scraping ${url}...`);
   if (status >= 200 && status < 300) {
     const parsed = parse(data);
+
     process.stdout.write('Done. \n');
     return parsed;
   }
@@ -176,8 +179,8 @@ module.exports.get = async () => {
    */
   const ITEMS_PER_PAGE = 20;
 
-  const response = await axios(BIB_GOURMAND_URL);
-  const { data, status } = response;
+  let response = await axios(BIB_GOURMAND_URL);
+  let { data, status } = response;
 
   if (status <= 200 && status > 300) {
     return console.error(status);
@@ -197,8 +200,10 @@ module.exports.get = async () => {
    */
   for (let i = 2; i <= nbPages; i++) {
     const pageUrl = `${BIB_GOURMAND_URL}/page/${i}`;
-    const response = await axios(pageUrl);
-    const { data, status } = response;
+
+    response = await axios(pageUrl);
+    data = response.data;
+    status = response.status;
 
     if (status <= 200 && status > 300) {
       return console.error(status);
