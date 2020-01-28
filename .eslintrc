@@ -420,21 +420,6 @@
     // require spaces around operators
     "space-infix-ops": [2, { "int32Hint": false }],
 
-    // Require or disallow spaces before/after unary operators (words on by default, nonwords off by default)
-    "space-unary-ops": [
-      2,
-      {
-        "words": true,
-        "nonwords": true,
-        "overrides": {
-          "++": false,
-          "--": false,
-          "+=": false,
-          "-=": false
-        }
-      }
-    ],
-
     // require or disallow a space immediately following the // in a line comment (off by default)
     "spaced-line-comment": 0,
 
