@@ -1,3 +1,5 @@
+const fs = require('fs').promises;
+
 /**
  * REQUEST HELPERS
  */
@@ -41,4 +43,11 @@ const cleanElem = elem => {
   }
 };
 
-module.exports = { cleanText, cleanElem, sleep };
+const writeJSON = async (fileName, obj) => {
+  await fs.writeFile(
+    `./server/output/${fileName}.json`,
+    JSON.stringify(obj, null, 2)
+  );
+};
+
+module.exports = { cleanText, cleanElem, sleep, writeJSON };
