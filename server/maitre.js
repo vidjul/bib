@@ -2,6 +2,7 @@ const _ = require('lodash');
 const axios = require('axios');
 const queryString = require('query-string');
 const cheerio = require('cheerio');
+const iconv = require('iconv-lite');
 
 const { sleep, cleanElem, cleanText } = require('./util');
 
@@ -162,8 +163,13 @@ const parse = data => {
  * @return {Object} restaurant
  */
 module.exports.scrapeRestaurant = async url => {
-  const response = await axios(url);
-  const { data, status } = response;
+  const response = await axios({
+    method: 'GET',
+    url,
+    responseType: 'arraybuffer'
+  });
+  const status = response.status;
+  const data = iconv.decode(response.data, 'ISO-8859-1');
 
   process.stdout.write(`Scraping ${url}...`);
   if (status >= 200 && status < 300) {
@@ -237,7 +243,7 @@ module.exports.get = async () => {
 
     response = await axios.post(SEARCH_URL, queryString.stringify(searchParam));
     data = response.data;
-    status = response.data;
+    status = response.status;
 
     if (status <= 200 && status > 300) {
       return console.error(status);
