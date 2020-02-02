@@ -4,6 +4,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlerousseau.fr",
     "phone": "+33 4 76 14 86 75",
+    "reference": "le-rousseau",
     "address": {
       "street": "3 rue Jean-Jacques-Rousseau",
       "city": "Grenoble",
@@ -29,6 +30,7 @@
     "experience": "Confortable",
     "website": "http://www.les3faisans.fr",
     "phone": "+33 4 74 28 92 57",
+    "reference": "les-3-faisans",
     "address": {
       "street": "330 rue des Auberges",
       "city": "Saint-Savin",
@@ -56,6 +58,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latabledusommelier.com",
     "phone": "+33 5 63 46 20 10",
+    "reference": "la-table-du-sommelier",
     "address": {
       "street": "20 rue Porta",
       "city": "Albi",
@@ -85,6 +88,7 @@
     "experience": "Assez confortable",
     "website": "http://www.au-bouchon-breton.com",
     "phone": "+33 2 99 46 85 95",
+    "reference": "au-bouchon-breton",
     "address": {
       "street": "20 rue du Maréchal-Leclerc",
       "city": "Dinard",
@@ -108,6 +112,7 @@
     "experience": "Confortable",
     "website": "http://www.lesjardinsduleman.com",
     "phone": "+33 4 50 72 80 32",
+    "reference": "les-jardins-du-leman",
     "address": {
       "street": "Grande-Rue",
       "city": "Yvoire",
@@ -135,6 +140,7 @@
     "experience": "Confortable",
     "website": "http://www.lamaisondemarie-laclarte.bzh",
     "phone": "+33 2 96 49 05 96",
+    "reference": "la-maison-de-marie",
     "address": {
       "street": "24 rue Gabriel-Vicaire",
       "city": "Perros-Guirec",
@@ -158,7 +164,9 @@
   {
     "name": "Auberge de la Clue",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 75 28 01 17",
+    "reference": "auberge-de-la-clue",
     "address": {
       "street": "place de l'Église",
       "city": "Plaisians",
@@ -185,6 +193,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-la-recre.com",
     "phone": "+33 4 75 06 08 99",
+    "reference": "la-recre",
     "address": {
       "street": "70 route de Satillieu",
       "city": "Vaudevant",
@@ -208,7 +217,9 @@
   {
     "name": "Le Cèpe",
     "experience": "Assez confortable. Nos établissements de charme.",
+    "website": null,
     "phone": "+33 4 79 22 46 08",
+    "reference": "le-cepe",
     "address": {
       "street": "Immeuble Les Merisiers",
       "city": "Méribel",
@@ -232,7 +243,9 @@
   {
     "name": "Athome",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 33 47 19 61",
+    "reference": "athome",
     "address": {
       "street": "16 rue de la Sienne",
       "city": "Heugueville-sur-Sienne",
@@ -259,7 +272,9 @@
   {
     "name": "So",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 3 80 30 03 85",
+    "reference": "o",
     "address": {
       "street": "15 rueAmiral-Roussin",
       "city": "Dijon",
@@ -285,6 +300,7 @@
     "experience": "Confortable",
     "website": "http://www.table-pouyaud.fr",
     "phone": "+33 5 53 09 53 32",
+    "reference": "la-table-du-pouyaud",
     "address": {
       "street": "57 route de Paris",
       "city": "Champcevinel",
@@ -310,6 +326,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.lescrayeres.com",
     "phone": "+33 3 26 24 90 90",
+    "reference": "le-jardin-les-crayeres",
     "address": {
       "street": "7 avenue du Général-Giraud",
       "city": "Reims",
@@ -339,6 +356,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-brenne.com",
     "phone": "+33 2 47 52 95 05",
+    "reference": "auberge-de-la-brenne",
     "address": {
       "street": "19 rue de la République",
       "city": "Neuillé-le-Lierre",
@@ -367,6 +385,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.pierrejean-restaurant.fr",
     "phone": "+33 3 85 87 08 67",
+    "reference": "pierre--jean",
     "address": {
       "street": "2 rue de la Poste",
       "city": "Chagny",
@@ -391,7 +410,9 @@
   {
     "name": "Racines by Daniel Gallacher",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 56 98 43 08",
+    "reference": "racines-by-daniel-gallacher",
     "address": {
       "street": "59 rue Georges-Bonnac",
       "city": "Bordeaux",
@@ -416,6 +437,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.maison-paillot.com",
     "phone": "+33 3 86 82 82 16",
+    "reference": "les-millesimes",
     "address": {
       "street": "14 place de l'Hôtel-de-Ville",
       "city": "Noyers",
@@ -442,7 +464,9 @@
   {
     "name": "La Baie d'Halong",
     "experience": "Assez confortable. Nos établissements de charme.",
+    "website": null,
     "phone": "+33 3 44 45 39 83",
+    "reference": "la-baie-dhalong",
     "address": {
       "street": "49 rue de la Madeleine",
       "city": "Beauvais",
@@ -467,6 +491,7 @@
     "experience": "Confortable",
     "website": "http://www.laubrieres.com",
     "phone": "+33 4 73 62 26 24",
+    "reference": "auberge-de-la-baraque",
     "address": {
       "street": "2 route de Bordeaux",
       "city": "Orcines",
@@ -496,6 +521,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lericher.com",
     "phone": "+33 9 67 29 18 43",
+    "reference": "richer",
     "address": {
       "street": "2 rue Richer",
       "city": "Paris",
@@ -520,6 +546,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latabledarthur.fr",
     "phone": "+33 3 24 57 05 64",
+    "reference": "la-table-darthur-r",
     "address": {
       "street": "9 rue Pierre Bérégovoy",
       "city": "Charleville-Mézières",
@@ -547,6 +574,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-acropolis.com",
     "phone": "+33 5 65 68 40 07",
+    "reference": "les-jardins-de-lacropolis",
     "address": {
       "street": "rue d'Athènes",
       "city": "à Bourran",
@@ -575,6 +603,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lougolin.com",
     "phone": "+33 4 93 60 14 44",
+    "reference": "lougolin",
     "address": {
       "street": "381 route de Plascassier",
       "city": "Grasse",
@@ -602,6 +631,7 @@
     "experience": "Confortable",
     "website": "http://www.oxygene-hotel.fr",
     "phone": "+33 4 79 09 81 80",
+    "reference": "loxygene",
     "address": {
       "street": "La Charmette",
       "city": "Valmorel",
@@ -630,6 +660,7 @@
     "experience": "Assez confortable",
     "website": "http://www.solange-restaurant.fr",
     "phone": "+33 9 86 37 22 50",
+    "reference": "olange",
     "address": {
       "street": "59 rue d'Isly",
       "city": "Lille",
@@ -655,6 +686,7 @@
     "experience": "Très confortable",
     "website": "http://www.restaurant-lebeauvoir.com",
     "phone": "+33 2 48 65 42 44",
+    "reference": "le-beauvoir",
     "address": {
       "street": "1 avenue Marx-Dormoy",
       "city": "Bourges",
@@ -682,6 +714,7 @@
     "experience": "Assez confortable",
     "website": "http://www.b2k6.fr",
     "phone": "+33 4 73 61 74 71",
+    "reference": "b2k6",
     "address": {
       "street": "6 rue du Caire",
       "city": "Lempdes",
@@ -708,6 +741,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-cancale.com",
     "phone": "+33 2 99 89 60 16",
+    "reference": "lormeau",
     "address": {
       "street": "4 quai Thomas",
       "city": "Cancale",
@@ -736,6 +770,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-tejerina-logis.fr",
     "phone": "+33 4 74 30 40 19",
+    "reference": "tejerina-hotel-de-la-place",
     "address": {
       "street": "51 Place de la Mairie",
       "city": "Polliat",
@@ -763,6 +798,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auxplumes.com",
     "phone": "+33 1 53 90 76 22",
+    "reference": "aux-plumes",
     "address": {
       "street": "45 rue Boulard",
       "city": "Paris",
@@ -786,6 +822,7 @@
     "experience": "Assez confortable",
     "website": "http://www.dzenvies.com",
     "phone": "+33 3 80 50 09 26",
+    "reference": "dzenvies",
     "address": {
       "street": "12 rue Odebert",
       "city": "Dijon",
@@ -812,6 +849,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-le11.fr",
     "phone": "+33 2 40 42 23 28",
+    "reference": "le-11-bistrot-gourmand",
     "address": {
       "street": "11 rue de Verdun",
       "city": "Pontchâteau",
@@ -838,6 +876,7 @@
     "experience": "Confortable",
     "website": "http://www.le-petit-paris.fr",
     "phone": "+33 5 53 28 41 10",
+    "reference": "le-petit-paris",
     "address": {
       "street": "au bourg",
       "city": "Daglan",
@@ -862,6 +901,7 @@
     "experience": "Assez confortable",
     "website": "http://www.les-glycines-dordogne.com",
     "phone": "+33 5 53 06 97 07",
+    "reference": "le-bistro-des-glycines",
     "address": {
       "street": "4 avenue de Laugerie",
       "city": "Les Eyzies-de-Tayac",
@@ -892,6 +932,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latable101.fr",
     "phone": "+33 4 78 60 90 23",
+    "reference": "la-table-101",
     "address": {
       "street": "101 rue Moncey",
       "city": "Lyon",
@@ -919,6 +960,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lilotvert.fr",
     "phone": "+33 3 21 92 01 62",
+    "reference": "lilot-vert",
     "address": {
       "street": "34-36 rue de Lille",
       "city": "Boulogne-sur-Mer",
@@ -943,7 +985,9 @@
   {
     "name": "Côté Toqués",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 70 03 06 97",
+    "reference": "cote-toques",
     "address": {
       "street": "21 rue Hoche",
       "city": "Néris-les-Bains",
@@ -969,6 +1013,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.restaurant-cotemer.fr",
     "phone": "+33 2 99 89 66 08",
+    "reference": "cote-mer",
     "address": {
       "street": "4 rue Ernest-Lamort",
       "city": "Cancale",
@@ -996,6 +1041,7 @@
     "experience": "Assez confortable",
     "website": "http://www.pontdespierres.fr",
     "phone": "+33 4 50 56 36 35",
+    "reference": "lauberge-du-pont-des-pierres",
     "address": {
       "street": "754 rue Paul-de-Vanssay",
       "city": "Montanges",
@@ -1023,6 +1069,7 @@
     "experience": "Assez confortable",
     "website": "http://www.briketenia.com",
     "phone": "+33 5 59 26 51 34",
+    "reference": "briket-bistrot",
     "address": {
       "street": "rue de L'Église",
       "city": "Guéthary",
@@ -1047,7 +1094,9 @@
   {
     "name": "Minami",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 50 45 75 42",
+    "reference": "minami",
     "address": {
       "street": "19 faubourg Sainte-Claire",
       "city": "Annecy",
@@ -1072,6 +1121,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.lemanoirdusphinx.bzh",
     "phone": "+33 2 96 23 25 42",
+    "reference": "le-manoir-du-sphinx",
     "address": {
       "street": "67 chemin de la Messe",
       "city": "Perros-Guirec",
@@ -1099,7 +1149,9 @@
   {
     "name": "Chez John",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 63 57 64 85",
+    "reference": "chez-john",
     "address": {
       "street": "465 route de Gaillac",
       "city": "Ambres",
@@ -1127,6 +1179,7 @@
     "experience": "Confortable",
     "website": "http://www.la-verdoyante.fr",
     "phone": "+33 4 94 56 16 23",
+    "reference": "la-verdoyante",
     "address": {
       "street": "866 chemin vicinal Coste Brigade",
       "city": "Gassin",
@@ -1155,6 +1208,7 @@
     "experience": "Assez confortable",
     "website": "http://www.etsi-paris.fr",
     "phone": "+33 1 71 50 00 80",
+    "reference": "etsi",
     "address": {
       "street": "23 rue Eugène-Carrière",
       "city": "Paris",
@@ -1178,6 +1232,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-le-bellevue.fr",
     "phone": "+33 4 68 39 72 48",
+    "reference": "bellavista",
     "address": {
       "street": "place du Foiral",
       "city": "Prats-de-Mollo-la-Preste",
@@ -1208,6 +1263,7 @@
     "experience": "Assez confortable",
     "website": "http://www.racinerestaurant-lyon.com",
     "phone": "+33 4 26 18 57 15",
+    "reference": "racine",
     "address": {
       "street": "1 rue du Chapeau-Rouge",
       "city": "impasse Charavay",
@@ -1233,6 +1289,7 @@
     "experience": "Confortable",
     "website": "http://www.hoteljulien.com",
     "phone": "+33 3 88 97 30 09",
+    "reference": "julien",
     "address": {
       "street": "Route de Strasbourg",
       "city": "Fouday",
@@ -1263,6 +1320,7 @@
     "experience": "Assez confortable",
     "website": "http://www.maisonbuon.com",
     "phone": "+33 4 86 26 54 16",
+    "reference": "madame-jeanne",
     "address": {
       "street": "84 rue de Grignan",
       "city": "Marseille",
@@ -1292,6 +1350,7 @@
     "experience": "Confortable",
     "website": "http://www.vieilleforge-kb.com",
     "phone": "+33 3 89 47 17 51",
+    "reference": "la-vieille-forge",
     "address": {
       "street": "1 rue des Écoles",
       "city": "Kaysersberg",
@@ -1318,6 +1377,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lebellevue.com",
     "phone": "+33 5 61 76 94 97",
+    "reference": "le-bellevue",
     "address": {
       "street": "1 avenue des Pyrénées",
       "city": "Lacroix-Falgarde",
@@ -1345,6 +1405,7 @@
     "experience": "Confortable",
     "website": "http://www.le-chalet.fr",
     "phone": "+33 5 61 64 24 31",
+    "reference": "le-chalet",
     "address": {
       "street": "4 avenue Durandeau",
       "city": "Ax-les-Thermes",
@@ -1371,7 +1432,9 @@
   {
     "name": "Le Rendez-vous des Gourmets",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 54 46 03 87",
+    "reference": "le-rendez-vous-des-gourmets",
     "address": {
       "street": "20 rue Roger-Brun",
       "city": "Bracieux",
@@ -1401,6 +1464,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.restaurant-cvg.com",
     "phone": "+33 4 90 63 40 11",
+    "reference": "campagne-vignes-et-gourmandises",
     "address": {
       "street": "629 chemin des Terres",
       "city": "Sainte-Cécile-les-Vignes",
@@ -1427,6 +1491,7 @@
     "experience": "Confortable",
     "website": "http://www.maisonkerdies.com",
     "phone": "+33 2 98 72 40 66",
+    "reference": "la-maison-de-kerdies",
     "address": {
       "street": "5 route de Perherel",
       "city": "lieu-dit St-Samson",
@@ -1456,6 +1521,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lantreamis.com",
     "phone": "+33 1 45 67 15 65",
+    "reference": "lantre-amis",
     "address": {
       "street": "9 rue Bouchut",
       "city": "Paris",
@@ -1481,6 +1547,7 @@
     "experience": "Assez confortable",
     "website": "http://www.chapouton.com",
     "phone": "+33 4 75 00 01 01",
+    "reference": "le-bistro-chapouton",
     "address": {
       "street": "200 route de Montélimar",
       "city": "Grignan",
@@ -1512,6 +1579,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-les7.fr",
     "phone": "+33 5 44 40 94 89",
+    "reference": "les-7",
     "address": {
       "street": "32 quai Baluze",
       "city": "Tulle",
@@ -1536,6 +1604,7 @@
     "experience": "Assez confortable",
     "website": "http://www.labottedasperges.com",
     "phone": "+33 2 54 79 50 49",
+    "reference": "la-botte-dasperges",
     "address": {
       "street": "15 Rue Pierre-Henri Mauger",
       "city": "Contres",
@@ -1558,7 +1627,9 @@
   {
     "name": "Cokotte",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 5 45 95 15 19",
+    "reference": "cokotte",
     "address": {
       "street": "6 rue Trois-Notre-Dame",
       "city": "Angoulême",
@@ -1584,6 +1655,7 @@
     "experience": "Confortable",
     "website": "http://www.lagrilladegourmande.com",
     "phone": "+33 3 26 55 44 22",
+    "reference": "la-grillade-gourmande",
     "address": {
       "street": "16 rue de Reims",
       "city": "Épernay",
@@ -1609,6 +1681,7 @@
     "experience": "Confortable",
     "website": "http://www.labonneauberge80.com",
     "phone": "+33 3 22 95 03 33",
+    "reference": "la-bonne-auberge",
     "address": {
       "street": "63 Route Nationale",
       "city": "Dury",
@@ -1634,6 +1707,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-leconfidentiel.fr",
     "phone": "+33 4 50 44 00 68",
+    "reference": "le-confidentiel",
     "address": {
       "street": "24 route des Moulins",
       "city": "Menthon-Saint-Bernard",
@@ -1654,7 +1728,9 @@
   {
     "name": "Le Petit Verdot du 17ème",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 42 27 47 42",
+    "reference": "le-petit-verdot-du-17eme",
     "address": {
       "street": "9 rue Fourcroy",
       "city": "Paris",
@@ -1678,6 +1754,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantletimbre.com",
     "phone": "+33 1 45 49 10 40",
+    "reference": "le-timbre",
     "address": {
       "street": "3 rue Ste-Beuve",
       "city": "Paris",
@@ -1701,6 +1778,7 @@
     "experience": "Assez confortable",
     "website": "http://www.hotelaigledor.com",
     "phone": "+33 3 89 76 89 90",
+    "reference": "lao---laigle-dor",
     "address": {
       "street": "5 rue Principale",
       "city": "Rimbach-près-Guebwiller",
@@ -1730,6 +1808,7 @@
     "experience": "Confortable",
     "website": "http://www.logesaymeric.com",
     "phone": "+33 4 68 96 08 72",
+    "reference": "les-loges-du-jardin-daymeric",
     "address": {
       "street": "7 rue du Canigou",
       "city": "Clara",
@@ -1756,6 +1835,7 @@
     "experience": "Assez confortable",
     "website": "http://www.pascal-poulain.com",
     "phone": "+33 4 90 62 37 91",
+    "reference": "le-6-a-table",
     "address": {
       "street": "6 place Nationale",
       "city": "Caromb",
@@ -1784,6 +1864,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.lafermedecupelin.com",
     "phone": "+33 4 50 93 47 30",
+    "reference": "la-ferme-de-cupelin",
     "address": {
       "street": "198 route du Château",
       "city": "Saint-Gervais-les-Bains",
@@ -1811,7 +1892,9 @@
   {
     "name": "Le Denti",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 50 64 21 17",
+    "reference": "le-denti",
     "address": {
       "street": "25 bis avenue de Loverchy",
       "city": "Annecy",
@@ -1839,6 +1922,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantmusee.fr",
     "phone": "+33 3 89 47 24 18",
+    "reference": "restaurant-du-musee",
     "address": {
       "street": "2 rue de la Rochette",
       "city": "Fréland",
@@ -1864,6 +1948,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-petit-st-thomas.com",
     "phone": "+33 2 51 49 05 99",
+    "reference": "le-petit-st-thomas",
     "address": {
       "street": "25 rue de Lattre-de-Tassigny",
       "city": "La Garnache",
@@ -1887,7 +1972,9 @@
   {
     "name": "Les Voiles",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 94 40 39 15",
+    "reference": "les-voiles",
     "address": {
       "street": "101 quai Commandant-le-Prieur",
       "city": "Saint-Raphaël",
@@ -1913,6 +2000,7 @@
     "experience": "Assez confortable",
     "website": "http://www.cabanerestaurant.com",
     "phone": "+33 1 47 25 22 51",
+    "reference": "cabane",
     "address": {
       "street": "8 rue du Docteur-Foucault",
       "city": "Nanterre",
@@ -1940,6 +2028,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-lebrelevenez.fr",
     "phone": "+33 2 56 14 07 91",
+    "reference": "le-brelevenez",
     "address": {
       "street": "1 rue Stang-Ar-Béo",
       "city": "Lannion",
@@ -1964,6 +2053,7 @@
     "experience": "Confortable",
     "website": "http://www.auvieuxmoulin.eu",
     "phone": "+33 3 88 70 17 28",
+    "reference": "au-vieux-moulin",
     "address": {
       "street": "7 rue du Vieux-Moulin",
       "city": "Graufthal",
@@ -1995,6 +2085,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.lechambard.fr",
     "phone": "+33 3 89 47 10 17",
+    "reference": "winstub-du-chambard",
     "address": {
       "street": "9-13 rue du Général-de-Gaulle",
       "city": "Kaysersberg",
@@ -2018,7 +2109,9 @@
   {
     "name": "Les Dilettants",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 93 33 99 59",
+    "reference": "les-dilettants",
     "address": {
       "street": "1193 chemin de Saint-Bernard",
       "city": "Vallauris",
@@ -2042,6 +2135,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-agape-avignon.com",
     "phone": "+33 4 90 85 04 06",
+    "reference": "lagape",
     "address": {
       "street": "21 place des Corps-Saints",
       "city": "Avignon",
@@ -2068,6 +2162,7 @@
     "experience": "Confortable",
     "website": "http://www.au-coq-en-velours.com",
     "phone": "+33 4 76 31 60 04",
+    "reference": "au-coq-en-velours",
     "address": {
       "street": "1800 route de Saint-Genix",
       "city": "Aoste",
@@ -2096,6 +2191,7 @@
     "experience": "Assez confortable",
     "website": "http://www.33cite.com",
     "phone": "+33 4 37 45 45 45",
+    "reference": "33-cite",
     "address": {
       "street": "33 quai Charles-de-Gaulle",
       "city": "Lyon",
@@ -2125,6 +2221,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-graindesel.fr",
     "phone": "+33 3 84 71 97 36",
+    "reference": "grain-de-sel",
     "address": {
       "street": "67 rue Pasteur",
       "city": "Dole",
@@ -2151,6 +2248,7 @@
     "experience": "Confortable",
     "website": "http://www.le-morvan.fr",
     "phone": "+33 3 86 32 29 29",
+    "reference": "le-morvan",
     "address": {
       "street": "6 rue des Écoles",
       "city": "Quarré-les-Tombes",
@@ -2180,6 +2278,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-la-longere.fr",
     "phone": "+33 2 32 60 29 83",
+    "reference": "la-longere",
     "address": {
       "street": "1c rue du Docteur-Couderc",
       "city": "Le Neubourg",
@@ -2206,6 +2305,7 @@
     "experience": "Assez confortable",
     "website": "http://www.alexandrecouillon.com",
     "phone": "+33 2 28 10 68 35",
+    "reference": "la-table-delise",
     "address": {
       "street": "5 rue Marie-Lemonnier",
       "city": "L'Herbaudière",
@@ -2232,6 +2332,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-cheval-blanc.fr",
     "phone": "+33 3 88 09 55 31",
+    "reference": "au-cheval-blanc",
     "address": {
       "street": "11 rue Principale",
       "city": "Niedersteinbach",
@@ -2262,6 +2363,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-lentaise.fr",
     "phone": "+33 4 74 21 55 05",
+    "reference": "auberge-lentaise",
     "address": {
       "street": "Grande-Rue",
       "city": "Lent",
@@ -2287,6 +2389,7 @@
     "experience": "Très confortable",
     "website": "http://www.hotel-riviere-vendee.com",
     "phone": "+33 2 51 52 32 15",
+    "reference": "auberge-de-la-riviere",
     "address": {
       "street": "rue du Port-de-la-Fouarne",
       "city": "Velluire",
@@ -2314,7 +2417,9 @@
   {
     "name": "La Ferme de Villeneuve",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 51 33 41 83",
+    "reference": "la-ferme-de-villeneuve",
     "address": {
       "street": "28 rue du Pré-Etienne",
       "city": "Château-d'Olonne",
@@ -2342,6 +2447,7 @@
     "experience": "Confortable",
     "website": "http://www.hotelnougier.fr",
     "phone": "+33 5 55 63 60 56",
+    "reference": "nougier",
     "address": {
       "street": "2 place de l'Église",
       "city": "Fursac",
@@ -2370,6 +2476,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lartysan.com",
     "phone": "+33 4 66 77 02 45",
+    "reference": "lartysan",
     "address": {
       "street": "35 plan de la Gare",
       "city": "Quissac",
@@ -2395,6 +2502,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lecafedesarts-beaulieu.com",
     "phone": "+33 2 51 98 24 80",
+    "reference": "cafe-des-arts",
     "address": {
       "street": "2 rue de la Poste",
       "city": "Beaulieu-sous-la-Roche",
@@ -2419,8 +2527,12 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlescanailles.fr",
     "phone": "+33 1 43 58 45 45",
+    "reference": "les-canailles-menilmontant",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
@@ -2441,6 +2553,7 @@
     "experience": "Confortable",
     "website": "http://www.auxplaisirsdeshalles.com",
     "phone": "+33 4 66 36 01 02",
+    "reference": "aux-plaisirs-des-halles",
     "address": {
       "street": "4 rue Littré",
       "city": "Nîmes",
@@ -2469,6 +2582,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.hotel-restaurant-la-chaumiere.com",
     "phone": "+33 2 48 58 04 01",
+    "reference": "la-chaumiere",
     "address": {
       "street": "2 rue Paul-Lasnier",
       "city": "Aubigny-sur-Nère",
@@ -2500,6 +2614,7 @@
     "experience": "Confortable",
     "website": "http://www.manoirdhastings.fr",
     "phone": "+33 2 31 44 62 43",
+    "reference": "manoir-hastings",
     "address": {
       "street": "18 avenue de la Côte-de-Nacre",
       "city": "Bénouville",
@@ -2529,6 +2644,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lartgourmand.com",
     "phone": "+33 2 97 32 65 08",
+    "reference": "lart-gourmand",
     "address": {
       "street": "14 place de la Maison des Princes",
       "city": "Pont-Scorff",
@@ -2554,6 +2670,7 @@
     "experience": "Assez confortable",
     "website": "http://www.burestubel.fr",
     "phone": "+33 3 88 20 01 92",
+    "reference": "burestubel",
     "address": {
       "street": "8 rue de Lampertheim",
       "city": "Pfulgriesheim",
@@ -2583,6 +2700,7 @@
     "experience": "Confortable",
     "website": "http://www.levanteaux.com",
     "phone": "+33 5 55 49 01 26",
+    "reference": "le-vanteaux",
     "address": {
       "street": "162 boulevard de Vanteaux",
       "city": "Limoges",
@@ -2611,7 +2729,9 @@
   {
     "name": "Le Clos de la Fontaine",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 96 21 33 63",
+    "reference": "le-clos-de-la-fontaine",
     "address": {
       "street": "9 rue du Général-de-Gaulle",
       "city": "Guingamp",
@@ -2638,6 +2758,7 @@
     "experience": "Assez confortable",
     "website": "http://www.oliveartichaut.com",
     "phone": "+33 4 89 14 97 51",
+    "reference": "olive-et-artichaut",
     "address": {
       "street": "6 rue Ste-Réparate",
       "city": "Nice",
@@ -2663,6 +2784,7 @@
     "experience": "Confortable",
     "website": "http://www.la-chenaie.com",
     "phone": "+33 5 49 57 11 52",
+    "reference": "la-chenaie",
     "address": {
       "street": "rue du Lejat - lieu-dit La Berlanderie",
       "city": "Croutelle",
@@ -2692,6 +2814,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergesaintfiacre.com",
     "phone": "+33 2 54 40 32 78",
+    "reference": "auberge-st-fiacre",
     "address": {
       "street": "5 rue de la Fontaine",
       "city": "Veuil",
@@ -2717,6 +2840,7 @@
     "experience": "Assez confortable",
     "website": "http://www.la-recreation-gourmande.com",
     "phone": "+33 2 48 73 45 36",
+    "reference": "la-recreation-gourmande",
     "address": {
       "street": "3 rue de l'Ancienne-École",
       "city": "Villegenon",
@@ -2744,6 +2868,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.latabledyves.com",
     "phone": "+33 4 94 76 08 44",
+    "reference": "la-table-dyves",
     "address": {
       "street": "1357 route de Fréjus",
       "city": "Fayence",
@@ -2773,6 +2898,7 @@
     "experience": "Confortable",
     "website": "http://www.lamereduval.fr",
     "phone": "+33 2 35 32 30 13",
+    "reference": "auberge-de-la-mere-duval",
     "address": {
       "street": "Place Daniel-Boucour",
       "city": "Val-de-Saâne",
@@ -2799,6 +2925,7 @@
     "experience": "Assez confortable",
     "website": "http://www.chateau-saint-jean.com",
     "phone": "+33 4 70 03 26 57",
+    "reference": "le-bistrot-saint-jean",
     "address": {
       "street": "Avenue Henri-de-la-Tourfondue",
       "city": "Montluçon",
@@ -2827,6 +2954,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantcozna.com",
     "phone": "+33 4 50 65 00 25",
+    "reference": "cozna",
     "address": {
       "street": "22 faubourg Sainte-Claire",
       "city": "Annecy",
@@ -2850,6 +2978,7 @@
     "experience": "Très confortable",
     "website": "http://www.hotel-leviscos.com",
     "phone": "+33 5 62 97 02 28",
+    "reference": "le-viscos",
     "address": {
       "street": "1 rue Lamarque",
       "city": "Saint-Savin",
@@ -2881,6 +3010,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lebistrotdu11.com",
     "phone": "+33 1 75 45 63 70",
+    "reference": "le-bistrot-du-11",
     "address": {
       "street": "10 rue de Satory",
       "city": "Versailles",
@@ -2905,7 +3035,9 @@
   {
     "name": "Le Caillebotte",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 53 20 88 70",
+    "reference": "le-caillebotte",
     "address": {
       "street": "8 rue Hippolyte-Lebas",
       "city": "Paris",
@@ -2930,6 +3062,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.la-ferme-de-victorine.com",
     "phone": "+33 4 79 31 63 46",
+    "reference": "la-ferme-de-victorine",
     "address": {
       "street": "Le Planay",
       "city": "Notre-Dame-de-Bellecombe",
@@ -2954,7 +3087,9 @@
   {
     "name": "Boulevard 45",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 16 65 85 43",
+    "reference": "boulevard-45",
     "address": {
       "street": "45 boulevard de la République",
       "city": "Royan",
@@ -2977,8 +3112,12 @@
     "experience": "Assez confortable",
     "website": "http://www.domaine-colombier.com",
     "phone": "+33 4 75 90 86 86",
+    "reference": "le-bistrot-270",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -3001,8 +3140,12 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.lacloseriedesroses.com",
     "phone": "+33 2 40 98 33 30",
+    "reference": "la-closerie-des-roses",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -3022,7 +3165,9 @@
   {
     "name": "Mimosa",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 9 87 36 49 46",
+    "reference": "mimosa",
     "address": {
       "street": "284 boulevard du Front-de-Mer",
       "city": "Bormes-les-Mimosa",
@@ -3047,6 +3192,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lourdissoir.com",
     "phone": "+33 2 41 58 55 18",
+    "reference": "lourdissoir",
     "address": {
       "street": "40 rue Saint-Bonaventure",
       "city": "Cholet",
@@ -3072,6 +3218,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantessentiel.com",
     "phone": "+33 2 99 14 25 14",
+    "reference": "essentiel",
     "address": {
       "street": "11 rue Armand-Rébillon",
       "city": "Rennes",
@@ -3100,6 +3247,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlenid.wixsite.com/lenidflayosc",
     "phone": "+33 4 94 68 09 96",
+    "reference": "le-nid",
     "address": {
       "street": "37 boulevard Jean-Moulin",
       "city": "Flayosc",
@@ -3125,6 +3273,7 @@
     "experience": "Confortable",
     "website": "http://www.tavernealsacienne-familleguggenbuhl.com",
     "phone": "+33 3 89 27 08 41",
+    "reference": "la-taverne-alsacienne",
     "address": {
       "street": "99 rue de la République",
       "city": "Ingersheim",
@@ -3152,6 +3301,7 @@
     "experience": "Confortable",
     "website": "http://www.cucina-mutualite.com",
     "phone": "+33 1 44 31 54 54",
+    "reference": "cucina",
     "address": {
       "street": "20 rue Saint-Victor",
       "city": "Paris",
@@ -3175,6 +3325,7 @@
     "experience": "Assez confortable",
     "website": "http://www.rabanel.com",
     "phone": "+33 4 90 47 61 13",
+    "reference": "bistro-a-cote",
     "address": {
       "street": "21 rue des Carmes",
       "city": "Arles",
@@ -3200,6 +3351,7 @@
     "experience": "Confortable",
     "website": "http://www.lestacade.fr",
     "phone": "+33 2 40 23 03 77",
+    "reference": "lestacade",
     "address": {
       "street": "4 quai du Lénigo",
       "city": "Le Croisic",
@@ -3221,7 +3373,9 @@
   {
     "name": "Le Flaveur",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 98 60 43 47",
+    "reference": "le-flaveur",
     "address": {
       "street": "4 rue Duquesne",
       "city": "Concarneau",
@@ -3244,7 +3398,9 @@
   {
     "name": "Pho Tai",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 45 85 97 36",
+    "reference": "pho-tai",
     "address": {
       "street": "13 rue Philibert-Lucot",
       "city": "Paris",
@@ -3269,6 +3425,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-sarthe.fr",
     "phone": "+33 2 43 89 95 50",
+    "reference": "le-saint-jacques",
     "address": {
       "street": "Place du Monument",
       "city": "Thorigné-sur-Dué",
@@ -3297,6 +3454,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-grand-saint-benoit.com",
     "phone": "+33 2 38 35 11 92",
+    "reference": "le-grand-st-benoit",
     "address": {
       "street": "7 place St-André",
       "city": "Saint-Benoît-sur-Loire",
@@ -3325,6 +3483,7 @@
     "experience": "Confortable",
     "website": "http://www.latablebagesienne.com",
     "phone": "+33 3 85 30 54 22",
+    "reference": "la-table-bagesienne",
     "address": {
       "street": "19 Grande-Rue",
       "city": "Bâgé-le-Châtel",
@@ -3352,6 +3511,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-3j.fr",
     "phone": "+33 2 33 73 41 03",
+    "reference": "auberge-des-3-j",
     "address": {
       "street": "1 place du Docteur-Gireaux",
       "city": "Nocé",
@@ -3375,6 +3535,7 @@
     "experience": "Confortable",
     "website": "http://www.latabledantan.fr",
     "phone": "+33 1 60 15 71 53",
+    "reference": "la-table-dantan",
     "address": {
       "street": "38 avenue de la Grande-Charmille-du-Parc",
       "city": "Sainte-Geneviève-des-Bois",
@@ -3402,6 +3563,7 @@
     "experience": "Assez confortable",
     "website": "http://www.itacoa.paris",
     "phone": "+33 9 50 48 35 78",
+    "reference": "itacoa",
     "address": {
       "street": "185 rue St-Denis",
       "city": "Paris",
@@ -3424,6 +3586,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrotters.com",
     "phone": "+33 1 45 45 58 59",
+    "reference": "bistrotters",
     "address": {
       "street": "9 rue Decrès",
       "city": "Paris",
@@ -3449,6 +3612,7 @@
     "experience": "Confortable",
     "website": "http://www.auchapeaurouge.fr",
     "phone": "+33 2 47 98 08 08",
+    "reference": "au-chapeau-rouge",
     "address": {
       "street": "49 place du Général-de-Gaulle",
       "city": "Chinon",
@@ -3475,6 +3639,7 @@
     "experience": "Assez confortable",
     "website": "http://www.tablederomain.kazeo.com",
     "phone": "+33 9 67 35 23 60",
+    "reference": "la-table-de-romain",
     "address": {
       "street": "1 rue Gaston-Robbe",
       "city": "Renescure",
@@ -3499,6 +3664,7 @@
     "experience": "Confortable",
     "website": "http://www.relais-abbaye.fr",
     "phone": "+33 4 77 60 00 88",
+    "reference": "relais-de-labbaye",
     "address": {
       "street": "415 route du Beaujolais",
       "city": "Charlieu",
@@ -3529,7 +3695,9 @@
   {
     "name": "Le Bistrot de Guillaume",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 43 51 23 82",
+    "reference": "le-bistrot-de-guillaume",
     "address": {
       "street": "13 rue de Pont",
       "city": "Moulins",
@@ -3553,7 +3721,9 @@
   {
     "name": "Ô Saveurs",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 31 90 13 14",
+    "reference": "o-saveurs",
     "address": {
       "street": "38 rue Georges-Clemenceau",
       "city": "Falaise",
@@ -3581,6 +3751,7 @@
     "experience": "Assez confortable",
     "website": "http://www.sainteutrope.com",
     "phone": "+33 4 73 34 30 41",
+    "reference": "le-saint-eutrope",
     "address": {
       "street": "4 rue St-Eutrope",
       "city": "Clermont-Ferrand",
@@ -3606,6 +3777,7 @@
     "experience": "Assez confortable",
     "website": "http://www.etang-du-moulin.com",
     "phone": "+33 3 81 68 92 78",
+    "reference": "le-bistrot",
     "address": {
       "street": "5 chemin de l'Étang-du-Moulin",
       "city": "Bonnétage",
@@ -3632,6 +3804,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lacourderemi.com",
     "phone": "+33 3 21 03 33 33",
+    "reference": "la-cour-de-remi",
     "address": {
       "street": "1 rue Baillet",
       "city": "Bermicourt",
@@ -3661,6 +3834,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-labartavelle.fr",
     "phone": "+33 6 19 25 70 13",
+    "reference": "la-bartavelle",
     "address": {
       "street": "24 rue de la République",
       "city": "Argelès-sur-Mer",
@@ -3683,7 +3857,9 @@
   {
     "name": "Sauf Imprévu",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 78 52 16 35",
+    "reference": "auf-imprevu",
     "address": {
       "street": "40 rue Pierre-Corneille",
       "city": "Lyon",
@@ -3706,7 +3882,9 @@
   {
     "name": "L'Artimon",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 51 74 61 60",
+    "reference": "lartimon",
     "address": {
       "street": "17 rue Jean-du-Plessis",
       "city": "La Bernerie-en-Retz",
@@ -3731,6 +3909,7 @@
     "experience": "Confortable",
     "website": "http://www.auboutdelarue.com",
     "phone": "+33 2 33 65 31 53",
+    "reference": "au-bout-de-la-rue",
     "address": {
       "street": "60 rue de la Gare",
       "city": "Flers",
@@ -3756,6 +3935,7 @@
     "experience": "Confortable",
     "website": "http://www.jeux2gouts.fr",
     "phone": "+33 2 54 27 66 28",
+    "reference": "jeux-2-gouts",
     "address": {
       "street": "40 rue Grande",
       "city": "Châteauroux",
@@ -3784,6 +3964,7 @@
     "experience": "Confortable",
     "website": "http://www.latoqueblanche.fr",
     "phone": "+33 3 83 30 17 20",
+    "reference": "la-toq",
     "address": {
       "street": "1 rue Monseigneur-Trouillet",
       "city": "Nancy",
@@ -3809,6 +3990,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lenviedujour.com",
     "phone": "+33 1 42 26 01 02",
+    "reference": "lenvie-du-jour",
     "address": {
       "street": "106 rue Nollet",
       "city": "Paris",
@@ -3834,6 +4016,7 @@
     "experience": "Confortable",
     "website": "http://www.bellovisto.eu",
     "phone": "+33 4 94 56 17 30",
+    "reference": "bello-visto",
     "address": {
       "street": "place des Barrys",
       "city": "Gassin",
@@ -3861,8 +4044,12 @@
     "experience": "Assez confortable",
     "website": "http://www.maisonchabran.com",
     "phone": "+33 4 75 84 60 09",
+    "reference": "maison-chabran---espace-gourmand",
     "address": {
-      "street": "2 Offres"
+      "street": "2 Offres",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -3884,6 +4071,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-laltevic.fr",
     "phone": "+33 3 89 78 83 56",
+    "reference": "laltevic",
     "address": {
       "street": "4 rue du Wiggensbach",
       "city": "Hattstatt",
@@ -3912,6 +4100,7 @@
     "experience": "Assez confortable",
     "website": "http://www.maisongambert.com",
     "phone": "+33 4 75 09 19 85",
+    "reference": "maison-gambert",
     "address": {
       "street": "2 rue de la Petite-Pirelle",
       "city": "Tain-l'Hermitage",
@@ -3941,6 +4130,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lefaitout.net",
     "phone": "+33 4 67 24 16 99",
+    "reference": "le-faitout",
     "address": {
       "street": "1 place du Pont",
       "city": "Berlou",
@@ -3965,6 +4155,7 @@
     "experience": "Assez confortable",
     "website": "http://www.ledomainedebaulieu.com",
     "phone": "+33 5 62 59 97 38",
+    "reference": "domaine-de-baulieu",
     "address": {
       "street": "822 chemin de Lussan",
       "city": "Auch",
@@ -3993,6 +4184,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-ady.com",
     "phone": "+33 5 65 72 70 24",
+    "reference": "auberge-de-lady",
     "address": {
       "street": "1 avenue du Pont-de-Malakoff",
       "city": "Valady",
@@ -4020,6 +4212,7 @@
     "experience": "Confortable",
     "website": "http://www.les-coloquintes.com",
     "phone": "+33 4 75 93 58 33",
+    "reference": "les-coloquintes",
     "address": {
       "street": "Quai de l'Ardèche",
       "city": "Aubenas",
@@ -4045,6 +4238,7 @@
     "experience": "Confortable",
     "website": "http://www.laptitecour.com",
     "phone": "+33 4 94 88 08 05",
+    "reference": "la-ptite-cour",
     "address": {
       "street": "6 rue Barthélemy-de-Don",
       "city": "Sanary-sur-Mer",
@@ -4070,6 +4264,7 @@
     "experience": "Confortable",
     "website": "http://www.labergeriearagon.com",
     "phone": "+33 4 68 26 10 65",
+    "reference": "la-bergerie",
     "address": {
       "street": "Allée Pech Marie",
       "city": "Aragon",
@@ -4100,6 +4295,7 @@
     "experience": "Assez confortable",
     "website": "http://www.surlepont-pontaven.fr",
     "phone": "+33 2 98 06 16 16",
+    "reference": "ur-le-pont-",
     "address": {
       "street": "11 place Paul-Gauguin",
       "city": "Pont-Aven",
@@ -4125,6 +4321,7 @@
     "experience": "Assez confortable",
     "website": "http://www.esttia.net",
     "phone": "+33 1 72 60 43 63",
+    "reference": "esttia",
     "address": {
       "street": "11 rue de la Grande-Chaumière",
       "city": "Paris",
@@ -4150,6 +4347,7 @@
     "experience": "Assez confortable",
     "website": "http://www.mandoobar.fr",
     "phone": "+33 1 55 06 08 53",
+    "reference": "mandoobar",
     "address": {
       "street": "7 rue d'Edimbourg",
       "city": "Paris",
@@ -4173,6 +4371,7 @@
     "experience": "Confortable",
     "website": "http://www.latoupine.fr",
     "phone": "+33 5 55 23 71 58",
+    "reference": "la-toupine",
     "address": {
       "street": "27 avenue Pasteur",
       "city": "Brive-la-Gaillarde",
@@ -4199,6 +4398,7 @@
     "experience": "Confortable",
     "website": "http://www.france-fuchsias.com",
     "phone": "+33 2 33 54 40 41",
+    "reference": "france-et-fuchsias",
     "address": {
       "street": "20 rue du Maréchal-Foch",
       "city": "Saint-Vaast-la-Hougue",
@@ -4229,6 +4429,7 @@
     "experience": "Confortable",
     "website": "http://www.hotelstclementcantal.com",
     "phone": "+33 4 71 47 51 71",
+    "reference": "hostellerie-saint-clement",
     "address": {
       "street": "Col de Curebourse",
       "city": "Saint-Clément",
@@ -4257,6 +4458,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-linstant.fr",
     "phone": "+33 5 61 48 25 24",
+    "reference": "linstant",
     "address": {
       "street": "13/14 chemin du Logis-Vieux",
       "city": "Montrabé",
@@ -4283,6 +4485,7 @@
     "experience": "Assez confortable",
     "website": "http://www.cambusier.fr",
     "phone": "+33 2 99 20 18 42",
+    "reference": "le-cambusier",
     "address": {
       "street": "6 rue des Cordiers",
       "city": "Saint-Malo",
@@ -4306,6 +4509,7 @@
     "experience": "Assez confortable",
     "website": "http://www.clamato-charonne.fr",
     "phone": "+33 1 43 72 74 53",
+    "reference": "clamato",
     "address": {
       "street": "80 rue de Charonne",
       "city": "Paris",
@@ -4330,6 +4534,7 @@
     "experience": "Confortable",
     "website": "http://www.auliondor-rosenau.com",
     "phone": "+33 3 89 68 21 97",
+    "reference": "au-lion-dor---chez-theo",
     "address": {
       "street": "5 rue Village-Neuf",
       "city": "Rosenau",
@@ -4361,6 +4566,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lamaisondacote.fr",
     "phone": "+33 2 54 20 62 30",
+    "reference": "cote-bistro",
     "address": {
       "street": "25 rue de Chambord",
       "city": "Montlivault",
@@ -4386,6 +4592,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-greuze.fr",
     "phone": "+33 3 85 51 13 52",
+    "reference": "le-bouchon-bourguignon",
     "address": {
       "street": "1 rue Albert-Thibaudet",
       "city": "Tournus",
@@ -4410,7 +4617,9 @@
   {
     "name": "Le Villaret",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 43 57 75 56",
+    "reference": "le-villaret",
     "address": {
       "street": "13 rue Ternaux",
       "city": "Paris",
@@ -4435,7 +4644,9 @@
   {
     "name": "Gabbro",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 3 20 39 05 51",
+    "reference": "gabbro",
     "address": {
       "street": "55 Rue Saint-André",
       "city": "Lille",
@@ -4460,6 +4671,7 @@
     "experience": "Assez confortable",
     "website": "http://www.epicesettout.fr",
     "phone": "+33 4 66 52 43 79",
+    "reference": "epices-et-tout",
     "address": {
       "street": "15 avenue Carnot",
       "city": "Alès",
@@ -4486,6 +4698,7 @@
     "experience": "Assez confortable",
     "website": "http://www.unetableadeux.fr",
     "phone": "+33 5 61 25 03 51",
+    "reference": "une-table-a-deux",
     "address": {
       "street": "10 rue de la Pleau",
       "city": "Toulouse",
@@ -4509,6 +4722,7 @@
     "experience": "Confortable",
     "website": "http://www.gavrinis.com",
     "phone": "+33 2 97 57 00 82",
+    "reference": "le-gavrinis",
     "address": {
       "street": "1 rue de l'Ile-Gavrinis",
       "city": "Baden",
@@ -4536,6 +4750,7 @@
     "experience": "Confortable",
     "website": "http://www.fermesaintsebastien.fr",
     "phone": "+33 4 70 56 88 83",
+    "reference": "la-ferme-saint-sebastien",
     "address": {
       "street": "chemin de Bourion",
       "city": "Charroux",
@@ -4565,6 +4780,7 @@
     "experience": "Assez confortable",
     "website": "http://www.jmcazes.com/fr/cafe-lavinal",
     "phone": "+33 5 57 75 00 09",
+    "reference": "cafe-lavinal",
     "address": {
       "street": "place Desquet",
       "city": "Pauillac",
@@ -4592,6 +4808,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lembellie.com",
     "phone": "+33 3 85 50 81 81",
+    "reference": "lembellie",
     "address": {
       "street": "le Bourg",
       "city": "Sainte-Cécile",
@@ -4618,6 +4835,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedelile.fr",
     "phone": "+33 2 47 58 51 07",
+    "reference": "auberge-de-lile",
     "address": {
       "street": "3 place Bouchard",
       "city": "L'Île-Bouchard",
@@ -4644,6 +4862,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubonpichet.fr",
     "phone": "+33 3 88 82 96 65",
+    "reference": "au-bon-pichet",
     "address": {
       "street": "10 place du Marché-aux-Choux",
       "city": "Sélestat",
@@ -4668,6 +4887,7 @@
     "experience": "Assez confortable",
     "website": "http://chevaldorparis.com",
     "phone": "+33 9 54 12 21 77",
+    "reference": "cheval-dor",
     "address": {
       "street": "21 rue de la Villette",
       "city": "Paris",
@@ -4692,6 +4912,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedelabbayehambye.com",
     "phone": "+33 2 33 61 42 19",
+    "reference": "auberge-de-labbaye",
     "address": {
       "street": "5 route de l'Abbaye",
       "city": "Hambye",
@@ -4718,6 +4939,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.latable.fr",
     "phone": "+33 4 94 70 55 95",
+    "reference": "la-table",
     "address": {
       "street": "1 traverse de Jas",
       "city": "Les Ribas",
@@ -4743,6 +4965,7 @@
     "experience": "Assez confortable",
     "website": "http://www.hibiscus-restaurant.com",
     "phone": "+33 2 38 72 74 11",
+    "reference": "lhibiscus",
     "address": {
       "street": "175 rue de Bourgogne",
       "city": "Orléans",
@@ -4765,7 +4988,9 @@
   {
     "name": "L'Atelier Bistrot",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 97 51 37 81",
+    "reference": "latelier-bistrot",
     "address": {
       "street": "24 rue Duchelas",
       "city": "Langoëlan",
@@ -4791,6 +5016,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.le-buffet.com",
     "phone": "+33 3 21 25 82 40",
+    "reference": "le-buffet",
     "address": {
       "street": "22 rue de la Gare",
       "city": "Isbergues",
@@ -4820,6 +5046,7 @@
     "experience": "Confortable",
     "website": "http://www.lelisita.com",
     "phone": "+33 4 66 67 29 15",
+    "reference": "le-lisita",
     "address": {
       "street": "2 boulevard des Arènes",
       "city": "Nîmes",
@@ -4847,6 +5074,7 @@
     "experience": "Assez confortable",
     "website": "http://www.depotlegalparis.com",
     "phone": "+33 1 42 61 67 07",
+    "reference": "depot-legal",
     "address": {
       "street": "6 rue des Petits-Champs",
       "city": "Paris",
@@ -4875,6 +5103,7 @@
     "experience": "Confortable",
     "website": "http://www.o-en-couleur-oucques.com",
     "phone": "+33 2 54 23 20 41",
+    "reference": "o-en-couleur",
     "address": {
       "street": "9 rue de Beaugency",
       "city": "Oucques",
@@ -4904,6 +5133,7 @@
     "experience": "Assez confortable",
     "website": "http://www.comptoir-des-voyageurs.fr",
     "phone": "+33 2 98 91 70 74",
+    "reference": "comptoir-des-voyageurs",
     "address": {
       "street": "Place de l'Église",
       "city": "Locronan",
@@ -4929,6 +5159,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlesreflets.fr",
     "phone": "+33 9 83 25 83 71",
+    "reference": "les-reflets",
     "address": {
       "street": "227 rue Roger-Salengro",
       "city": "La Roche-sur-Yon",
@@ -4953,6 +5184,7 @@
     "experience": "Confortable",
     "website": "http://www.la-table-dauzeville.fr",
     "phone": "+33 5 61 13 42 30",
+    "reference": "la-table-dauzeville",
     "address": {
       "street": "35 chemin de l'Église",
       "city": "Auzeville-Tolosane",
@@ -4977,7 +5209,9 @@
   {
     "name": "Le Mangevins",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 75 08 00 76",
+    "reference": "le-mangevins",
     "address": {
       "street": "7 rue des Herbes",
       "city": "Tain-l'Hermitage",
@@ -5006,6 +5240,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aromaticrestaurant.fr",
     "phone": "+33 4 78 23 73 61",
+    "reference": "aromatic",
     "address": {
       "street": "15 rue du Chariot-d'Or",
       "city": "Lyon",
@@ -5032,6 +5267,7 @@
     "experience": "Confortable",
     "website": "http://www.le-bourbon.com",
     "phone": "+33 4 71 59 06 54",
+    "reference": "le-bourbon",
     "address": {
       "street": "5 place de la Victoire",
       "city": "Yssingeaux",
@@ -5059,6 +5295,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-oceanide.fr",
     "phone": "+33 2 40 20 32 28",
+    "reference": "loceanide",
     "address": {
       "street": "2 rue Paul-Bellamy",
       "city": "Nantes",
@@ -5082,7 +5319,9 @@
   {
     "name": "Pica Pica",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 48 11 03 40",
+    "reference": "pica-pica",
     "address": {
       "street": "20 boulevard Jean-Jaurès",
       "city": "Béziers",
@@ -5108,6 +5347,7 @@
     "experience": "Confortable",
     "website": "http://www.lamaisontourangelle.com",
     "phone": "+33 2 47 50 30 05",
+    "reference": "la-maison-tourangelle",
     "address": {
       "street": "9 route des Grottes-Pétrifiantes",
       "city": "Savonnières",
@@ -5136,6 +5376,7 @@
     "experience": "Assez confortable",
     "website": "http://restaurantlaquincaillerie.eatbu.com",
     "phone": "+33 5 46 70 42 41",
+    "reference": "la-quincaillerie",
     "address": {
       "street": "30 Rue de l'Hôtel de Ville",
       "city": "Montendre",
@@ -5163,6 +5404,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrourbain.com",
     "phone": "+33 9 83 22 42 61",
+    "reference": "le-bistro-urbain",
     "address": {
       "street": "15 boulevard Ledru-Rollin",
       "city": "Montpellier",
@@ -5185,6 +5427,7 @@
     "experience": "Assez confortable",
     "website": "http://lebrezoune.fr",
     "phone": "+33 2 96 01 59 37",
+    "reference": "le-brezoune",
     "address": {
       "street": "15 rue de la Poste",
       "city": "Ploufragan",
@@ -5211,6 +5454,7 @@
     "experience": "Confortable",
     "website": "http://www.lejardindesbrouches.fr",
     "phone": "+33 5 62 91 07 95",
+    "reference": "le-jardin-des-brouches",
     "address": {
       "street": "1 boulevard de l'Hypéron",
       "city": "Bagnères-de-Bigorre",
@@ -5238,6 +5482,7 @@
     "experience": "Confortable",
     "website": "http://www.le-carillon.com",
     "phone": "+33 3 27 61 80 21",
+    "reference": "le-carillon",
     "address": {
       "street": "1 rue Roger-Salengro",
       "city": "Liessies",
@@ -5262,6 +5507,7 @@
     "experience": "Assez confortable",
     "website": "http://www.moulindelagorce.com",
     "phone": "+33 5 55 00 22 03",
+    "reference": "la-table-du-moulin",
     "address": {
       "street": "3 Rue du 8 Mai 1945",
       "city": "La Roche-l'Abeille",
@@ -5288,6 +5534,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.restaurantticoz.com",
     "phone": "+33 2 98 94 50 02",
+    "reference": "auberge-de-ti-coz",
     "address": {
       "street": "4 Hent-Koz",
       "city": "Ty-Sanquer",
@@ -5318,6 +5565,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-tilleuls.fr",
     "phone": "+33 3 80 35 45 22",
+    "reference": "auberge-des-tilleuls",
     "address": {
       "street": "8 place de l'Église",
       "city": "Messigny-et-Vantoux",
@@ -5344,6 +5592,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aucoindeshalles.com",
     "phone": "+33 2 47 96 37 25",
+    "reference": "au-coin-des-halles",
     "address": {
       "street": "9 rue Gambetta",
       "city": "Langeais",
@@ -5368,6 +5617,7 @@
     "experience": "Assez confortable",
     "website": "http://www.sergevieira.com",
     "phone": "+33 4 71 60 10 23",
+    "reference": "odade",
     "address": {
       "street": "21 avenue du Président-Georges-Pompidou",
       "city": "Chaudes-Aigues",
@@ -5396,6 +5646,7 @@
     "experience": "Assez confortable",
     "website": "http://www.leclosmonteils.fr",
     "phone": "+33 5 63 93 03 51",
+    "reference": "le-clos-monteils",
     "address": {
       "street": "7 chemin du Moulin",
       "city": "Monteils",
@@ -5420,7 +5671,9 @@
   {
     "name": "Danton",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 37 48 00 10",
+    "reference": "danton",
     "address": {
       "street": "8 rue Danton",
       "city": "Lyon",
@@ -5445,6 +5698,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latabledinomoto.fr",
     "phone": "+33 9 74 56 17 63",
+    "reference": "la-table-dinomoto",
     "address": {
       "street": "85 rue Nationale",
       "city": "Saint-André-de-Cubzac",
@@ -5470,6 +5724,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-parc-carola.com",
     "phone": "+33 3 89 86 05 75",
+    "reference": "auberge-du-parc-carola",
     "address": {
       "street": "48 route de Bergheim",
       "city": "Ribeauvillé",
@@ -5497,6 +5752,7 @@
     "experience": "Assez confortable",
     "website": "http://www.loseille-bourse.com",
     "phone": "+33 1 45 08 13 76",
+    "reference": "loseille",
     "address": {
       "street": "3 rue St-Augustin",
       "city": "Paris",
@@ -5523,6 +5779,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lesplaisirs-peillon.com",
     "phone": "+33 4 93 87 06 01",
+    "reference": "les-plaisirs",
     "address": {
       "street": "2 rue Puada dau Gourguet",
       "city": "Peillon",
@@ -5546,6 +5803,7 @@
     "experience": "Assez confortable",
     "website": "http://www.chateau-hotel-perigord.com",
     "phone": "+33 5 53 03 53 59",
+    "reference": "la-verriere",
     "address": {
       "street": "15 avenue des Reynats",
       "city": "Chancelade",
@@ -5573,6 +5831,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-de-port-vallieres.fr",
     "phone": "+33 2 47 42 24 04",
+    "reference": "auberge-de-port-vallieres",
     "address": {
       "street": "195 quai des Bateliers",
       "city": "Fondettes",
@@ -5600,6 +5859,7 @@
     "experience": "Assez confortable",
     "website": "http://www.chateauberne.com",
     "phone": "+33 4 94 60 43 51",
+    "reference": "le-bistrot",
     "address": {
       "street": "chemin des Imberts",
       "city": "route de Salernes",
@@ -5628,6 +5888,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auberge-saintlaurent.fr",
     "phone": "+33 9 83 37 16 80",
+    "reference": "winstub-a-cote",
     "address": {
       "street": "2 rue Rogg-Haas",
       "city": "Sierentz",
@@ -5655,6 +5916,7 @@
     "experience": "Confortable",
     "website": "http://www.voyagesdessens.com",
     "phone": "+33 4 74 51 39 94",
+    "reference": "voyages-des-sens",
     "address": {
       "street": "33 rue Principale",
       "city": "Treffort",
@@ -5678,6 +5940,7 @@
     "experience": "Confortable",
     "website": "http://www.osaveurs-restaurant.com",
     "phone": "+33 2 96 94 05 34",
+    "reference": "o-saveurs",
     "address": {
       "street": "10 rue Jules-Ferry",
       "city": "Saint-Brieuc",
@@ -5703,6 +5966,7 @@
     "experience": "Assez confortable",
     "website": "http://www.les-flots.fr",
     "phone": "+33 5 46 56 23 42",
+    "reference": "les-flots",
     "address": {
       "street": "52 boulevard de la Mer",
       "city": "Châtelaillon-Plage",
@@ -5733,6 +5997,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lachaizegourmande.com",
     "phone": "+33 2 51 22 75 33",
+    "reference": "la-chaize-gourmande",
     "address": {
       "street": "2 place du Marché",
       "city": "La Chaize-Giraud",
@@ -5761,6 +6026,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantkokoro.blogspot.fr",
     "phone": "+33 1 44 07 13 29",
+    "reference": "kokoro",
     "address": {
       "street": "2 rue des Boulangers",
       "city": "Paris",
@@ -5786,6 +6052,7 @@
     "experience": "Assez confortable",
     "website": "http://www.atelier-edmond.com",
     "phone": "+33 4 79 00 21 42",
+    "reference": "bistrot-gourmand",
     "address": {
       "street": "Le Fornet",
       "city": "Val-d'Isère",
@@ -5809,6 +6076,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-fleurdesel.fr",
     "phone": "+33 4 79 37 49 98",
+    "reference": "la-fleur-de-sel",
     "address": {
       "street": "15 route du Portelin",
       "city": "Cevins",
@@ -5836,6 +6104,7 @@
     "experience": "Très confortable",
     "website": "http://www.lejardinhaguenau.fr",
     "phone": "+33 3 88 93 29 39",
+    "reference": "le-jardin",
     "address": {
       "street": "16 rue de la Redoute",
       "city": "Haguenau",
@@ -5863,6 +6132,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrotconstant.com",
     "phone": "+33 5 63 24 63 02",
+    "reference": "bistrot-constant",
     "address": {
       "street": "25 rue de l'Usine",
       "city": "Montech",
@@ -5891,6 +6161,7 @@
     "experience": "Confortable",
     "website": "http://www.francois2.com",
     "phone": "+33 2 40 38 32 32",
+    "reference": "le-francois-ii",
     "address": {
       "street": "5 place Aristide-Briand",
       "city": "Couëron",
@@ -5919,6 +6190,7 @@
     "experience": "Assez confortable",
     "website": "http://www.esperluete-arles.com",
     "phone": "+33 4 90 93 10 43",
+    "reference": "esperluete",
     "address": {
       "street": "6 rue Favorin",
       "city": "Arles",
@@ -5942,6 +6214,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlacolombe.com",
     "phone": "+33 4 94 35 35 16",
+    "reference": "la-colombe",
     "address": {
       "street": "663 route de Toulon",
       "city": "Hyères",
@@ -5968,7 +6241,9 @@
   {
     "name": "L'Escargot",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 41 51 20 88",
+    "reference": "lescargot",
     "address": {
       "street": "30 rue du Maréchal-Leclerc",
       "city": "Saumur",
@@ -5995,6 +6270,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latoileabeurre.com",
     "phone": "+33 2 40 98 89 64",
+    "reference": "la-toile-a-beurre",
     "address": {
       "street": "82 rue Saint-Pierre",
       "city": "Ancenis",
@@ -6022,6 +6298,7 @@
     "experience": "Assez confortable",
     "website": "http://www.ttotta.fr",
     "phone": "+33 5 59 47 03 55",
+    "reference": "ttotta",
     "address": {
       "street": "Espace Ibarrondoan",
       "city": "Saint-Pée-sur-Nivelle",
@@ -6049,6 +6326,7 @@
     "experience": "Assez confortable",
     "website": "http://www.iida-ya.fr",
     "phone": "+33 3 84 70 98 73",
+    "reference": "iida-ya",
     "address": {
       "street": "18 rue Arney",
       "city": "Dole",
@@ -6076,6 +6354,7 @@
     "experience": "Assez confortable",
     "website": "http://www.vioben.com",
     "phone": "+33 2 98 04 96 77",
+    "reference": "le-vioben",
     "address": {
       "street": "30 Ar Palud",
       "city": "Landéda",
@@ -6101,6 +6380,7 @@
     "experience": "Confortable",
     "website": "http://www.hoteldelaforet-senonches.com",
     "phone": "+33 2 37 37 78 50",
+    "reference": "la-foret",
     "address": {
       "street": "22 rue de Verdun",
       "city": "Senonches",
@@ -6128,6 +6408,7 @@
     "experience": "Confortable",
     "website": "http://www.legrandhotelsete.com",
     "phone": "+33 4 67 74 71 91",
+    "reference": "quai-17",
     "address": {
       "street": "17 quai Maréchal-de-Lattre-de-Tassigny",
       "city": "Sète",
@@ -6154,6 +6435,7 @@
     "experience": "Confortable",
     "website": "http://lacroixdor.free.fr",
     "phone": "+33 2 33 83 80 33",
+    "reference": "la-croix-dor",
     "address": {
       "street": "6 rue de la Herse",
       "city": "Le Pin-la-Garenne",
@@ -6180,6 +6462,7 @@
     "experience": "Confortable",
     "website": "http://www.aubonaccueilparis.com",
     "phone": "+33 1 47 05 46 11",
+    "reference": "au-bon-accueil",
     "address": {
       "street": "14 rue de Monttessuy",
       "city": "Paris",
@@ -6205,6 +6488,7 @@
     "experience": "Confortable",
     "website": "http://www.lemoulinfouret.fr",
     "phone": "+33 2 32 43 19 95",
+    "reference": "le-moulin-fouret",
     "address": {
       "street": "2 route du Moulin-Fouret",
       "city": "à Saint-Aubin-le-Vertueux",
@@ -6232,6 +6516,7 @@
     "experience": "Assez confortable",
     "website": "http://www.hotel4saisons.com",
     "phone": "+33 3 89 82 28 61",
+    "reference": "les-quatre-saisons",
     "address": {
       "street": "3 route du Frenz",
       "city": "Le Frenz",
@@ -6260,6 +6545,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-semanteme-lyon.fr",
     "phone": "+33 6 46 58 36 90",
+    "reference": "emanteme",
     "address": {
       "street": "73 rue Masséna",
       "city": "Lyon",
@@ -6283,6 +6569,7 @@
     "experience": "Confortable",
     "website": "http://www.lecapucingourmand.com",
     "phone": "+33 4 50 34 03 50",
+    "reference": "le-capucin-gourmand",
     "address": {
       "street": "1520 route de Genève",
       "city": "Vougy",
@@ -6311,6 +6598,7 @@
     "experience": "Confortable",
     "website": "http://www.hoteldefrance-montmarault.com",
     "phone": "+33 4 70 07 60 26",
+    "reference": "hotel-de-france",
     "address": {
       "street": "1 rue Marx-Dormoy",
       "city": "Montmarault",
@@ -6339,6 +6627,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.la-boria.com",
     "phone": "+33 4 75 64 48 48",
+    "reference": "la-boria",
     "address": {
       "street": "3 cours du Palais",
       "city": "Privas",
@@ -6363,6 +6652,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bruno-oger.com",
     "phone": "+33 4 92 18 18 28",
+    "reference": "bistrot-des-anges",
     "address": {
       "street": "rue de l'Ouest",
       "city": "Le Cannet",
@@ -6391,6 +6681,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.aubergade.com",
     "phone": "+33 5 53 95 31 46",
+    "reference": "la-poule-dor",
     "address": {
       "street": "52 rue Royale",
       "city": "Puymirol",
@@ -6416,6 +6707,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-dupasdevent.com",
     "phone": "+33 5 58 98 34 65",
+    "reference": "lauberge-du-pas-de-vent",
     "address": {
       "street": "281 avenue Pas-de-Vent",
       "city": "Pouillon",
@@ -6443,6 +6735,7 @@
     "experience": "Confortable",
     "website": "http://www.epernay-rest-letheatre.com",
     "phone": "+33 3 26 58 88 19",
+    "reference": "le-theatre",
     "address": {
       "street": "8 place Mendes-France",
       "city": "Épernay",
@@ -6471,6 +6764,7 @@
     "experience": "Assez confortable",
     "website": "http://www.cent33.com",
     "phone": "+33 5 56 15 90 40",
+    "reference": "le-cent-33",
     "address": {
       "street": "139 rue du Jardin-Public",
       "city": "Bordeaux",
@@ -6496,6 +6790,7 @@
     "experience": "Assez confortable",
     "website": "http://restaurantlapetiteourse.com",
     "phone": "+33 9 52 84 33 61",
+    "reference": "la-petite-ourse",
     "address": {
       "street": "48 boulevard de la Liberté",
       "city": "Rennes",
@@ -6516,7 +6811,9 @@
   {
     "name": "Au Pont du Corbeau",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 3 88 35 60 68",
+    "reference": "au-pont-du-corbeau",
     "address": {
       "street": "21 quai St-Nicolas",
       "city": "Strasbourg",
@@ -6543,6 +6840,7 @@
     "experience": "Assez confortable",
     "website": "http://www.balsamique-restaurant.com",
     "phone": "+33 3 20 93 68 55",
+    "reference": "balsamique",
     "address": {
       "street": "13 place du Général-de-Gaulle",
       "city": "Wambrechies",
@@ -6569,6 +6867,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latelierlartdesmets.fr",
     "phone": "+33 4 90 72 37 55",
+    "reference": "latelier-lart-des-mets",
     "address": {
       "street": "500 route de Robion",
       "city": "Taillades",
@@ -6596,6 +6895,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-lelocal.fr",
     "phone": "+33 4 94 20 61 32",
+    "reference": "le-local",
     "address": {
       "street": "455 Littoral Frédéric-Mistral",
       "city": "Toulon",
@@ -6617,7 +6917,9 @@
   {
     "name": "Auberge du Terroir",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 33 60 17 92",
+    "reference": "auberge-du-terroir",
     "address": {
       "street": "Le Bourg",
       "city": "Servon",
@@ -6645,6 +6947,7 @@
     "experience": "Assez confortable",
     "website": "http://www.arbequina-restaurant.com",
     "phone": "+33 4 68 34 46 64",
+    "reference": "arbequina",
     "address": {
       "street": "21 rue de la République",
       "city": "Thuir",
@@ -6673,6 +6976,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-lequilibre.fr",
     "phone": "+33 5 61 45 70 43",
+    "reference": "lequilibre",
     "address": {
       "street": "10 place de la Libération",
       "city": "Balma",
@@ -6695,7 +6999,9 @@
   {
     "name": "Le Bistro d'en Face",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 53 61 34 06",
+    "reference": "le-bistro-den-face",
     "address": {
       "street": "1 rue Fénelon",
       "city": "Bergerac",
@@ -6721,6 +7027,7 @@
     "experience": "Confortable",
     "website": "http://www.cotedargent.com",
     "phone": "+33 3 21 34 68 07",
+    "reference": "au-cote-dargent",
     "address": {
       "street": "1 digue Gaston-Berthe",
       "city": "Calais",
@@ -6750,6 +7057,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-coqdor-23.com",
     "phone": "+33 5 55 62 30 83",
+    "reference": "le-coq-dor",
     "address": {
       "street": "7 place du Champ-de-Foire",
       "city": "Chénérailles",
@@ -6775,6 +7083,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-metsetvins.com",
     "phone": "+33 4 74 45 20 78",
+    "reference": "mets-et-vins",
     "address": {
       "street": "11 rue de la République",
       "city": "Bourg-en-Bresse",
@@ -6801,8 +7110,12 @@
     "experience": "Très confortable",
     "website": "http://www.vertevallee.com",
     "phone": "+33 3 89 77 15 15",
+    "reference": "les-grands-arbres---verte-vallee",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -6830,6 +7143,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-vegan.fr",
     "phone": "+33 4 93 81 32 98",
+    "reference": "vegan-gorilla",
     "address": {
       "street": "7 rue du Lycée",
       "city": "Nice",
@@ -6856,6 +7170,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-latelecabine.fr",
     "phone": "+33 4 50 47 04 66",
+    "reference": "la-telecabine",
     "address": {
       "street": "27 rue de la Tour",
       "city": "Chamonix-Mont-Blanc",
@@ -6883,8 +7198,12 @@
     "experience": "Confortable",
     "website": "http://www.hotel-capcoz.com",
     "phone": "+33 2 98 56 01 63",
+    "reference": "la-pointe-du-cap-coz",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Accès handicapés",
@@ -6905,7 +7224,9 @@
   {
     "name": "Chai l'amère Kolette",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 97 36 28 74",
+    "reference": "chai-lamere-kolette",
     "address": {
       "street": "Parc d'activités de Kernours",
       "city": "Kervignac",
@@ -6930,6 +7251,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-aubepine.fr",
     "phone": "+33 4 75 35 01 28",
+    "reference": "laubepine",
     "address": {
       "street": "13 boulevard Jean-Mathon",
       "city": "Aubenas",
@@ -6955,6 +7277,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergedebardigues.com",
     "phone": "+33 5 63 39 05 58",
+    "reference": "auberge-de-bardigues",
     "address": {
       "street": "Le Bourg",
       "city": "Bardigues",
@@ -6982,6 +7305,7 @@
     "experience": "Confortable",
     "website": "http://www.cote-bastide.org",
     "phone": "+33 5 57 46 14 02",
+    "reference": "cote-bastide",
     "address": {
       "street": "4 rue de l'Abattoir",
       "city": "Sainte-Foy-la-Grande",
@@ -7009,6 +7333,7 @@
     "experience": "Confortable",
     "website": "http://www.levauban-cherbourg.fr",
     "phone": "+33 2 33 43 10 11",
+    "reference": "le-vauban",
     "address": {
       "street": "22 quai Caligny",
       "city": "Cherbourg-en-Cotentin",
@@ -7032,7 +7357,9 @@
   {
     "name": "L'As des Neiges",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 4 50 80 62 53",
+    "reference": "las-des-neiges",
     "address": {
       "street": "624 rue du Centre",
       "city": "Les Gets",
@@ -7057,6 +7384,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lacapitelle.com",
     "phone": "+33 4 75 63 02 72",
+    "reference": "la-capitelle",
     "address": {
       "street": "1 rue du Boulanger",
       "city": "Mirmande",
@@ -7082,6 +7410,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latabledeleo.fr",
     "phone": "+33 5 53 57 89 15",
+    "reference": "la-table-de-leo",
     "address": {
       "street": "Le Bourg",
       "city": "Saint-Avit-Sénieur",
@@ -7108,6 +7437,7 @@
     "experience": "Assez confortable",
     "website": "http://www.jouvence.paris",
     "phone": "+33 1 56 58 04 73",
+    "reference": "jouvence",
     "address": {
       "street": "172 bis rue du Faubourg-St-Antoine",
       "city": "Paris",
@@ -7133,6 +7463,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-1ermets.fr",
     "phone": "+33 4 57 09 10 54",
+    "reference": "1er-mets",
     "address": {
       "street": "Place Saint-Maurice",
       "city": "Annecy",
@@ -7156,6 +7487,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aufildessaisons.eu",
     "phone": "+33 3 81 94 17 12",
+    "reference": "au-fil-des-saisons",
     "address": {
       "street": "3 rue de la Libération",
       "city": "Étupes",
@@ -7183,6 +7515,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantchezmichel.fr",
     "phone": "+33 1 44 53 06 20",
+    "reference": "chez-michel",
     "address": {
       "street": "10 rue de Belzunce",
       "city": "Paris",
@@ -7208,6 +7541,7 @@
     "experience": "Confortable",
     "website": "http://www.grangeagapes.com",
     "phone": "+33 4 94 54 60 97",
+    "reference": "la-grange-des-agapes",
     "address": {
       "street": "7 rue du 11-novembre",
       "city": "Cogolin",
@@ -7234,6 +7568,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lesaintjoseph-restaurant.fr",
     "phone": "+33 1 42 42 64 49",
+    "reference": "le-saint-joseph",
     "address": {
       "street": "100 boulevard de la République",
       "city": "La Garenne-Colombes",
@@ -7260,6 +7595,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lou-caleou-next.com",
     "phone": "+33 4 66 77 50 98",
+    "reference": "le-patio-by-lou-caleou",
     "address": {
       "street": "23 place de la Libération",
       "city": "Sommières",
@@ -7286,6 +7622,7 @@
     "experience": "Assez confortable",
     "website": "http://www.chezmonjules.com",
     "phone": "+33 4 75 04 20 74",
+    "reference": "chez-mon-jules",
     "address": {
       "street": "5 rue Étienne-de-Vesc",
       "city": "Vesc",
@@ -7313,6 +7650,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-le-gantxo.fr",
     "phone": "+33 5 59 56 46 63",
+    "reference": "le-gantxo",
     "address": {
       "street": "quartier du Port",
       "city": "Guiche",
@@ -7341,6 +7679,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-arnold.com",
     "phone": "+33 3 88 85 50 58",
+    "reference": "winstub-arnold",
     "address": {
       "street": "98 route des Vins",
       "city": "Itterswiller",
@@ -7369,6 +7708,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lacharrettebleue.net",
     "phone": "+33 4 75 27 72 33",
+    "reference": "la-charrette-bleue",
     "address": {
       "street": "5 chemin Barjavel",
       "city": "Condorcet",
@@ -7395,6 +7735,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-saint-remy-de-provence.fr",
     "phone": "+33 4 90 95 74 60",
+    "reference": "loustalet-maianen",
     "address": {
       "street": "16 avenue Lamartine",
       "city": "Maillane",
@@ -7421,6 +7762,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-lacorniche.com",
     "phone": "+33 4 95 31 40 98",
+    "reference": "la-corniche",
     "address": {
       "street": "hameau de Castagneto",
       "city": "San-Martino-di-Lota",
@@ -7450,6 +7792,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.leclosauxroses.com",
     "phone": "+33 2 47 92 20 29",
+    "reference": "le-clos-aux-roses",
     "address": {
       "street": "2 rue du Lavoir",
       "city": "Chédigny",
@@ -7476,6 +7819,7 @@
     "experience": "Assez confortable",
     "website": "http://www.le-bistrot-du-pollet.zenchef.com",
     "phone": "+33 2 35 84 68 57",
+    "reference": "bistrot-du-pollet",
     "address": {
       "street": "23 rue Tête-de-Boeuf",
       "city": "Dieppe",
@@ -7499,6 +7843,7 @@
     "experience": "Assez confortable",
     "website": "http://www.raisindor.fr",
     "phone": "+33 3 89 71 05 69",
+    "reference": "au-raisin-dor",
     "address": {
       "street": "1 rue de l'Église",
       "city": "Zimmerbach",
@@ -7525,6 +7870,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-la-gare-ploubalay.com",
     "phone": "+33 2 96 27 25 16",
+    "reference": "restaurant-de-la-gare",
     "address": {
       "street": "4 rue des Ormelets",
       "city": "Ploubalay",
@@ -7550,6 +7896,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-bistrotdacote.fr",
     "phone": "+33 4 73 29 16 16",
+    "reference": "le-bistrot-da-cote",
     "address": {
       "street": "16 rue des Minimes",
       "city": "Clermont-Ferrand",
@@ -7577,6 +7924,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlecolvert.com",
     "phone": "+33 5 63 41 32 47",
+    "reference": "le-colvert",
     "address": {
       "street": "8 rue d'en Boyer",
       "city": "Saint-Lieux-lès-Lavaur",
@@ -7605,6 +7953,7 @@
     "experience": "Confortable",
     "website": "http://www.amandier.fr",
     "phone": "+33 4 93 90 00 91",
+    "reference": "lamandier-de-mougins",
     "address": {
       "street": "48 avenue Jean-Charles-Mallet",
       "city": "Mougins",
@@ -7632,6 +7981,7 @@
     "experience": "Confortable",
     "website": "http://www.saperlipopette1.fr",
     "phone": "+33 1 41 37 00 00",
+    "reference": "aperlipopette-",
     "address": {
       "street": "9 place du Théâtre",
       "city": "Puteaux",
@@ -7662,6 +8012,7 @@
     "experience": "Assez confortable",
     "website": "http://www.madamerestaurant.fr",
     "phone": "+33 3 83 22 37 18",
+    "reference": "madame",
     "address": {
       "street": "52 rue Henri-Deglin",
       "city": "Nancy",
@@ -7685,6 +8036,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-la-gaillotiere.fr",
     "phone": "+33 2 28 21 31 16",
+    "reference": "auberge-la-gaillotiere",
     "address": {
       "street": "Lieu-dit La Gaillotière",
       "city": "Château-Thébaud",
@@ -7713,6 +8065,7 @@
     "experience": "Confortable",
     "website": "http://www.esperance-stephanecarbone.fr",
     "phone": "+33 2 31 44 97 10",
+    "reference": "lesperance---stephane-carbone",
     "address": {
       "street": "512 rue Abbé-Alix",
       "city": "Hérouville-Saint-Clair",
@@ -7743,6 +8096,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlepelican.fr",
     "phone": "+33 2 40 04 77 88",
+    "reference": "le-pelican",
     "address": {
       "street": "13 place Georges-Gaudet",
       "city": "Geneston",
@@ -7768,8 +8122,12 @@
     "experience": "Confortable",
     "website": "http://www.latabledantoine.com",
     "phone": "+33 4 70 98 99 71",
+    "reference": "la-table-dantoine",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -7791,6 +8149,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auberge.fr",
     "phone": "+33 4 73 62 10 52",
+    "reference": "auberge-de-la-fontaine-du-berger",
     "address": {
       "street": "167 route de Limoges",
       "city": "Orcines",
@@ -7818,6 +8177,7 @@
     "experience": "Confortable",
     "website": "http://www.aubonaccueil-restaurant.com",
     "phone": "+33 3 83 25 62 10",
+    "reference": "le-bon-accueil",
     "address": {
       "street": "1 rue de Laval",
       "city": "Richardménil",
@@ -7844,6 +8204,7 @@
     "experience": "Confortable",
     "website": "http://www.agneau-illkirch.fr",
     "phone": "+33 3 88 66 06 58",
+    "reference": "estaminet-a-lagneau",
     "address": {
       "street": "185 route de Lyon",
       "city": "Illkirch-Graffenstaden",
@@ -7869,6 +8230,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-perigueux-atelier.com",
     "phone": "+33 5 53 04 56 71",
+    "reference": "latelier",
     "address": {
       "street": "2 rue Voltaire",
       "city": "Périgueux",
@@ -7896,6 +8258,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.maisonaribert.com",
     "phone": "+33 4 58 17 48 30",
+    "reference": "cafe-a",
     "address": {
       "street": "280 allée du Jeune-Bayard",
       "city": "Saint-Martin-d'Uriage",
@@ -7924,6 +8287,7 @@
     "experience": "Confortable",
     "website": "http://www.aux-trois-pastoureaux.fr",
     "phone": "+33 2 37 45 74 40",
+    "reference": "aux-trois-pastoureaux",
     "address": {
       "street": "31 rue André-Gillet",
       "city": "Châteaudun",
@@ -7949,6 +8313,7 @@
     "experience": "Assez confortable",
     "website": "http://restaurant-akashon.com",
     "phone": "+33 4 50 54 55 56",
+    "reference": "akashon",
     "address": {
       "street": "50 place de l'Aiguille-du-Midi",
       "city": "Chamonix-Mont-Blanc",
@@ -7976,6 +8341,7 @@
     "experience": "Assez confortable",
     "website": "https://lassietteaujardin.fr",
     "phone": "+33 2 51 54 93 95",
+    "reference": "lassiette-au-jardin",
     "address": {
       "street": "9 rue du Robinet",
       "city": "Noirmoutier-en-l'Île",
@@ -8002,6 +8368,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lemedieval-puyleveque.fr",
     "phone": "+33 9 86 31 80 88",
+    "reference": "le-medieval",
     "address": {
       "street": "24 Grand'Rue",
       "city": "Puy-l'Évêque",
@@ -8026,6 +8393,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.latabledesarmaillis.fr",
     "phone": "+33 4 79 89 26 15",
+    "reference": "la-table-des-armaillis",
     "address": {
       "street": "97 rue des Prés",
       "city": "Les Saisies",
@@ -8053,6 +8421,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrotdeportlesney.com",
     "phone": "+33 3 84 37 83 27",
+    "reference": "le-bistrot-pontarlier",
     "address": {
       "street": "place du 8-Mai-1945",
       "city": "Port-Lesney",
@@ -8078,6 +8447,7 @@
     "experience": "Assez confortable",
     "website": "http://www.laruche-saintperay.com",
     "phone": "+33 9 82 40 44 38",
+    "reference": "la-ruche",
     "address": {
       "street": "13 quai du Docteur-Jules-Bouvat",
       "city": "Saint-Péray",
@@ -8106,6 +8476,7 @@
     "experience": "Assez confortable",
     "website": "http://www.ptitbouchon.fr",
     "phone": "+33 2 38 67 84 40",
+    "reference": "le-ptit-bouchon",
     "address": {
       "street": "66 rue Bernard-Palissy",
       "city": "Gien",
@@ -8129,10 +8500,12 @@
     "experience": "Assez confortable",
     "website": "http://www.amandria.com",
     "phone": "+33 4 95 32 71 24",
+    "reference": "a-mandria-di-pigna",
     "address": {
       "street": "Pigna",
       "city": "20220",
-      "zip": "France"
+      "zip": "France",
+      "country": null
     },
     "services": [
       "Parking",
@@ -8153,6 +8526,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lunivers-villefranche.com",
     "phone": "+33 5 65 45 15 63",
+    "reference": "lunivers",
     "address": {
       "street": "Place de la République",
       "city": "Villefranche-de-Rouergue",
@@ -8177,6 +8551,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.cotesaisons.com",
     "phone": "+33 4 34 12 36 51",
+    "reference": "cote-saisons",
     "address": {
       "street": "10 avenue de la Côte-Vermeille",
       "city": "Laroque-des-Albères",
@@ -8205,6 +8580,7 @@
     "experience": "Confortable",
     "website": "http://www.aubonaccueil-normand.com",
     "phone": "+33 2 33 38 10 04",
+    "reference": "au-bon-accueil",
     "address": {
       "street": "23 place St-Michel",
       "city": "Juvigny-sous-Andaine",
@@ -8230,6 +8606,7 @@
     "experience": "Confortable",
     "website": "http://www.cheval-blanc-feldbach.fr",
     "phone": "+33 3 89 25 81 86",
+    "reference": "cheval-blanc",
     "address": {
       "street": "1 rue de Bisel",
       "city": "Feldbach",
@@ -8259,6 +8636,7 @@
     "experience": "Confortable",
     "website": "http://www.lesperance-bandol.com",
     "phone": "+33 4 94 05 85 29",
+    "reference": "lesperance",
     "address": {
       "street": "21 rue du Docteur-Louis-Marçon",
       "city": "Bandol",
@@ -8284,6 +8662,7 @@
     "experience": "Confortable",
     "website": "http://www.o-plaisirdessens.com",
     "phone": "+33 5 53 29 58 53",
+    "reference": "oplaisir-des-sens",
     "address": {
       "street": "Sous la Grande Vigne",
       "city": "La Roque-Gageac",
@@ -8312,6 +8691,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-le-beaujolais.com",
     "phone": "+33 4 74 66 05 31",
+    "reference": "le-beaujolais",
     "address": {
       "street": "40 rue du Maréchal-Foch",
       "city": "Belleville",
@@ -8337,6 +8717,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergeduprieurenormand.com",
     "phone": "+33 2 32 52 10 01",
+    "reference": "auberge-du-prieure-normand",
     "address": {
       "street": "1 place de la République",
       "city": "Gasny",
@@ -8362,6 +8743,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lejeanmoulin-lyon.com",
     "phone": "+33 4 78 37 37 97",
+    "reference": "le-jean-moulin",
     "address": {
       "street": "45 rue de Sèze",
       "city": "Lyon",
@@ -8387,6 +8769,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.hotel-arce.com",
     "phone": "+33 5 59 37 40 14",
+    "reference": "restaurant-arce",
     "address": {
       "street": "route du col d'Ispéguy",
       "city": "Saint-Étienne-de-Baïgorry",
@@ -8415,6 +8798,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedesdeuxmagots.fr",
     "phone": "+33 2 99 90 60 75",
+    "reference": "auberge-des-deux-magots",
     "address": {
       "street": "1 place du Bouffay",
       "city": "La Roche-Bernard",
@@ -8441,6 +8825,7 @@
     "experience": "Assez confortable",
     "website": "http://www.artichaut-restaurant.com",
     "phone": "+33 4 67 67 91 86",
+    "reference": "lartichaut",
     "address": {
       "street": "15 bis rue St-Firmin",
       "city": "Montpellier",
@@ -8465,6 +8850,7 @@
     "experience": "Assez confortable",
     "website": "http://www.hotel-doussiere.com",
     "phone": "+33 5 65 62 60 25",
+    "reference": "lalicanta",
     "address": {
       "street": "route de Meyrueis",
       "city": "Le Rozier",
@@ -8491,6 +8877,7 @@
     "experience": "Assez confortable",
     "website": "http://lairdefamilletoulouse.wordpress.com",
     "phone": "+33 5 67 06 54 08",
+    "reference": "lair-de-famille",
     "address": {
       "street": "6 rue Jules-Chalande",
       "city": "Toulouse",
@@ -8518,6 +8905,7 @@
     "experience": "Très confortable",
     "website": "http://www.relaisdubois.com",
     "phone": "+33 5 46 93 50 99",
+    "reference": "la-table-du-relais-du-bois-st-georges",
     "address": {
       "street": "132 cours Genet",
       "city": "Saintes",
@@ -8549,6 +8937,7 @@
     "experience": "Confortable",
     "website": "http://www.cote-saveurs.fr",
     "phone": "+33 5 65 65 83 64",
+    "reference": "cote-saveurs",
     "address": {
       "street": "Place Louis Fontanges",
       "city": "Villefranche-de-Rouergue",
@@ -8578,6 +8967,7 @@
     "experience": "Confortable",
     "website": "http://www.hostelleriedheloise.com",
     "phone": "+33 3 85 59 05 65",
+    "reference": "hostellerie-dheloise",
     "address": {
       "street": "7 route de Mâcon",
       "city": "Cluny",
@@ -8603,6 +8993,7 @@
     "experience": "Confortable",
     "website": "http://www.levertdo.fr",
     "phone": "+33 2 97 45 25 25",
+    "reference": "le-vert-do",
     "address": {
       "street": "94 rue de Guernevé",
       "city": "Saint-Gildas-de-Rhuys",
@@ -8628,6 +9019,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlepicurien.com",
     "phone": "+33 5 63 53 10 70",
+    "reference": "lepicurien",
     "address": {
       "street": "42 place Jean-Jaurès",
       "city": "Albi",
@@ -8656,7 +9048,9 @@
   {
     "name": "La Table D'eux - Laurent Le Berrigaud",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 2 97 32 42 07",
+    "reference": "la-table-deux---laurent-le-berrigaud",
     "address": {
       "street": "route côtière D152",
       "city": "Guidel",
@@ -8683,6 +9077,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auberge-pyrenees-cevennes.fr",
     "phone": "+33 1 43 57 33 78",
+    "reference": "auberge-pyrenees-cevennes",
     "address": {
       "street": "106 rue de la Folie-Méricourt",
       "city": "Paris",
@@ -8708,6 +9103,7 @@
     "experience": "Assez confortable",
     "website": "http://www.daniel-et-denise.fr",
     "phone": "+33 4 78 60 66 53",
+    "reference": "daniel-et-denise-crequi",
     "address": {
       "street": "156 rue de Créqui",
       "city": "Lyon",
@@ -8734,6 +9130,7 @@
     "experience": "Confortable",
     "website": "http://www.lafleurdesel-honfleur.com",
     "phone": "+33 2 31 89 01 92",
+    "reference": "la-fleur-de-sel",
     "address": {
       "street": "17 rue Haute",
       "city": "Honfleur",
@@ -8757,6 +9154,8 @@
     "name": "La Merenda",
     "experience": "Assez confortable",
     "website": "http://www.lamerenda.net",
+    "phone": null,
+    "reference": "la-merenda",
     "address": {
       "street": "4 rue Raoul-Bosio",
       "city": "Nice",
@@ -8779,6 +9178,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-le-rabelais.com",
     "phone": "+33 4 90 50 84 40",
+    "reference": "le-rabelais",
     "address": {
       "street": "8 rue Auguste-Fabre",
       "city": "Saint-Chamas",
@@ -8804,7 +9204,9 @@
   {
     "name": "Abri Soba",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 45 23 51 68",
+    "reference": "abri-soba",
     "address": {
       "street": "10 rue Saulnier",
       "city": "Paris",
@@ -8828,6 +9230,7 @@
     "experience": "Assez confortable",
     "website": "http://www.laubergecaestre.com",
     "phone": "+33 3 28 40 25 25",
+    "reference": "lauberge",
     "address": {
       "street": "2590 route de Bailleul",
       "city": "Caëstre",
@@ -8853,6 +9256,7 @@
     "experience": "Assez confortable",
     "website": "http://www.nino-restaurant.com",
     "phone": "+33 5 61 38 50 79",
+    "reference": "nino",
     "address": {
       "street": "28 rue Peyrolières",
       "city": "Toulouse",
@@ -8876,7 +9280,9 @@
   {
     "name": "Ahizpak Le Restaurant des Sœurs",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 59 22 58 81",
+    "reference": "ahizpak-le-restaurant-des-surs",
     "address": {
       "street": "avenue de Biarritz",
       "city": "Bidart",
@@ -8904,6 +9310,7 @@
     "experience": "Assez confortable",
     "website": "http://www.fermeduvert.com",
     "phone": "+33 3 21 87 67 00",
+    "reference": "la-ferme-du-vert",
     "address": {
       "street": "Rue du Vert",
       "city": "Wierre-Effroy",
@@ -8930,6 +9337,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-la-safraniere.fr",
     "phone": "+33 4 66 49 31 54",
+    "reference": "la-safraniere",
     "address": {
       "street": "52 rue du Lavoir",
       "city": "Chabrits",
@@ -8954,6 +9362,7 @@
     "experience": "Confortable",
     "website": "http://www.lecerisier-restaurant.fr",
     "phone": "+33 4 75 08 91 02",
+    "reference": "le-cerisier",
     "address": {
       "street": "1 rue Saint-Joseph",
       "city": "Tournon-sur-Rhône",
@@ -8981,6 +9390,7 @@
     "experience": "Confortable",
     "website": "http://www.langlesaintlaurent.com",
     "phone": "+33 2 31 92 03 01",
+    "reference": "langle-saint-laurent",
     "address": {
       "street": "2 rue des Bouchers",
       "city": "Bayeux",
@@ -9005,6 +9415,7 @@
     "experience": "Assez confortable",
     "website": "http://www.substrat-restaurant.com",
     "phone": "+33 4 78 29 14 93",
+    "reference": "ubstrat",
     "address": {
       "street": "7 rue Pailleron",
       "city": "Lyon",
@@ -9031,6 +9442,7 @@
     "experience": "Confortable",
     "website": "http://www.lagrangeauxloups.com",
     "phone": "+33 3 44 25 33 79",
+    "reference": "auberge-la-grange-aux-loups",
     "address": {
       "street": "8 rue du 11-Novembre",
       "city": "Apremont",
@@ -9058,6 +9470,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.laribaudiere.com",
     "phone": "+33 5 45 81 30 54",
+    "reference": "la-table-du-fleuve",
     "address": {
       "street": "2 place du Port",
       "city": "Bourg-Charente",
@@ -9083,7 +9496,9 @@
   {
     "name": "Restaurant Dimofski",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 3 87 02 38 21",
+    "reference": "restaurant-dimofski",
     "address": {
       "street": "2 Quartier de la Gare",
       "city": "Wœlfling-lès-Sarreguemines",
@@ -9112,6 +9527,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedelapoutre.com",
     "phone": "+33 3 84 25 57 77",
+    "reference": "la-poutre",
     "address": {
       "street": "25 Grande-Rue",
       "city": "Bonlieu",
@@ -9137,7 +9553,9 @@
   {
     "name": "Saku Restaurant",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 78 69 45 31",
+    "reference": "aku-restaurant",
     "address": {
       "street": "27 rue Rachais",
       "city": "Lyon",
@@ -9162,6 +9580,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-ardennes.com",
     "phone": "+33 3 24 33 37 55",
+    "reference": "lauberge-du-laminak",
     "address": {
       "street": "Route de Nouzonville",
       "city": "Montcy-Notre-Dame",
@@ -9189,6 +9608,7 @@
     "experience": "Assez confortable",
     "website": "http://www.ungraindesaveur.fr",
     "phone": "+33 4 73 90 30 59",
+    "reference": "un-grain-de-saveur",
     "address": {
       "street": "8 rue de l'Abbé-Girard",
       "city": "Clermont-Ferrand",
@@ -9212,6 +9632,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-la-parenthese.com",
     "phone": "+33 2 38 62 07 50",
+    "reference": "la-parenthese",
     "address": {
       "street": "26 place du Châtelet",
       "city": "Orléans",
@@ -9237,6 +9658,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergedecombes.com",
     "phone": "+33 4 67 95 66 55",
+    "reference": "auberge-de-combes",
     "address": {
       "street": "Le bourg",
       "city": "Combes",
@@ -9263,6 +9685,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrotdupont.com",
     "phone": "+33 3 25 80 90 99",
+    "reference": "bistrot-dupont",
     "address": {
       "street": "5 place Charles-de-Gaulle",
       "city": "Pont-Sainte-Marie",
@@ -9291,6 +9714,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.lechardonnay.fr",
     "phone": "+33 4 73 26 79 95",
+    "reference": "le-chardonnay",
     "address": {
       "street": "1 place Philippe-Marcombes",
       "city": "Clermont-Ferrand",
@@ -9314,6 +9738,8 @@
     "name": "52 Faubourg St-Denis",
     "experience": "Assez confortable",
     "website": "http://www.faubourgstdenis.com",
+    "phone": null,
+    "reference": "52-faubourg-st-denis",
     "address": {
       "street": "52 rue du Faubourg-St-Denis",
       "city": "Paris",
@@ -9339,6 +9765,7 @@
     "experience": "Confortable",
     "website": "http://www.aupetitrelais.fr",
     "phone": "+33 4 74 30 10 07",
+    "reference": "au-petit-relais",
     "address": {
       "street": "Grande-Rue",
       "city": "Coligny",
@@ -9367,8 +9794,12 @@
     "experience": "Confortable",
     "website": "http://www.auchevalblanc.net",
     "phone": "+33 3 88 70 17 11",
+    "reference": "au-cheval-blanc",
     "address": {
-      "street": "3 Offres"
+      "street": "3 Offres",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Parking",
@@ -9392,6 +9823,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lereciproque.com",
     "phone": "+33 9 86 37 80 77",
+    "reference": "le-reciproque",
     "address": {
       "street": "14 rue Ferdinand-Flocon",
       "city": "Paris",
@@ -9416,8 +9848,12 @@
     "experience": "Assez confortable",
     "website": "http://www.maisonchabran.com",
     "phone": "+33 4 75 07 05 90",
+    "reference": "le-quai",
     "address": {
-      "street": "2 Offres"
+      "street": "2 Offres",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -9440,6 +9876,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlelancelot.com",
     "phone": "+33 2 38 32 91 15",
+    "reference": "le-lancelot",
     "address": {
       "street": "12 rue des Déportés",
       "city": "Chilleurs-aux-Bois",
@@ -9470,6 +9907,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedebressieux.fr",
     "phone": "+33 4 74 20 91 01",
+    "reference": "auberge-du-chateau",
     "address": {
       "street": "67 montée du Château",
       "city": "Bressieux",
@@ -9494,7 +9932,9 @@
   {
     "name": "La Vierge",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 43 67 51 15",
+    "reference": "la-vierge",
     "address": {
       "street": "58 rue de la Réunion",
       "city": "Paris",
@@ -9520,6 +9960,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-laffranchi.com",
     "phone": "+33 5 53 95 67 59",
+    "reference": "laffranchi",
     "address": {
       "street": "33 rue des Cornières",
       "city": "Agen",
@@ -9546,6 +9987,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auberge-du-pont-billy.fr",
     "phone": "+33 4 70 43 50 09",
+    "reference": "auberge-du-pont",
     "address": {
       "street": "1 route de Marcenat",
       "city": "Billy",
@@ -9570,7 +10012,9 @@
   {
     "name": "Le Tilleul de Sully",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 55 98 01 96",
+    "reference": "le-tilleul-de-sully",
     "address": {
       "street": "Le bourg",
       "city": "Montgibaud",
@@ -9596,6 +10040,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-inextremis.com",
     "phone": "+33 3 29 35 46 41",
+    "reference": "in-extremis",
     "address": {
       "street": "7 place de l'Atre",
       "city": "Épinal",
@@ -9621,6 +10066,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lepoissondavril.fr",
     "phone": "+33 2 98 58 23 83",
+    "reference": "le-poisson-davril",
     "address": {
       "street": "19 rue de Men-Meur",
       "city": "Guilvinec",
@@ -9647,6 +10093,7 @@
     "experience": "Assez confortable",
     "website": "http://www.udon-kisin.fr",
     "phone": "+33 1 71 26 77 28",
+    "reference": "kisin",
     "address": {
       "street": "9 rue de Ponthieu",
       "city": "Paris",
@@ -9669,7 +10116,9 @@
   {
     "name": "La Pie qui Couette",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 66 23 59 04",
+    "reference": "la-pie-qui-couette",
     "address": {
       "street": "1 rue Guizot",
       "city": "Nîmes",
@@ -9691,7 +10140,9 @@
   {
     "name": "Le Garriane",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 68 67 07 44",
+    "reference": "le-garriane",
     "address": {
       "street": "15 rue Valette",
       "city": "Perpignan",
@@ -9716,6 +10167,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-de-la-roche.com",
     "phone": "+33 2 41 39 72 21",
+    "reference": "auberge-de-la-roche",
     "address": {
       "street": "10 Route Nationale 23",
       "city": "Saint-Jean-de-Linières",
@@ -9741,6 +10193,7 @@
     "experience": "Confortable",
     "website": "http://www.princesse-flore-hotel.com",
     "phone": "+33 4 73 35 63 63",
+    "reference": "la-fleche-dargent",
     "address": {
       "street": "5 place Allard",
       "city": "Royat",
@@ -9770,6 +10223,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.lecarredelange.com",
     "phone": "+33 5 61 65 65 65",
+    "reference": "le-carre-de-lange",
     "address": {
       "street": "Palais des Évêques",
       "city": "Saint-Lizier",
@@ -9799,6 +10253,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bistrotsaintsauveur.fr",
     "phone": "+33 4 93 94 42 03",
+    "reference": "bistrot-st-sauveur",
     "address": {
       "street": "87 rue Saint-Sauveur",
       "city": "Le Cannet",
@@ -9827,6 +10282,7 @@
     "experience": "Assez confortable",
     "website": "http://www.maisonmarius.com",
     "phone": "+33 5 61 25 07 07",
+    "reference": "monsieur",
     "address": {
       "street": "40 rue des Filatiers",
       "city": "Toulouse",
@@ -9852,6 +10308,7 @@
     "experience": "Assez confortable",
     "website": "http://www.leterminus-cote-gare.fr",
     "phone": "+33 4 67 89 71 26",
+    "reference": "le-terminus",
     "address": {
       "street": "avenue de la Gare",
       "city": "Cruzy",
@@ -9877,7 +10334,9 @@
   {
     "name": "Paris Méditerranée",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 67 74 97 73",
+    "reference": "paris-mediterranee",
     "address": {
       "street": "47 rue Pierre-Semard",
       "city": "Sète",
@@ -9905,6 +10364,7 @@
     "experience": "Assez confortable",
     "website": "http://www.finegueule.fr",
     "phone": "+33 4 93 80 21 64",
+    "reference": "fine-gueule",
     "address": {
       "street": "2 rue de l'Hôtel de Ville",
       "city": "Nice",
@@ -9931,6 +10391,7 @@
     "experience": "Assez confortable",
     "website": "http://www.metsmots.fr",
     "phone": "+33 5 57 83 38 24",
+    "reference": "mets-mots",
     "address": {
       "street": "98 rue Fondaudège",
       "city": "Bordeaux",
@@ -9951,7 +10412,9 @@
   {
     "name": "Tempi Lenti",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 9 81 01 81 10",
+    "reference": "tempi-lenti",
     "address": {
       "street": "13 rue Gerbier",
       "city": "Paris",
@@ -9974,6 +10437,7 @@
     "experience": "Confortable",
     "website": "http://www.vieilleforge.fr",
     "phone": "+33 2 40 42 62 68",
+    "reference": "la-vieille-forge",
     "address": {
       "street": "32 rue d'Aha",
       "city": "Mesquer",
@@ -10000,6 +10464,7 @@
     "experience": "Confortable",
     "website": "http://www.aubergedumoulin.org",
     "phone": "+33 2 35 33 62 76",
+    "reference": "auberge-du-moulin",
     "address": {
       "street": "36 rue des Moulins-du-Tot",
       "city": "Clères",
@@ -10024,6 +10489,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-st-georges.fr",
     "phone": "+33 4 67 68 31 38",
+    "reference": "le-st-georges",
     "address": {
       "street": "4 boulevard Maréchal-Foch",
       "city": "Palavas-les-Flots",
@@ -10050,6 +10516,7 @@
     "experience": "Confortable",
     "website": "http://www.saveurs-abbaye.com",
     "phone": "+33 5 46 94 17 91",
+    "reference": "aveurs-de-labbaye",
     "address": {
       "street": "1 place St-Pallais",
       "city": "Saintes",
@@ -10074,7 +10541,9 @@
   {
     "name": "L'Arôme",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 91 42 88 80",
+    "reference": "larome",
     "address": {
       "street": "9 rue des 3 Rois",
       "city": "Marseille",
@@ -10097,8 +10566,12 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lebreard.com",
     "phone": "+33 2 31 89 53 40",
+    "reference": "le-breard",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Possibilité de manger dehors",
@@ -10119,6 +10592,7 @@
     "experience": "Confortable",
     "website": "http://www.coteauxetfourchettes.com",
     "phone": "+33 4 90 66 35 99",
+    "reference": "coteaux-et-fourchettes",
     "address": {
       "street": "Route de Violès",
       "city": "Cairanne",
@@ -10148,7 +10622,9 @@
   {
     "name": "Auberge des Chenêts",
     "experience": "Confortable. Nos établissements de charme.",
+    "website": null,
     "phone": "+33 3 86 34 23 34",
+    "reference": "auberge-des-chenets",
     "address": {
       "street": "10 route Nationale 6",
       "city": "Valloux",
@@ -10173,7 +10649,9 @@
   {
     "name": "Mensae",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 53 19 80 98",
+    "reference": "mensae",
     "address": {
       "street": "23 rue Melingue",
       "city": "Paris",
@@ -10196,7 +10674,9 @@
   {
     "name": "L'Alambic",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 70 59 12 71",
+    "reference": "lalambic",
     "address": {
       "street": "8 rue Nicolas-Larbaud",
       "city": "Vichy",
@@ -10220,6 +10700,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-lecentral-coulon.com",
     "phone": "+33 5 49 35 90 20",
+    "reference": "le-central",
     "address": {
       "street": "4 rue d'Autremont",
       "city": "Coulon",
@@ -10250,6 +10731,7 @@
     "experience": "Confortable",
     "website": "http://www.laroutedargent.com",
     "phone": "+33 5 65 44 92 27",
+    "reference": "a-la-route-dargent",
     "address": {
       "street": "1 route de Gabriac",
       "city": "Bozouls",
@@ -10278,6 +10760,7 @@
     "experience": "Confortable",
     "website": "http://www.hoteldelaplage-stpalais.fr",
     "phone": "+33 5 46 23 10 32",
+    "reference": "restaurant-de-la-plage",
     "address": {
       "street": "1 place de l'Océan",
       "city": "Saint-Palais-sur-Mer",
@@ -10301,6 +10784,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantzenparis.fr",
     "phone": "+33 1 42 61 93 99",
+    "reference": "zen",
     "address": {
       "street": "8 rue de l'Échelle",
       "city": "Paris",
@@ -10325,7 +10809,9 @@
   {
     "name": "Bistrot d'Antoine",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 93 85 29 57",
+    "reference": "bistrot-dantoine",
     "address": {
       "street": "27 rue de la Préfecture",
       "city": "Nice",
@@ -10352,6 +10838,7 @@
     "experience": "Assez confortable",
     "website": "http://www.maisonjoanto-restaurant.fr",
     "phone": "+33 5 59 20 27 70",
+    "reference": "maison-joanto",
     "address": {
       "street": "chemin du Village",
       "city": "Briscous",
@@ -10376,7 +10863,9 @@
   {
     "name": "Le Bistrot du Rocher",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 99 40 82 05",
+    "reference": "le-bistrot-du-rocher",
     "address": {
       "street": "19 rue de Toulouse",
       "city": "Saint-Malo",
@@ -10400,6 +10889,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.legrapiot.com",
     "phone": "+33 3 84 37 49 44",
+    "reference": "le-grapiot",
     "address": {
       "street": "3 rue Bagier",
       "city": "Pupillin",
@@ -10429,6 +10919,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.restaurantcotesud.com",
     "phone": "+33 4 90 40 66 08",
+    "reference": "cote-sud",
     "address": {
       "street": "Route d'Orange",
       "city": "Uchaux",
@@ -10456,6 +10947,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-zest.fr",
     "phone": "+33 2 99 83 82 06",
+    "reference": "zest",
     "address": {
       "street": "32 cours de la Vilaine",
       "city": "Cesson-Sévigné",
@@ -10480,6 +10972,7 @@
     "experience": "Confortable",
     "website": "http://www.larochette-hotel.fr",
     "phone": "+33 3 89 49 80 40",
+    "reference": "la-rochette",
     "address": {
       "street": "500 lieu-dit La Rochette",
       "city": "Labaroche",
@@ -10509,6 +11002,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-art-zain.fr",
     "phone": "+33 5 59 37 23 83",
+    "reference": "artzain",
     "address": {
       "street": "le bourg",
       "city": "Irissarry",
@@ -10535,6 +11029,7 @@
     "experience": "Confortable",
     "website": "http://www.centre-poitou.com",
     "phone": "+33 5 49 60 90 15",
+    "reference": "auberge-le-centre-poitou",
     "address": {
       "street": "39 rue Nationale",
       "city": "Coulombiers",
@@ -10562,7 +11057,9 @@
   {
     "name": "Otto",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 91 71 16 52",
+    "reference": "otto",
     "address": {
       "street": "150 rue Jean-Mermoz",
       "city": "Marseille",
@@ -10588,6 +11085,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.domainedefontenille.com",
     "phone": "+33 4 13 98 00 00",
+    "reference": "la-cuisine-damelie",
     "address": {
       "street": "Route de Roquefraiche",
       "city": "Lauris",
@@ -10615,7 +11113,9 @@
   {
     "name": "Philip",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 90 20 31 81",
+    "reference": "philip",
     "address": {
       "street": "chemin de la Fontaine",
       "city": "Fontaine-de-Vaucluse",
@@ -10642,6 +11142,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-du-dauphin.com",
     "phone": "+33 2 43 93 00 39",
+    "reference": "restaurant-du-dauphin",
     "address": {
       "street": "3 rue d'Huisne",
       "city": "La Ferté-Bernard",
@@ -10666,7 +11167,9 @@
   {
     "name": "Auberge du Coq-en-Pâte",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 3 22 29 92 09",
+    "reference": "auberge-du-coq-en-pate",
     "address": {
       "street": "37 Grande-Rue",
       "city": "Argoules",
@@ -10691,6 +11194,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergelabaquere.com",
     "phone": "+33 5 62 06 42 75",
+    "reference": "auberge-la-baquere",
     "address": {
       "street": "Lieu-dit la Baquère",
       "city": "Préneron",
@@ -10717,8 +11221,12 @@
     "experience": "Confortable",
     "website": "http://www.chez-guy.fr",
     "phone": "+33 3 80 58 51 51",
+    "reference": "chez-guy",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -10742,6 +11250,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant20eiffel.fr",
     "phone": "+33 1 47 05 14 20",
+    "reference": "20-eiffel",
     "address": {
       "street": "20 rue de Monttessuy",
       "city": "Paris",
@@ -10766,6 +11275,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lacledeschamps.com",
     "phone": "+33 3 22 27 88 00",
+    "reference": "la-cle-des-champs",
     "address": {
       "street": "place des Frères-Caudron",
       "city": "Favières",
@@ -10792,6 +11302,7 @@
     "experience": "Confortable",
     "website": "http://www.envers-du-decor.fr",
     "phone": "+33 9 86 19 30 21",
+    "reference": "lenvers-du-decor",
     "address": {
       "street": "23rue de la Bienfaisance",
       "city": "Les Herbiers",
@@ -10817,6 +11328,7 @@
     "experience": "Assez confortable",
     "website": "http://www.la-table-dangele.com",
     "phone": "+33 3 29 25 41 97",
+    "reference": "la-table-dangele",
     "address": {
       "street": "30 Grande-Rue",
       "city": "La Bresse",
@@ -10842,6 +11354,7 @@
     "experience": "Très confortable. Nos établissements de charme.",
     "website": "http://www.restaurant-soubise.com",
     "phone": "+33 3 28 64 66 00",
+    "reference": "le-soubise",
     "address": {
       "street": "49 route de Bergues",
       "city": "Coudekerque-Branche",
@@ -10869,6 +11382,7 @@
     "experience": "Confortable",
     "website": "http://www.ala12.fr",
     "phone": "+33 3 87 01 30 18",
+    "reference": "a-la-12",
     "address": {
       "street": "6 place de la République",
       "city": "Delme",
@@ -10898,6 +11412,7 @@
     "experience": "Assez confortable",
     "website": "http://www.latabledepablo.com",
     "phone": "+33 4 90 75 45 18",
+    "reference": "la-table-de-pablo",
     "address": {
       "street": "Hameau Les Petits-Cléments",
       "city": "Villars",
@@ -10925,6 +11440,7 @@
     "experience": "Très confortable",
     "website": "http://www.air-accueil-restaurant.com",
     "phone": "+33 3 21 50 01 02",
+    "reference": "air-accueil",
     "address": {
       "street": "50 rue Nationale",
       "city": "Brebières",
@@ -10954,6 +11470,7 @@
     "experience": "Confortable",
     "website": "http://www.regismarcon.fr",
     "phone": "+33 4 71 65 63 62",
+    "reference": "bistrot-la-coulemelle",
     "address": {
       "street": "2 rue du Fanget",
       "city": "Saint-Bonnet-le-Froid",
@@ -10981,7 +11498,9 @@
   {
     "name": "Impérial Choisy",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 45 86 42 40",
+    "reference": "imperial-choisy",
     "address": {
       "street": "32 avenue de Choisy",
       "city": "Paris",
@@ -11006,6 +11525,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-atmosphere.com",
     "phone": "+33 4 50 55 97 97",
+    "reference": "atmosphere",
     "address": {
       "street": "123 place Balmat",
       "city": "Chamonix-Mont-Blanc",
@@ -11033,6 +11553,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantleradisbeurre.com",
     "phone": "+33 1 40 33 99 26",
+    "reference": "le-radis-beurre",
     "address": {
       "street": "51 boulevard Garibaldi",
       "city": "Paris",
@@ -11057,6 +11578,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.lagriotte.fr",
     "phone": "+33 3 81 57 17 71",
+    "reference": "la-griotte",
     "address": {
       "street": "3 rue des Cerisiers",
       "city": "Saules",
@@ -11084,6 +11606,7 @@
     "experience": "Assez confortable",
     "website": "http://www.breizhcafe.com",
     "phone": "+33 2 99 56 96 08",
+    "reference": "le-comptoir-breizh-cafe",
     "address": {
       "street": "6 rue de l'Orme",
       "city": "Saint-Malo",
@@ -11108,6 +11631,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlarotonde-vichy.com",
     "phone": "+33 4 70 97 85 42",
+    "reference": "la-table-de-marlene",
     "address": {
       "street": "Boulevard de Lattre-de-Tassigny",
       "city": "Vichy",
@@ -11137,6 +11661,7 @@
     "experience": "Assez confortable",
     "website": "http://www.insens-restaurant.fr",
     "phone": "+33 4 77 32 34 34",
+    "reference": "insens",
     "address": {
       "street": "10 rue de Lodi",
       "city": "Saint-Étienne",
@@ -11161,6 +11686,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-colbert.com",
     "phone": "+33 3 88 22 52 16",
+    "reference": "colbert",
     "address": {
       "street": "127 route de Mittelhausbergen",
       "city": "Strasbourg",
@@ -11188,6 +11714,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lamaison-cognac.fr",
     "phone": "+33 5 45 35 21 77",
+    "reference": "la-maison",
     "address": {
       "street": "1 rue du 14-Juillet",
       "city": "Cognac",
@@ -11215,6 +11742,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-louesberit.com",
     "phone": "+33 9 83 97 58 58",
+    "reference": "lou-esberit",
     "address": {
       "street": "8 rue Adoue",
       "city": "Pau",
@@ -11239,6 +11767,7 @@
     "experience": "Confortable",
     "website": "http://www.pomze.com",
     "phone": "+33 1 42 65 65 83",
+    "reference": "pomze",
     "address": {
       "street": "109 boulevard Haussmann",
       "city": "Paris",
@@ -11266,6 +11795,7 @@
     "experience": "Confortable",
     "website": "http://www.lefloridagascony.fr",
     "phone": "+33 5 62 68 13 22",
+    "reference": "le-florida",
     "address": {
       "street": "2 rue du Lac",
       "city": "Castéra-Verduzan",
@@ -11293,6 +11823,7 @@
     "experience": "Confortable",
     "website": "http://www.zorn-lapetiteauberge.com",
     "phone": "+33 3 23 23 02 38",
+    "reference": "zorn---la-petite-auberge",
     "address": {
       "street": "45 boulevard Pierre-Brossolette",
       "city": "Laon",
@@ -11321,6 +11852,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlacantinetta.fr",
     "phone": "+33 4 91 48 10 48",
+    "reference": "la-cantinetta",
     "address": {
       "street": "24 cours Julien",
       "city": "Marseille",
@@ -11346,6 +11878,7 @@
     "experience": "Assez confortable",
     "website": "http://www.hostellerie-jerome.com",
     "phone": "+33 4 93 28 52 79",
+    "reference": "cafe-de-la-fontaine",
     "address": {
       "street": "4 avenue du Général-de-Gaulle",
       "city": "La Turbie",
@@ -11371,10 +11904,12 @@
     "experience": "Confortable",
     "website": "http://www.lateteauloup.fr",
     "phone": "+33 2 33 35 57 69",
+    "reference": "la-tete-au-loup",
     "address": {
       "street": "Le Pin-au-Haras",
       "city": "61310",
-      "zip": "France"
+      "zip": "France",
+      "country": null
     },
     "services": [
       "Parking",
@@ -11396,6 +11931,7 @@
     "experience": "Confortable",
     "website": "http://www.eden-houlgate.com",
     "phone": "+33 2 31 24 84 37",
+    "reference": "leden",
     "address": {
       "street": "7 rue Henri-Fouchard",
       "city": "Houlgate",
@@ -11422,6 +11958,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lachaumine.com",
     "phone": "+33 2 97 50 17 67",
+    "reference": "la-chaumine",
     "address": {
       "street": "79 rue de Port-Haliguen",
       "city": "Quiberon",
@@ -11446,7 +11983,9 @@
   {
     "name": "La Part des Anges",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 63 51 65 25",
+    "reference": "la-part-des-anges",
     "address": {
       "street": "7 rue d'Empare",
       "city": "Castres",
@@ -11472,6 +12011,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lesresistants.fr",
     "phone": "+33 1 77 32 77 61",
+    "reference": "les-resistants",
     "address": {
       "street": "16 rue du Château-d'Eau",
       "city": "Paris",
@@ -11497,6 +12037,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lecanutetlesgones.com",
     "phone": "+33 4 78 29 17 23",
+    "reference": "le-canut-et-les-gones",
     "address": {
       "street": "29 rue Belfort",
       "city": "Lyon",
@@ -11522,6 +12063,7 @@
     "experience": "Assez confortable",
     "website": "http://www.auberge-loupinatou.fr",
     "phone": "+33 4 71 65 21 54",
+    "reference": "lou-pinatou",
     "address": {
       "street": "Le Bourg",
       "city": "Solignac-sous-Roche",
@@ -11544,7 +12086,9 @@
   {
     "name": "Le Bouche à Oreille",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 35 45 44 60",
+    "reference": "le-bouche-a-oreille",
     "address": {
       "street": "19 rue Paul-Doumer",
       "city": "Le Havre",
@@ -11568,6 +12112,7 @@
     "experience": "Confortable",
     "website": "http://www.lesabayon.fr",
     "phone": "+33 2 97 21 19 79",
+    "reference": "le-sabayon",
     "address": {
       "street": "26 rue Auguste-Blanqui",
       "city": "Lorient",
@@ -11591,8 +12136,12 @@
     "experience": "Assez confortable",
     "website": "http://www.lescocottes.paris",
     "phone": "+33 1 45 50 10 28",
+    "reference": "les-cocottes---tour-eiffel",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
@@ -11612,6 +12161,7 @@
     "experience": "Confortable",
     "website": "http://www.auplaisirambre.com",
     "phone": "+33 4 92 52 63 46",
+    "reference": "au-plaisir-ambre",
     "address": {
       "street": "26 Grande-Rue",
       "city": "Briançon",
@@ -11634,6 +12184,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.troisgros.com",
     "phone": "+33 4 77 67 72 72",
+    "reference": "le-central",
     "address": {
       "street": "20 cours de la République",
       "city": "Roanne",
@@ -11660,6 +12211,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlespetitsprinces.fr",
     "phone": "+33 1 41 47 87 61",
+    "reference": "les-petits-princes",
     "address": {
       "street": "26 rue du Val-d'Or",
       "city": "Suresnes",
@@ -11685,7 +12237,9 @@
   {
     "name": "Le Pantruche",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 48 78 55 60",
+    "reference": "le-pantruche",
     "address": {
       "street": "3 rue Victor-Massé",
       "city": "Paris",
@@ -11709,6 +12263,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lekitchencafe.com",
     "phone": "+33 6 03 36 42 75",
+    "reference": "le-kitchen-cafe",
     "address": {
       "street": "34 rue Chevreul",
       "city": "Lyon",
@@ -11733,6 +12288,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantlachaumiere.fr",
     "phone": "+33 4 68 30 04 40",
+    "reference": "la-chaumiere",
     "address": {
       "street": "96 avenue Emmanuel-Brousse",
       "city": "Font-Romeu",
@@ -11759,6 +12315,7 @@
     "experience": "Assez confortable",
     "website": "http://www.muratore-restaurant-evian.com",
     "phone": "+33 4 50 92 82 49",
+    "reference": "le-muratore",
     "address": {
       "street": "8 place du Docteur-Jean-Bernex",
       "city": "Évian-les-Bains",
@@ -11784,6 +12341,7 @@
     "experience": "Assez confortable",
     "website": "http://lecomptoir.labutte.fr",
     "phone": "+33 2 98 25 40 54",
+    "reference": "le-comptoir-de-la-butte",
     "address": {
       "street": "12 rue de la Mer",
       "city": "Plouider",
@@ -11808,7 +12366,9 @@
   {
     "name": "Le Saint-Honoré",
     "experience": "Assez confortable. Nos établissements de charme.",
+    "website": null,
     "phone": "+33 2 47 61 93 82",
+    "reference": "le-saint-honore",
     "address": {
       "street": "7 place des Petites-Boucheries",
       "city": "Tours",
@@ -11836,6 +12396,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lamandier-frejus.com",
     "phone": "+33 4 94 53 48 77",
+    "reference": "lamandier",
     "address": {
       "street": "19 rue Marc-Antoine-Désaugiers",
       "city": "Fréjus",
@@ -11860,6 +12421,7 @@
     "experience": "Confortable",
     "website": "http://www.lesaromesgemenos.fr",
     "phone": "+33 9 80 73 06 60",
+    "reference": "les-aromes",
     "address": {
       "street": "230 avenue du 2ème-Cuirassier",
       "city": "Gémenos",
@@ -11887,8 +12449,12 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.hautsdeloire.com",
     "phone": "+33 2 54 20 72 57",
+    "reference": "bistrot-des-hauts-de-loire",
     "address": {
-      "street": "1 Offre"
+      "street": "1 Offre",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Parking",
@@ -11911,6 +12477,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantleptitgo.wixsite.com/leptitgoustan",
     "phone": "+33 2 97 56 37 30",
+    "reference": "le-ptit-goustan",
     "address": {
       "street": "9 place Saint-Sauveur",
       "city": "Auray",
@@ -11938,6 +12505,7 @@
     "experience": "Confortable",
     "website": "http://www.latabledhotes-caen.com",
     "phone": "+33 2 31 97 18 44",
+    "reference": "la-table-dhotes",
     "address": {
       "street": "10 avenue du Général-Leclerc",
       "city": "Ouistreham",
@@ -11964,6 +12532,7 @@
     "experience": "Confortable",
     "website": "http://www.chezlesanges.com",
     "phone": "+33 1 47 05 89 86",
+    "reference": "chez-les-anges",
     "address": {
       "street": "54 boulevard de la Tour-Maubourg",
       "city": "Paris",
@@ -11991,7 +12560,9 @@
   {
     "name": "La Dariole",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 38 77 26 67",
+    "reference": "la-dariole",
     "address": {
       "street": "25 rue Étienne-Dolet",
       "city": "Orléans",
@@ -12015,6 +12586,7 @@
     "experience": "Assez confortable",
     "website": "http://www.histoire-ancienne.com",
     "phone": "+33 3 21 34 11 20",
+    "reference": "histoire-ancienne",
     "address": {
       "street": "20 rue Royale",
       "city": "Calais",
@@ -12041,6 +12613,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-le-mail.com",
     "phone": "+33 5 46 34 12 52",
+    "reference": "le-mail",
     "address": {
       "street": "16 allée du Mail",
       "city": "La Rochelle",
@@ -12068,6 +12641,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergedesgranges.com",
     "phone": "+33 4 75 38 02 01",
+    "reference": "auberge-des-granges",
     "address": {
       "street": "Au village",
       "city": "Bessas",
@@ -12093,6 +12667,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aucolombier.com",
     "phone": "+33 4 74 67 04 68",
+    "reference": "au-colombier",
     "address": {
       "street": "126 allée Colombier",
       "city": "Anse",
@@ -12123,6 +12698,7 @@
     "experience": "Assez confortable",
     "website": "http://www.bird-restaurant.com",
     "phone": "+33 1 79 93 28 81",
+    "reference": "bird",
     "address": {
       "street": "38 rue Charles-de-Gaulle",
       "city": "Yerres",
@@ -12143,7 +12719,9 @@
   {
     "name": "L'Arum",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 83 99 42 04",
+    "reference": "larum",
     "address": {
       "street": "21 avenue Joseph-Clotis",
       "city": "Hyères",
@@ -12168,6 +12746,7 @@
     "experience": "Confortable",
     "website": "http://www.manoirdelapommeraie.com",
     "phone": "+33 2 31 68 07 71",
+    "reference": "manoir-de-la-pommeraie",
     "address": {
       "street": "L'Auvère",
       "city": "Vire",
@@ -12196,6 +12775,7 @@
     "experience": "Confortable",
     "website": "http://www.hotel-aubergemetzger.com",
     "phone": "+33 3 88 97 02 42",
+    "reference": "auberge-metzger",
     "address": {
       "street": "55 rue Principale",
       "city": "Natzwiller",
@@ -12225,7 +12805,9 @@
   {
     "name": "Au Ptit Bistrot",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 31 92 30 08",
+    "reference": "au-ptit-bistrot",
     "address": {
       "street": "31 rue Larcher",
       "city": "Bayeux",
@@ -12249,6 +12831,7 @@
     "experience": "Confortable",
     "website": "http://www.la-mediterranee.com",
     "phone": "+33 1 43 26 02 30",
+    "reference": "la-mediterranee",
     "address": {
       "street": "2 place de l'Odéon",
       "city": "Paris",
@@ -12276,6 +12859,7 @@
     "experience": "Assez confortable",
     "website": "http://www.linstinctgourmand.com",
     "phone": "+33 2 40 47 41 64",
+    "reference": "linstinct-gourmand",
     "address": {
       "street": "14 rue St-Léonard",
       "city": "Nantes",
@@ -12301,6 +12885,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lesepicescuriens.com",
     "phone": "+33 3 29 86 84 58",
+    "reference": "les-epices-curiens",
     "address": {
       "street": "3b place de la Gare",
       "city": "Écouviez",
@@ -12330,6 +12915,7 @@
     "experience": "Confortable",
     "website": "http://www.lemargote.fr",
     "phone": "+33 2 35 43 68 10",
+    "reference": "le-margote",
     "address": {
       "street": "50 quai Michel-Féré",
       "city": "Le Havre",
@@ -12354,6 +12940,7 @@
     "experience": "Assez confortable",
     "website": "http://www.thomascollomb.fr",
     "phone": "+33 3 80 34 33 20",
+    "reference": "bistrot-lucien",
     "address": {
       "street": "6 rue du Chambertin",
       "city": "Gevrey-Chambertin",
@@ -12381,7 +12968,9 @@
   {
     "name": "Les Templiers",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 5 63 39 86 21",
+    "reference": "les-templiers",
     "address": {
       "street": "3 place des Martyrs",
       "city": "Dunes",
@@ -12409,6 +12998,7 @@
     "experience": "Confortable",
     "website": "http://www.encuisine.net",
     "phone": "+33 5 55 74 97 53",
+    "reference": "en-cuisine",
     "address": {
       "street": "39 avenue Edouard-Herriot",
       "city": "Brive-la-Gaillarde",
@@ -12435,6 +13025,7 @@
     "experience": "Assez confortable",
     "website": "http://www.mrestaurant.fr",
     "phone": "+33 4 78 89 55 19",
+    "reference": "m-restaurant",
     "address": {
       "street": "47 avenue Foch",
       "city": "Lyon",
@@ -12459,7 +13050,9 @@
   {
     "name": "L'Amphitryon",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 5 58 74 58 05",
+    "reference": "lamphitryon",
     "address": {
       "street": "56 cours du Maréchal Joffre",
       "city": "Dax",
@@ -12483,6 +13076,7 @@
     "experience": "Confortable",
     "website": "http://www.relais-sainte-anne.com",
     "phone": "+33 5 65 37 40 56",
+    "reference": "relais-ste-anne",
     "address": {
       "street": "rue du Pourtanel",
       "city": "Martel",
@@ -12509,7 +13103,9 @@
   {
     "name": "Mee",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 42 86 11 85",
+    "reference": "mee",
     "address": {
       "street": "5 rue d'Argenteuil",
       "city": "Paris",
@@ -12533,6 +13129,7 @@
     "experience": "Confortable",
     "website": "http://www.laraignee-gourmande.fr",
     "phone": "+33 4 92 65 13 39",
+    "reference": "laraignee-gourmande",
     "address": {
       "street": "8 rue de la Paix",
       "city": "Laragne-Montéglin",
@@ -12559,6 +13156,7 @@
     "experience": "Assez confortable",
     "website": "http://www.legrandbainparis.com",
     "phone": "+33 9 83 02 72 02",
+    "reference": "le-grand-bain",
     "address": {
       "street": "14 rue Dénoyez",
       "city": "Paris",
@@ -12580,7 +13178,9 @@
   {
     "name": "Italie là-bas",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 86 81 62 27",
+    "reference": "italie-la-bas",
     "address": {
       "street": "23 rue de la Bancasse",
       "city": "Avignon",
@@ -12605,6 +13205,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-leprestjean.fr",
     "phone": "+33 4 67 98 15 31",
+    "reference": "le-pre-st-jean",
     "address": {
       "street": "18 avenue Maréchal-Leclerc",
       "city": "Pézenas",
@@ -12631,7 +13232,9 @@
   {
     "name": "Cook'in",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 3 26 54 89 80",
+    "reference": "cookin",
     "address": {
       "street": "18 rue Porte-Lucas",
       "city": "Épernay",
@@ -12657,6 +13260,7 @@
     "experience": "Confortable",
     "website": "http://www.lafermedupoulet.com",
     "phone": "+33 4 74 62 19 07",
+    "reference": "la-ferme-du-poulet",
     "address": {
       "street": "180 rue Georges Mangin",
       "city": "Villefranche-sur-Saône",
@@ -12687,6 +13291,7 @@
     "experience": "Confortable",
     "website": "http://www.auberge-des-montagnes.com",
     "phone": "+33 4 71 47 57 01",
+    "reference": "lauberge-des-montagnes",
     "address": {
       "street": "Le Bourg",
       "city": "Pailherols",
@@ -12713,6 +13318,7 @@
     "experience": "Assez confortable",
     "website": "http://www.mamagoto.fr",
     "phone": "+33 1 44 79 03 98",
+    "reference": "mamagoto",
     "address": {
       "street": "5 rue des Petits-Hotels",
       "city": "Paris",
@@ -12736,7 +13342,9 @@
   {
     "name": "Le Montcenis",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 3 85 55 44 36",
+    "reference": "le-montcenis",
     "address": {
       "street": "place du Champ-de-Foire",
       "city": "Montcenis",
@@ -12765,6 +13373,7 @@
     "experience": "Assez confortable",
     "website": "http://www.instantdusud.fr",
     "phone": "+33 4 66 02 03 93",
+    "reference": "linstant-du-sud",
     "address": {
       "street": "39 Grand-Rue",
       "city": "Générac",
@@ -12791,6 +13400,7 @@
     "experience": "Confortable",
     "website": "http://www.lerochetoirin.fr",
     "phone": "+33 4 74 97 60 38",
+    "reference": "le-rochetoirin",
     "address": {
       "street": "Route du Village",
       "city": "Rochetoirin",
@@ -12818,6 +13428,7 @@
     "experience": "Très confortable",
     "website": "http://www.le-dauphin-normandie.fr",
     "phone": "+33 2 31 86 22 26",
+    "reference": "le-dauphin",
     "address": {
       "street": "29 rue Gemare",
       "city": "Caen",
@@ -12844,6 +13455,7 @@
     "experience": "Confortable",
     "website": "http://www.prieuresaintquirin.com",
     "phone": "+33 3 87 08 66 52",
+    "reference": "hostellerie-du-prieure",
     "address": {
       "street": "163 rue du Général-de-Gaulle",
       "city": "Saint-Quirin",
@@ -12874,6 +13486,7 @@
     "experience": "Confortable",
     "website": "http://www.clospierrepont.com",
     "phone": "+33 4 94 50 21 30",
+    "reference": "le-clos-pierrepont",
     "address": {
       "street": "56 route de Draguignan",
       "city": "Montferrat",
@@ -12900,6 +13513,7 @@
     "experience": "Assez confortable",
     "website": "http://www.le-cassenoix.fr",
     "phone": "+33 1 45 66 09 01",
+    "reference": "le-casse-noix",
     "address": {
       "street": "56 rue de la Fédération",
       "city": "Paris",
@@ -12924,6 +13538,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.hameaualbert.fr",
     "phone": "+33 4 50 53 00 03",
+    "reference": "la-maison-carrier",
     "address": {
       "street": "44 route du Bouchet",
       "city": "Chamonix-Mont-Blanc",
@@ -12953,6 +13568,7 @@
     "experience": "Assez confortable",
     "website": "http://www.leptitrouquin.com",
     "phone": "+33 5 49 24 05 34",
+    "reference": "le-ptit-rouquin",
     "address": {
       "street": "92 rue de la Gare",
       "city": "Niort",
@@ -12976,7 +13592,9 @@
   {
     "name": "Le Pressoir de Bacchus",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 3 88 92 43 01",
+    "reference": "le-pressoir-de-bacchus",
     "address": {
       "street": "50 route des Vins",
       "city": "Blienschwiller",
@@ -13004,6 +13622,7 @@
     "experience": "Confortable",
     "website": "http://www.leaudoust.fr",
     "phone": "+33 2 97 38 91 86",
+    "reference": "leau-doust",
     "address": {
       "street": "6 rue du Lac",
       "city": "Rohan",
@@ -13027,6 +13646,7 @@
     "experience": "Confortable",
     "website": "http://www.leclosheurtebise.com",
     "phone": "+33 3 29 62 08 04",
+    "reference": "le-clos-heurtebise",
     "address": {
       "street": "13 chemin des Capucins",
       "city": "Remiremont",
@@ -13054,6 +13674,7 @@
     "experience": "Confortable",
     "website": "http://www.hotellescapucins.com",
     "phone": "+33 3 84 28 04 60",
+    "reference": "les-capucins",
     "address": {
       "street": "20 faubourg de Montbéliard",
       "city": "Belfort",
@@ -13081,7 +13702,9 @@
   {
     "name": "Le Bois des Mûres",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 76 95 48 99",
+    "reference": "le-bois-des-mures",
     "address": {
       "street": "815 avenue Léopold-Fabre",
       "city": "Lans-en-Vercors",
@@ -13106,6 +13729,7 @@
     "experience": "Confortable",
     "website": "http://www.perledesvosges.net",
     "phone": "+33 3 89 77 61 34",
+    "reference": "perle-des-vosges",
     "address": {
       "street": "22 route Gaschney",
       "city": "Muhlbach-sur-Munster",
@@ -13137,6 +13761,7 @@
     "experience": "Confortable",
     "website": "http://www.aucygne.fr",
     "phone": "+33 3 88 72 96 43",
+    "reference": "le-cygne",
     "address": {
       "street": "35 Grande-Rue",
       "city": "Gundershoffen",
@@ -13164,8 +13789,12 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-lagazette.fr",
     "phone": "+33 2 32 33 43 40",
+    "reference": "la-gazette",
     "address": {
-      "street": "2 Offres"
+      "street": "2 Offres",
+      "city": null,
+      "zip": null,
+      "country": null
     },
     "services": [
       "Climatisé",
@@ -13185,7 +13814,9 @@
   {
     "name": "Ani",
     "experience": "Assez confortable. Nos établissements de charme.",
+    "website": null,
     "phone": "+33 9 67 23 51 33",
+    "reference": "ani",
     "address": {
       "street": "199 rue de Créqui",
       "city": "Lyon",
@@ -13209,7 +13840,9 @@
   {
     "name": "Mokko",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 9 80 96 93 60",
+    "reference": "mokko",
     "address": {
       "street": "3 rue Francoeur",
       "city": "Paris",
@@ -13233,6 +13866,7 @@
     "experience": "Confortable",
     "website": "http://maisoncastet.eatbu.com",
     "phone": "+33 5 61 98 80 20",
+    "reference": "le-castet",
     "address": {
       "street": "44 Avenue de la Gare",
       "city": "Martres-Tolosane",
@@ -13260,6 +13894,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.latabledaime.com",
     "phone": "+33 4 68 34 35 77",
+    "reference": "la-table-daime",
     "address": {
       "street": "4 Rue Francisco Ferrer",
       "city": "Rivesaltes",
@@ -13288,6 +13923,7 @@
     "experience": "Confortable",
     "website": "http://www.loalabouche-restaurant.com",
     "phone": "+33 5 65 35 65 69",
+    "reference": "lo-a-la-bouche",
     "address": {
       "street": "56 Allées Fénelon",
       "city": "Cahors",
@@ -13315,6 +13951,7 @@
     "experience": "Confortable",
     "website": "http://www.leclosperche.fr",
     "phone": "+33 4 77 50 00 08",
+    "reference": "le-clos-perche",
     "address": {
       "street": "Le bourg",
       "city": "Montarcher",
@@ -13340,7 +13977,9 @@
   {
     "name": "La Table de Catusseau",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 57 84 40 40",
+    "reference": "la-table-de-catusseau",
     "address": {
       "street": "86 rue de Catusseau",
       "city": "Pomerol",
@@ -13367,6 +14006,7 @@
     "experience": "Confortable",
     "website": "http://www.larchedemeslay.fr",
     "phone": "+33 2 47 29 00 07",
+    "reference": "larche-de-meslay",
     "address": {
       "street": "14 rue des Ailes",
       "city": "Parçay-Meslay",
@@ -13395,6 +14035,7 @@
     "experience": "Assez confortable",
     "website": "http://www.domaine-de-clairefontaine.fr",
     "phone": "+33 4 74 58 83 28",
+    "reference": "le-cottage",
     "address": {
       "street": "616 chemin du Marais",
       "city": "Chonas-l'Amballan",
@@ -13425,6 +14066,7 @@
     "experience": "Très confortable",
     "website": "http://www.restaurant-vidal.com",
     "phone": "+33 4 71 08 70 50",
+    "reference": "vidal",
     "address": {
       "street": "Place du Marché",
       "city": "Saint-Julien-Chapteuil",
@@ -13450,6 +14092,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.lamaisondecelou84.com",
     "phone": "+33 4 90 16 08 61",
+    "reference": "la-maison-de-celou",
     "address": {
       "street": "impasse de l'Alouette - Portail du Thor",
       "city": "Châteauneuf-de-Gadagne",
@@ -13477,6 +14120,7 @@
     "experience": "Assez confortable",
     "website": "http://www.simple-meilleur.com",
     "phone": "+33 4 86 80 02 91",
+    "reference": "imple-et-meilleur",
     "address": {
       "street": "Place Notre-Dame",
       "city": "quartier de Caseblanche",
@@ -13505,6 +14149,7 @@
     "experience": "Confortable",
     "website": "http://www.balade-des-saveurs.com",
     "phone": "+33 4 90 95 27 85",
+    "reference": "la-balade-des-saveurs",
     "address": {
       "street": "3 quai Jean-Jaurès",
       "city": "L'Isle-sur-la-Sorgue",
@@ -13532,6 +14177,7 @@
     "experience": "Assez confortable",
     "website": "http://www.tempero.fr",
     "phone": "+33 9 54 17 48 88",
+    "reference": "tempero",
     "address": {
       "street": "5 rue Clisson",
       "city": "Paris",
@@ -13555,6 +14201,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lechaudrondanna.com",
     "phone": "+33 5 56 27 43 31",
+    "reference": "le-chaudron-danna",
     "address": {
       "street": "4-5 place Cazeaux-Cazalet",
       "city": "Rions",
@@ -13577,7 +14224,9 @@
   {
     "name": "Ar Maen Hir",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 56 10 18 37",
+    "reference": "ar-maen-hir",
     "address": {
       "street": "15 bis rue du Prieuré",
       "city": "Locronan",
@@ -13602,6 +14251,7 @@
     "experience": "Confortable",
     "website": "http://www.lestvincent.com",
     "phone": "+33 5 58 45 75 36",
+    "reference": "le-st-vincent",
     "address": {
       "street": "76 rue Laubaner",
       "city": "Roquefort",
@@ -13629,6 +14279,7 @@
     "experience": "Assez confortable",
     "website": "http://www.carre2vigne.com",
     "phone": "+33 4 94 92 98 21",
+    "reference": "carre-2-vigne",
     "address": {
       "street": "14 rue de Pomet",
       "city": "Toulon",
@@ -13654,6 +14305,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.disini-hotel.com",
     "phone": "+33 4 67 41 97 86",
+    "reference": "disini",
     "address": {
       "street": "1 rue des Carrières",
       "city": "Castries",
@@ -13685,6 +14337,7 @@
     "experience": "Confortable. Nos établissements de charme.",
     "website": "http://www.lejardindalice.fr",
     "phone": "+33 3 21 68 88 88",
+    "reference": "le-jardin-dalice",
     "address": {
       "street": "1098 route de Lillers",
       "city": "Busnes",
@@ -13716,6 +14369,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-des-voisins.fr",
     "phone": "+33 5 59 38 01 79",
+    "reference": "restaurant-des-voisins",
     "address": {
       "street": "12 rue des Voisins",
       "city": "Salies-de-Béarn",
@@ -13742,6 +14396,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-ferme-haute-cremonville.com",
     "phone": "+33 2 32 59 14 22",
+    "reference": "la-ferme-de-la-haute-cremonville",
     "address": {
       "street": "Route de Crémonville",
       "city": "Saint-Étienne-du-Vauvray",
@@ -13769,6 +14424,7 @@
     "experience": "Confortable",
     "website": "http://www.hotellerie-st-jean.com",
     "phone": "+33 5 49 96 12 60",
+    "reference": "hotellerie-st-jean",
     "address": {
       "street": "25 route de Parthenay",
       "city": "Saint-Jean-de-Thouars",
@@ -13796,7 +14452,9 @@
   {
     "name": "Schilling",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 91 01 81 39",
+    "reference": "chilling",
     "address": {
       "street": "37 rue Caisserie",
       "city": "Marseille",
@@ -13819,7 +14477,9 @@
   {
     "name": "La Côte Rôtie",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 46 44 04 19",
+    "reference": "la-cote-rotie",
     "address": {
       "street": "2 boulevard Maréchal-Lyautey",
       "city": "La Rochelle",
@@ -13847,6 +14507,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lessentiel-dijon.com",
     "phone": "+33 3 80 30 14 52",
+    "reference": "lessentiel",
     "address": {
       "street": "12 rue Audra",
       "city": "Dijon",
@@ -13873,6 +14534,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergelajumentverte.fr",
     "phone": "+33 1 48 60 69 90",
+    "reference": "la-jument-verte",
     "address": {
       "street": "43 route de Roissy",
       "city": "Tremblay-en-France",
@@ -13898,6 +14560,7 @@
     "experience": "Confortable",
     "website": "http://www.leboudeslavigne.franceserv.com",
     "phone": "+33 4 73 96 55 66",
+    "reference": "le-boudes-la-vigne",
     "address": {
       "street": "place de la Mairie",
       "city": "Boudes",
@@ -13927,6 +14590,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.hauteserre.fr",
     "phone": "+33 5 65 20 80 20",
+    "reference": "la-table-de-haute-serre",
     "address": {
       "street": "Château de Haute-Serre",
       "city": "Cieurac",
@@ -13956,6 +14620,7 @@
     "experience": "Assez confortable. Nos établissements de charme.",
     "website": "http://www.abbayedelabussiere.fr",
     "phone": "+33 3 80 49 02 29",
+    "reference": "le-bistrot-des-moines",
     "address": {
       "street": "Route Départementale 33",
       "city": "La Bussière-sur-Ouche",
@@ -13984,6 +14649,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-koenig.com",
     "phone": "+33 3 89 76 73 19",
+    "reference": "larbre-vert",
     "address": {
       "street": "96 rue Principale",
       "city": "Berrwiller",
@@ -14012,6 +14678,7 @@
     "experience": "Assez confortable",
     "website": "http://www.pontdelazorn.fr",
     "phone": "+33 3 88 51 36 87",
+    "reference": "auberge-du-pont-de-la-zorn",
     "address": {
       "street": "2 rue de la République",
       "city": "Weyersheim",
@@ -14039,6 +14706,7 @@
     "experience": "Confortable",
     "website": "http://www.belleetoile.fr",
     "phone": "+33 5 53 29 51 44",
+    "reference": "la-belle-etoile",
     "address": {
       "street": "Le Bourg",
       "city": "La Roque-Gageac",
@@ -14068,6 +14736,7 @@
     "experience": "Assez confortable",
     "website": "http://www.pottoka.fr",
     "phone": "+33 1 45 51 88 38",
+    "reference": "pottoka",
     "address": {
       "street": "4 rue de l'Exposition",
       "city": "Paris",
@@ -14093,6 +14762,7 @@
     "experience": "Assez confortable",
     "website": "http://aubergedesbouviers.eatbu.com",
     "phone": "+33 5 62 68 95 13",
+    "reference": "lauberge-des-bouviers",
     "address": {
       "street": "8 rue Montebello",
       "city": "Lectoure",
@@ -14117,6 +14787,7 @@
     "experience": "Assez confortable",
     "website": "http://lapommedor-sancerre.fr",
     "phone": "+33 2 48 54 13 30",
+    "reference": "la-pomme-dor",
     "address": {
       "street": "Rue de la Panneterie",
       "city": "Sancerre",
@@ -14141,6 +14812,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurant-menetriers.com",
     "phone": "+33 3 89 73 64 52",
+    "reference": "au-relais-des-menetriers",
     "address": {
       "street": "10 avenue du Général-de-Gaulle",
       "city": "Ribeauvillé",
@@ -14162,7 +14834,9 @@
   {
     "name": "Le Mermoz",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 1 45 63 65 26",
+    "reference": "le-mermoz",
     "address": {
       "street": "16 rue Jean-Mermoz",
       "city": "Paris",
@@ -14187,6 +14861,7 @@
     "experience": "Assez confortable",
     "website": "http://www.aubergelenezil.fr",
     "phone": "+33 2 40 91 41 41",
+    "reference": "auberge-le-nezil",
     "address": {
       "street": "route de St-Nazaire",
       "city": "Saint-Lyphard",
@@ -14215,6 +14890,7 @@
     "experience": "Assez confortable",
     "website": "http://www.lerelaisdessalines.com",
     "phone": "+33 5 46 75 82 42",
+    "reference": "le-relais-des-salines",
     "address": {
       "street": "Port-des-Salines",
       "city": "Le Grand-Village-Plage",
@@ -14238,7 +14914,9 @@
   {
     "name": "La Plage de la Ribaudière",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 5 46 36 60 01",
+    "reference": "la-plage-de-la-ribaudiere",
     "address": {
       "street": "52avenue de la Cèpe",
       "city": "La Tremblade",
@@ -14263,7 +14941,9 @@
   {
     "name": "L'Atelier d'Olivier Arlot",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 2 47 73 18 63",
+    "reference": "latelier-dolivier-arlot",
     "address": {
       "street": "55 quai des Maisons-Blanches",
       "city": "Saint-Cyr-sur-Loire",
@@ -14291,6 +14971,7 @@
     "experience": "Confortable",
     "website": "http://www.le-vallon-de-cherisy.fr",
     "phone": "+33 2 37 43 70 08",
+    "reference": "le-vallon-de-cherisy",
     "address": {
       "street": "12 route de Paris",
       "city": "Cherisy",
@@ -14315,7 +14996,9 @@
   {
     "name": "Les Mets d'Adélaïde",
     "experience": "Confortable",
+    "website": null,
     "phone": "+33 5 63 35 78 42",
+    "reference": "les-mets-dadelaide",
     "address": {
       "street": "28 avenue Georges-Alquier",
       "city": "Castres",
@@ -14340,7 +15023,9 @@
   {
     "name": "L'Écureuil",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 73 37 83 86",
+    "reference": "lecureuil",
     "address": {
       "street": "18 rue St-Adjutor",
       "city": "Clermont-Ferrand",
@@ -14366,6 +15051,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurant-biscotte.com",
     "phone": "+33 1 45 33 22 22",
+    "reference": "biscotte",
     "address": {
       "street": "22 rue Desnouettes",
       "city": "Paris",
@@ -14386,7 +15072,9 @@
   {
     "name": "Anga",
     "experience": "Assez confortable",
+    "website": null,
     "phone": "+33 4 67 60 61 65",
+    "reference": "anga",
     "address": {
       "street": "19 rue du Palais-des-Guilhem",
       "city": "Montpellier",
@@ -14411,6 +15099,7 @@
     "experience": "Assez confortable",
     "website": "http://www.restaurantlescanailles.fr",
     "phone": "+33 1 48 74 10 48",
+    "reference": "les-canailles-pigalle",
     "address": {
       "street": "25 rue La Bruyère",
       "city": "Paris",
@@ -14436,6 +15125,7 @@
     "experience": "Assez confortable",
     "website": "http://www.leturenne.com",
     "phone": "+33 5 55 28 63 60",
+    "reference": "le-turenne",
     "address": {
       "street": "boulevard Saint-Rodolphe-de-Turenne",
       "city": "Beaulieu-sur-Dordogne",
@@ -14463,6 +15153,7 @@
     "experience": "Assez confortable",
     "website": "http://www.comme-chez-maman.com",
     "phone": "+33 1 42 28 89 53",
+    "reference": "comme-chez-maman",
     "address": {
       "street": "5 rue des Moines",
       "city": "Paris",
@@ -14486,6 +15177,7 @@
     "experience": "Confortable",
     "website": "http://www.restaurantalorient.com",
     "phone": "+33 2 97 84 71 92",
+    "reference": "le-tire-bouchon",
     "address": {
       "street": "45 rue Jules-le-Grand",
       "city": "Lorient",

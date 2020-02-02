@@ -8,7 +8,8 @@
     "axios": "^0.19.1",
     "cheerio": "^1.0.0-rc.3",
     "iconv-lite": "^0.5.1",
-    "query-string": "^6.10.1"
+    "query-string": "^6.10.1",
+    "wuzzy": "^0.1.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"

@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { cleanText, cleanElem, sleep } = require('./util');
+const { cleanText, cleanElem, sleep, createRef } = require('./util');
 
 /**
  * PARSER / TEXT HELPERS
@@ -134,9 +134,11 @@ const parse = data => {
       .get()
   );
 
+  const reference = createRef(name);
+
   return Object.assign(
     {},
-    cleanElem({ name, experience, website, phone }),
+    cleanElem({ name, experience, website, phone, reference }),
     { address, services, rating },
     price
   );

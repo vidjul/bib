@@ -4,7 +4,7 @@ const queryString = require('query-string');
 const cheerio = require('cheerio');
 const iconv = require('iconv-lite');
 
-const { sleep, cleanElem, cleanText } = require('./util');
+const { sleep, cleanElem, cleanText, createRef } = require('./util');
 
 /**
  * Return an array of phone numbers in +33 X XX XX XX XX format
@@ -149,8 +149,9 @@ const parse = data => {
   const website = parseWebsite(data);
   const address = parseAddress(data);
   const specialities = parseSpecialities(data);
+  const reference = createRef(name);
 
-  return Object.assign({}, cleanElem({ name, website }), {
+  return Object.assign({}, cleanElem({ name, website, reference }), {
     phone,
     address,
     specialities
@@ -255,7 +256,7 @@ module.exports.get = async () => {
   }
 
   const results = [];
-  const CHUNK_SIZE = 400;
+  const CHUNK_SIZE = 50;
   const urlChunks = _.chunk(restaurantsUrl, CHUNK_SIZE);
 
   for (const chunk of urlChunks) {

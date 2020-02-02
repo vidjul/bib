@@ -18,7 +18,7 @@ const sleep = ms => {
  */
 const cleanText = text => {
   if (!text) {
-    return;
+    return null;
   }
   return text
     .trim()
@@ -34,13 +34,26 @@ const cleanText = text => {
 const cleanElem = elem => {
   if (Array.isArray(elem)) {
     return elem.map(value => cleanText(value));
-  } else {
-    const res = {};
-    Object.entries(elem).forEach(entry => {
-      res[entry[0]] = cleanText(entry[1]);
-    });
-    return res;
   }
+  const res = {};
+
+  Object.entries(elem).forEach(entry => {
+    res[entry[0]] = cleanText(entry[1]);
+  });
+  return res;
+};
+
+/**
+ * Format a name by removing space and non-letter characters
+ * @param {string} name A given name to be formatted
+ */
+const createRef = name => {
+  return name
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\s/g, '-')
+    .replace(/[^-\w]/g, '');
 };
 
 const writeJSON = async (fileName, obj) => {
@@ -50,4 +63,4 @@ const writeJSON = async (fileName, obj) => {
   );
 };
 
-module.exports = { cleanText, cleanElem, sleep, writeJSON };
+module.exports = { cleanText, cleanElem, sleep, writeJSON, createRef };
