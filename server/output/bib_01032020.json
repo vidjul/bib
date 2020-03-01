@@ -1,0 +1,2616 @@
+[
+  {
+    "maitre": {
+      "name": "LES JARDINS DU LEMAN",
+      "website": "http://www.lesjardinsduleman.com",
+      "reference": "les-jardins-du-leman",
+      "phone": [
+        "+33 4 50 72 80 32"
+      ],
+      "address": {
+        "street": "Grande rue",
+        "zip": "74140",
+        "city": "Yvoire",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Les Jardins du Léman",
+      "experience": "Confortable",
+      "website": "http://www.lesjardinsduleman.com",
+      "phone": "+33 4 50 72 80 32",
+      "reference": "les-jardins-du-leman",
+      "address": {
+        "street": "Grande-Rue",
+        "city": "Yvoire",
+        "zip": "74140",
+        "country": "France"
+      },
+      "services": [
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "25",
+        "max": "80"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE GRAND SAINT BENOIT",
+      "website": "http://www.restaurant-grand-saint-benoit.com",
+      "reference": "le-grand-saint-benoit",
+      "phone": [
+        "+33 2 38 35 11 92"
+      ],
+      "address": {
+        "street": "7 Place st André",
+        "zip": "45730",
+        "city": "Saint-Benoit-Sur-Loire",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Grand St-Benoît",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-grand-saint-benoit.com",
+      "phone": "+33 2 38 35 11 92",
+      "reference": "le-grand-st-benoit",
+      "address": {
+        "street": "7 place St-André",
+        "city": "Saint-Benoît-sur-Loire",
+        "zip": "45730",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "34",
+        "max": "59"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "TTOTTA",
+      "website": "http://www.ttotta.fr",
+      "reference": "ttotta",
+      "phone": [
+        "+33 5 59 47 03 55"
+      ],
+      "address": {
+        "street": "Espace Ibarrondoan",
+        "zip": "365 route de Saint Jean de luz",
+        "city": "64310",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Ttotta",
+      "experience": "Assez confortable",
+      "website": "http://www.ttotta.fr",
+      "phone": "+33 5 59 47 03 55",
+      "reference": "ttotta",
+      "address": {
+        "street": "Espace Ibarrondoan",
+        "city": "Saint-Pée-sur-Nivelle",
+        "zip": "64310",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "15",
+        "max": "47"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE PETIT SAINT THOMAS",
+      "website": "http://www.le-petit-saint-thomas.com",
+      "reference": "le-petit-saint-thomas",
+      "phone": [
+        "+33 2 51 49 05 99"
+      ],
+      "address": {
+        "street": "25 rue de Lattre de Tassigny",
+        "zip": "85710",
+        "city": "La garnache",
+        "country": "France"
+      },
+      "specialities": [
+        "Foie gras"
+      ]
+    },
+    "michelin": {
+      "name": "Le Petit St-Thomas",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-petit-st-thomas.com",
+      "phone": "+33 2 51 49 05 99",
+      "reference": "le-petit-st-thomas",
+      "address": {
+        "street": "25 rue de Lattre-de-Tassigny",
+        "city": "La Garnache",
+        "zip": "85710",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "30",
+        "max": "80"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LES FUCHSIAS",
+      "website": "http://www.hotel-fuchsias.com",
+      "reference": "les-fuchsias",
+      "phone": [
+        "+33 2 33 54 40 41"
+      ],
+      "address": {
+        "street": "20 rue Maréchal Foch",
+        "zip": "50550",
+        "city": "Saint-Vaast-La-Hougue",
+        "country": "France"
+      },
+      "specialities": [
+        "Fruits de mer",
+        "Huîtres",
+        "Normande",
+        "Vegan",
+        "Poissons de la côte",
+        "Homard du vivier",
+        "uggestion végétarienne",
+        "plats bio",
+        "vins bio, biodynamic ou 100% nature",
+        "ans gluten"
+      ]
+    },
+    "michelin": {
+      "name": "France et Fuchsias",
+      "experience": "Confortable",
+      "website": "http://www.france-fuchsias.com",
+      "phone": "+33 2 33 54 40 41",
+      "reference": "france-et-fuchsias",
+      "address": {
+        "street": "20 rue du Maréchal-Foch",
+        "city": "Saint-Vaast-la-Hougue",
+        "zip": "50550",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit American Express",
+        "Carte de crédit Diners Club",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "83"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA GRIOTTE",
+      "website": "http://www.lagriotte.fr",
+      "reference": "la-griotte",
+      "phone": [
+        "+33 3 81 57 17 71"
+      ],
+      "address": {
+        "street": "3 rue des cerisiers",
+        "zip": "25580",
+        "city": "Saules",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Griotte",
+      "experience": "Assez confortable. Nos établissements de charme.",
+      "website": "http://www.lagriotte.fr",
+      "phone": "+33 3 81 57 17 71",
+      "reference": "la-griotte",
+      "address": {
+        "street": "3 rue des Cerisiers",
+        "city": "Saules",
+        "zip": "25580",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "17",
+        "max": "50"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA MAISON CARRIER",
+      "website": "http://www.hameaualbert.fr",
+      "reference": "la-maison-carrier",
+      "phone": [
+        "+33 4 50 53 00 03"
+      ],
+      "address": {
+        "street": "44 route du Bouchet",
+        "zip": "74400",
+        "city": "Chamonix-Mont-Blanc",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Maison Carrier",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": "http://www.hameaualbert.fr",
+      "phone": "+33 4 50 53 00 03",
+      "reference": "la-maison-carrier",
+      "address": {
+        "street": "44 route du Bouchet",
+        "city": "Chamonix-Mont-Blanc",
+        "zip": "74400",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Diners Club",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "72"
+      },
+      "cookingType": "Cuisine régionale"
+    }
+  },
+  {
+    "maitre": {
+      "name": "MAISON GAMBERT",
+      "website": "http://www.maisongambert.com",
+      "reference": "maison-gambert",
+      "phone": [
+        "+33 4 75 09 19 85"
+      ],
+      "address": {
+        "street": "9, Route de Chantemerle",
+        "zip": "26600",
+        "city": "Tain-Lhermitage",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Maison Gambert",
+      "experience": "Assez confortable",
+      "website": "http://www.maisongambert.com",
+      "phone": "+33 4 75 09 19 85",
+      "reference": "maison-gambert",
+      "address": {
+        "street": "2 rue de la Petite-Pirelle",
+        "city": "Tain-l'Hermitage",
+        "zip": "26600",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "60"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA TABLE D'AIME",
+      "website": "http://www.cazes-rivesaltes.com",
+      "reference": "la-table-daime",
+      "phone": [
+        "+33 4 68 34 35 77"
+      ],
+      "address": {
+        "street": "4 rue francisco Ferrer",
+        "zip": "66600",
+        "city": "Rivesaltes",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Table d'Aimé",
+      "experience": "Assez confortable. Nos établissements de charme.",
+      "website": "http://www.latabledaime.com",
+      "phone": "+33 4 68 34 35 77",
+      "reference": "la-table-daime",
+      "address": {
+        "street": "4 Rue Francisco Ferrer",
+        "city": "Rivesaltes",
+        "zip": "66600",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "29",
+        "max": "34"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "HISTOIRE ANCIENNE",
+      "website": "http://www.histoire-ancienne.com",
+      "reference": "histoire-ancienne",
+      "phone": [
+        "+33 3 21 34 11 20"
+      ],
+      "address": {
+        "street": "20 rue royale",
+        "zip": "62100",
+        "city": "Calais",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Histoire Ancienne",
+      "experience": "Assez confortable",
+      "website": "http://www.histoire-ancienne.com",
+      "phone": "+33 3 21 34 11 20",
+      "reference": "histoire-ancienne",
+      "address": {
+        "street": "20 rue Royale",
+        "city": "Calais",
+        "zip": "62100",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "23",
+        "max": "63"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AU COLOMBIER",
+      "website": "http://www.aucolombier.com",
+      "reference": "au-colombier",
+      "phone": [
+        "+33 4 74 67 04 68"
+      ],
+      "address": {
+        "street": "12 allée du colombier",
+        "zip": "69480",
+        "city": "Anse",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Au Colombier",
+      "experience": "Assez confortable",
+      "website": "http://www.aucolombier.com",
+      "phone": "+33 4 74 67 04 68",
+      "reference": "au-colombier",
+      "address": {
+        "street": "126 allée Colombier",
+        "city": "Anse",
+        "zip": "69480",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Belle vue",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "26",
+        "max": "69"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE SAINT GEORGES",
+      "website": "http://www.lestgeorges.fr",
+      "reference": "le-saint-georges",
+      "phone": [
+        "+33 4 67 68 31 38"
+      ],
+      "address": {
+        "street": "4 BD du maréchal Foch",
+        "zip": "34250",
+        "city": "Palavas-Les-Flots",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le St-Georges",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-st-georges.fr",
+      "phone": "+33 4 67 68 31 38",
+      "reference": "le-st-georges",
+      "address": {
+        "street": "4 boulevard Maréchal-Foch",
+        "city": "Palavas-les-Flots",
+        "zip": "34250",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "65"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE CHALET",
+      "website": "http://www.le-chalet.fr",
+      "reference": "le-chalet",
+      "phone": [
+        "+33 5 61 64 24 31"
+      ],
+      "address": {
+        "street": "4 avenue A. Turrel",
+        "zip": "09110",
+        "city": "Ax-Les-Thermes",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Chalet",
+      "experience": "Confortable",
+      "website": "http://www.le-chalet.fr",
+      "phone": "+33 5 61 64 24 31",
+      "reference": "le-chalet",
+      "address": {
+        "street": "4 avenue Durandeau",
+        "city": "Ax-les-Thermes",
+        "zip": "09110",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "32",
+        "max": "60"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE LANCELOT",
+      "website": "http://www.restaurantlelancelot.com",
+      "reference": "le-lancelot",
+      "phone": [
+        "+33 2 38 32 91 15"
+      ],
+      "address": {
+        "street": "12 rue des Deportes",
+        "zip": "45170",
+        "city": "Chilleurs-Aux-Bois",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Lancelot",
+      "experience": "Confortable",
+      "website": "http://www.restaurantlelancelot.com",
+      "phone": "+33 2 38 32 91 15",
+      "reference": "le-lancelot",
+      "address": {
+        "street": "12 rue des Déportés",
+        "city": "Chilleurs-aux-Bois",
+        "zip": "45170",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "29",
+        "max": "80"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE DE TI COZ",
+      "website": "http://www.restaurantticoz.com",
+      "reference": "auberge-de-ti-coz",
+      "phone": [
+        "+33 2 98 94 50 02"
+      ],
+      "address": {
+        "street": "4 hent Coz",
+        "zip": "29000",
+        "city": "Quimper",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Auberge de Ti-Coz",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": "http://www.restaurantticoz.com",
+      "phone": "+33 2 98 94 50 02",
+      "reference": "auberge-de-ti-coz",
+      "address": {
+        "street": "4 Hent-Koz",
+        "city": "Ty-Sanquer",
+        "zip": "29000",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "26",
+        "max": "85"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AU CHAPEAU ROUGE",
+      "website": "http://www.auchapeaurouge.fr",
+      "reference": "au-chapeau-rouge",
+      "phone": [
+        "+33 2 47 98 08 08"
+      ],
+      "address": {
+        "street": "49 Place du Gal de Gaulle",
+        "zip": "37500",
+        "city": "Chinon",
+        "country": "France"
+      },
+      "specialities": [
+        "Truffe"
+      ]
+    },
+    "michelin": {
+      "name": "Au Chapeau Rouge",
+      "experience": "Confortable",
+      "website": "http://www.auchapeaurouge.fr",
+      "phone": "+33 2 47 98 08 08",
+      "reference": "au-chapeau-rouge",
+      "address": {
+        "street": "49 place du Général-de-Gaulle",
+        "city": "Chinon",
+        "zip": "37500",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "30",
+        "max": "46"
+      },
+      "cookingType": "Cuisine du terroir"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA MAISON",
+      "website": "http://www.restaurant-lamaison-cognac.fr",
+      "reference": "la-maison",
+      "phone": [
+        "+33 5 45 35 21 77"
+      ],
+      "address": {
+        "street": "1 rue du 14 juillet",
+        "zip": "16100",
+        "city": "Cognac",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Maison",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-lamaison-cognac.fr",
+      "phone": "+33 5 45 35 21 77",
+      "reference": "la-maison",
+      "address": {
+        "street": "1 rue du 14-Juillet",
+        "city": "Cognac",
+        "zip": "16100",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "34",
+        "max": "86"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE MANOIR DU SPHINX",
+      "website": "http://www.lemanoirdusphinx.com",
+      "reference": "le-manoir-du-sphinx",
+      "phone": [
+        "+33 2 96 23 25 42"
+      ],
+      "address": {
+        "street": "67 chemin de la messe",
+        "zip": "22700",
+        "city": "Perros-Guirec",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Manoir du Sphinx",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": "http://www.lemanoirdusphinx.bzh",
+      "phone": "+33 2 96 23 25 42",
+      "reference": "le-manoir-du-sphinx",
+      "address": {
+        "street": "67 chemin de la Messe",
+        "city": "Perros-Guirec",
+        "zip": "22700",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Belle vue",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "25",
+        "max": "50"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE RECIPROQUE",
+      "website": "http://www.lereciproque.com",
+      "reference": "le-reciproque",
+      "phone": [
+        "+33 9 86 37 80 77"
+      ],
+      "address": {
+        "street": "14 rue Ferdinand Flocon",
+        "zip": "75018",
+        "city": "Paris",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Réciproque",
+      "experience": "Assez confortable",
+      "website": "http://www.lereciproque.com",
+      "phone": "+33 9 86 37 80 77",
+      "reference": "le-reciproque",
+      "address": {
+        "street": "14 rue Ferdinand-Flocon",
+        "city": "Paris",
+        "zip": "75018",
+        "country": "France"
+      },
+      "services": [
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "25",
+        "max": "45"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AR MAEN HIR",
+      "website": null,
+      "reference": "ar-maen-hir",
+      "phone": [
+        "+33 2 56 10 18 37"
+      ],
+      "address": {
+        "street": "15 bis rue du prieuré",
+        "zip": "29180",
+        "city": "Locronan",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Ar Maen Hir",
+      "experience": "Assez confortable",
+      "website": null,
+      "phone": "+33 2 56 10 18 37",
+      "reference": "ar-maen-hir",
+      "address": {
+        "street": "15 bis rue du Prieuré",
+        "city": "Locronan",
+        "zip": "29180",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Salon pour repas privés",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "19",
+        "max": "45"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "BALADE DES SAVEURS",
+      "website": "http://www.balade-des-saveurs.com",
+      "reference": "balade-des-saveurs",
+      "phone": [
+        "+33 4 90 95 27 85"
+      ],
+      "address": {
+        "street": "3 quai Jean Jaurès",
+        "zip": "84800",
+        "city": "Lisle-Sur-La-Sorgue",
+        "country": "France"
+      },
+      "specialities": [
+        "Baba au rhum",
+        "Buf bourguignon",
+        "Brandade de morue",
+        "Café gourmand",
+        "Cèpes",
+        "Chocolat",
+        "Confit de canard",
+        "Côte de buf",
+        "Crème catalane",
+        "Cuisses de grenouille",
+        "Foie gras",
+        "Galette de pomme de terre",
+        "Gougère",
+        "Gratin dauphinois",
+        "Macarons",
+        "Millefeuille",
+        "Paris Brest",
+        "Pied de porc",
+        "Pieds Paquets",
+        "Piperade",
+        "Pithiviers",
+        "Porc noir de bigorre",
+        "Ratatouille",
+        "Ris de veau",
+        "Riz au lait",
+        "Saint Honoré",
+        "Tiramisu",
+        "Truffe",
+        "Viandes bovines (limousine, charolaise, Aubrac, bazadaise)",
+        "Poissons de la côte",
+        "Homard du vivier",
+        "Rissoles de pomme de terre",
+        "Porc Ibérique"
+      ]
+    },
+    "michelin": {
+      "name": "La Balade des Saveurs",
+      "experience": "Confortable",
+      "website": "http://www.balade-des-saveurs.com",
+      "phone": "+33 4 90 95 27 85",
+      "reference": "la-balade-des-saveurs",
+      "address": {
+        "street": "3 quai Jean-Jaurès",
+        "city": "L'Isle-sur-la-Sorgue",
+        "zip": "84800",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Petites portions",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "20",
+        "max": "54"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "HÔTEL-RESTAURANT LE SAINT-JACQUES",
+      "website": "http://www.hotel-sarthe.fr",
+      "reference": "hotel-restaurant-le-saint-jacques",
+      "phone": [
+        "+33 2 43 89 95 50"
+      ],
+      "address": {
+        "street": "Place du monument",
+        "zip": "72160",
+        "city": "Thorigne-Sur-Due",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Saint-Jacques",
+      "experience": "Confortable",
+      "website": "http://www.hotel-sarthe.fr",
+      "phone": "+33 2 43 89 95 50",
+      "reference": "le-saint-jacques",
+      "address": {
+        "street": "Place du Monument",
+        "city": "Thorigné-sur-Dué",
+        "zip": "72160",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "60"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE DES DEUX MAGOTS",
+      "website": "http://www.aubergedesdeuxmagots.fr",
+      "reference": "auberge-des-deux-magots",
+      "phone": [
+        "+33 2 99 90 60 75"
+      ],
+      "address": {
+        "street": "1 Place du Bouffay",
+        "zip": "56130",
+        "city": "La roche-Bernard",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Auberge des Deux Magots",
+      "experience": "Confortable",
+      "website": "http://www.aubergedesdeuxmagots.fr",
+      "phone": "+33 2 99 90 60 75",
+      "reference": "auberge-des-deux-magots",
+      "address": {
+        "street": "1 place du Bouffay",
+        "city": "La Roche-Bernard",
+        "zip": "56130",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "24",
+        "max": "50"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "RESTAURANT A LA 12",
+      "website": "http://www.ala12.fr",
+      "reference": "restaurant-a-la-12",
+      "phone": [
+        "+33 3 87 01 30 18"
+      ],
+      "address": {
+        "street": "6 Place de la République",
+        "zip": "57590",
+        "city": "Delme",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "À la 12",
+      "experience": "Confortable",
+      "website": "http://www.ala12.fr",
+      "phone": "+33 3 87 01 30 18",
+      "reference": "a-la-12",
+      "address": {
+        "street": "6 place de la République",
+        "city": "Delme",
+        "zip": "57590",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "14",
+        "max": "70"
+      },
+      "cookingType": "Cuisine créative"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE DES CHENETS",
+      "website": null,
+      "reference": "auberge-des-chenets",
+      "phone": [
+        "+33 3 86 34 23 34"
+      ],
+      "address": {
+        "street": "10 RN 6",
+        "zip": "89200",
+        "city": "Vault de ligny",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Auberge des Chenêts",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": null,
+      "phone": "+33 3 86 34 23 34",
+      "reference": "auberge-des-chenets",
+      "address": {
+        "street": "10 route Nationale 6",
+        "city": "Valloux",
+        "zip": "89200",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Bonne sélection de vins",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "29",
+        "max": "66"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "COTEAUX ET FOURCHETTES",
+      "website": "http://www.coteauxetfourchettes.com",
+      "reference": "coteaux-et-fourchettes",
+      "phone": [
+        "+33 4 90 66 35 99"
+      ],
+      "address": {
+        "street": "Croisement de la Courançonne",
+        "zip": "84290",
+        "city": "Cairanne",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Coteaux et Fourchettes",
+      "experience": "Confortable",
+      "website": "http://www.coteauxetfourchettes.com",
+      "phone": "+33 4 90 66 35 99",
+      "reference": "coteaux-et-fourchettes",
+      "address": {
+        "street": "Route de Violès",
+        "city": "Cairanne",
+        "zip": "84290",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Belle vue",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "28",
+        "max": "79"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "CHEZ JULIEN",
+      "website": "http://www.hoteljulien.com",
+      "reference": "chez-julien",
+      "phone": [
+        "+33 3 88 97 30 09"
+      ],
+      "address": {
+        "street": "12, route de Strasbourg",
+        "zip": "67130",
+        "city": "Fouday",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Julien",
+      "experience": "Confortable",
+      "website": "http://www.hoteljulien.com",
+      "phone": "+33 3 88 97 30 09",
+      "reference": "julien",
+      "address": {
+        "street": "Route de Strasbourg",
+        "city": "Fouday",
+        "zip": "67130",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa",
+        "Ascenseur"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "24",
+        "max": "60"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LES CAPUCINS",
+      "website": "http://www.hotellescapucins.com",
+      "reference": "les-capucins",
+      "phone": [
+        "+33 3 84 28 04 60"
+      ],
+      "address": {
+        "street": "20 faubourg de Montbéliard",
+        "zip": "90000",
+        "city": "Belfort",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Les Capucins",
+      "experience": "Confortable",
+      "website": "http://www.hotellescapucins.com",
+      "phone": "+33 3 84 28 04 60",
+      "reference": "les-capucins",
+      "address": {
+        "street": "20 faubourg de Montbéliard",
+        "city": "Belfort",
+        "zip": "90000",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "23",
+        "max": "65"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE MANOIR DE LA POMMERAIE",
+      "website": "http://www.restaurant-pommeraie-vire.com",
+      "reference": "le-manoir-de-la-pommeraie",
+      "phone": [
+        "+33 2 31 68 07 71"
+      ],
+      "address": {
+        "street": "ROUTE DE FLERS",
+        "zip": "14500",
+        "city": "Roullours",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Manoir de la Pommeraie",
+      "experience": "Confortable",
+      "website": "http://www.manoirdelapommeraie.com",
+      "phone": "+33 2 31 68 07 71",
+      "reference": "manoir-de-la-pommeraie",
+      "address": {
+        "street": "L'Auvère",
+        "city": "Vire",
+        "zip": "14500",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "58"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LES CANAILLES MENILMONTANT",
+      "website": "http://www.restaurantlescanailles.fr",
+      "reference": "les-canailles-menilmontant",
+      "phone": [
+        "+33 1 43 58 45 45"
+      ],
+      "address": {
+        "street": "15 rue des Panoyaux",
+        "zip": "75020",
+        "city": "Paris",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Les Canailles Ménilmontant",
+      "experience": "Assez confortable",
+      "website": "http://www.restaurantlescanailles.fr",
+      "phone": "+33 1 43 58 45 45",
+      "reference": "les-canailles-menilmontant",
+      "address": {
+        "street": "15 rue des Panoyaux",
+        "city": "Paris",
+        "zip": "75020",
+        "country": "France"
+      },
+      "services": [
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "19",
+        "max": "50"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE RABELAIS",
+      "website": "http://www.restaurant-le-rabelais.com",
+      "reference": "le-rabelais",
+      "phone": [
+        "+33 4 90 50 84 40"
+      ],
+      "address": {
+        "street": "8 rue Auguste Fabre",
+        "zip": "13250",
+        "city": "Saint-Chamas",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Rabelais",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-le-rabelais.com",
+      "phone": "+33 4 90 50 84 40",
+      "reference": "le-rabelais",
+      "address": {
+        "street": "8 rue Auguste-Fabre",
+        "city": "Saint-Chamas",
+        "zip": "13250",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "31",
+        "max": "50"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA TABLE",
+      "website": "http://www.latable.fr",
+      "reference": "la-table",
+      "phone": [
+        "+33 4 94 70 55 95"
+      ],
+      "address": {
+        "street": "Les Ribas",
+        "zip": "83690",
+        "city": "Tourtour",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Table",
+      "experience": "Assez confortable. Nos établissements de charme.",
+      "website": "http://www.latable.fr",
+      "phone": "+33 4 94 70 55 95",
+      "reference": "la-table",
+      "address": {
+        "street": "1 traverse de Jas",
+        "city": "Les Ribas",
+        "zip": "Tourtour",
+        "country": "83690"
+      },
+      "services": [
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "29",
+        "max": "82"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA MAISON D'A COTE",
+      "website": "http://www.lamaisondacote.fr",
+      "reference": "la-maison-da-cote",
+      "phone": [
+        "+33 2 54 20 62 30"
+      ],
+      "address": {
+        "street": "17 rue de Chambord",
+        "zip": "41350",
+        "city": "Montlivault",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Côté Bistro",
+      "experience": "Assez confortable",
+      "website": "http://www.lamaisondacote.fr",
+      "phone": "+33 2 54 20 62 30",
+      "reference": "cote-bistro",
+      "address": {
+        "street": "25 rue de Chambord",
+        "city": "Montlivault",
+        "zip": "41350",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "32"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "L'ÉPICURIEN",
+      "website": "http://www.restaurantlepicurien.com",
+      "reference": "lepicurien",
+      "phone": [
+        "+33 5 63 53 10 70"
+      ],
+      "address": {
+        "street": "42 Place Jean Jaurès",
+        "zip": "81000",
+        "city": "Albi",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "L'Épicurien",
+      "experience": "Confortable",
+      "website": "http://www.restaurantlepicurien.com",
+      "phone": "+33 5 63 53 10 70",
+      "reference": "lepicurien",
+      "address": {
+        "street": "42 place Jean-Jaurès",
+        "city": "Albi",
+        "zip": "81000",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "22",
+        "max": "55"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA FLEUR DE SEL",
+      "website": "http://www.restaurant-fleurdesel.fr",
+      "reference": "la-fleur-de-sel",
+      "phone": [
+        "+33 4 79 37 49 98"
+      ],
+      "address": {
+        "street": "15 Route du portelin",
+        "zip": "73730",
+        "city": "Cevins",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Fleur de Sel",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-fleurdesel.fr",
+      "phone": "+33 4 79 37 49 98",
+      "reference": "la-fleur-de-sel",
+      "address": {
+        "street": "15 route du Portelin",
+        "city": "Cevins",
+        "zip": "73730",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "23",
+        "max": "82"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AU CHEVAL BLANC",
+      "website": "http://www.cheval-blanc-feldbach.fr",
+      "reference": "au-cheval-blanc",
+      "phone": [
+        "+33 3 89 25 81 86"
+      ],
+      "address": {
+        "street": "1 rue de Bisel",
+        "zip": "68640",
+        "city": "Feldbach",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Cheval Blanc",
+      "experience": "Confortable",
+      "website": "http://www.cheval-blanc-feldbach.fr",
+      "phone": "+33 3 89 25 81 86",
+      "reference": "cheval-blanc",
+      "address": {
+        "street": "1 rue de Bisel",
+        "city": "Feldbach",
+        "zip": "68640",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "23",
+        "max": "56"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "RESTAURANTAU RAISIN D'OR",
+      "website": "http://www.raisindor.fr",
+      "reference": "restaurant--au-raisin-dor-",
+      "phone": [
+        "+33 3 89 71 05 69"
+      ],
+      "address": {
+        "street": "1 rue de l'Eglise",
+        "zip": "68230",
+        "city": "Zimmerbach",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Au Raisin d'Or",
+      "experience": "Assez confortable",
+      "website": "http://www.raisindor.fr",
+      "phone": "+33 3 89 71 05 69",
+      "reference": "au-raisin-dor",
+      "address": {
+        "street": "1 rue de l'Église",
+        "city": "Zimmerbach",
+        "zip": "68230",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "16",
+        "max": "47"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "CHEZ MICHEL",
+      "website": "http://www.restaurantchezmichel.fr",
+      "reference": "chez-michel",
+      "phone": [
+        "+33 1 44 53 06 20"
+      ],
+      "address": {
+        "street": "10 rue de Belzunce",
+        "zip": "75010",
+        "city": "Paris",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Chez Michel",
+      "experience": "Assez confortable",
+      "website": "http://www.restaurantchezmichel.fr",
+      "phone": "+33 1 44 53 06 20",
+      "reference": "chez-michel",
+      "address": {
+        "street": "10 rue de Belzunce",
+        "city": "Paris",
+        "zip": "75010",
+        "country": "France"
+      },
+      "services": [
+        "Nouvelle adresse dans le guide",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "35",
+        "max": "38"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE DE L'ÎLE",
+      "website": "http://www.aubergedelile.fr",
+      "reference": "auberge-de-lile",
+      "phone": [
+        "+33 2 47 58 51 07"
+      ],
+      "address": {
+        "street": "3 Place Bouchard",
+        "zip": "37220",
+        "city": "Lile bouchard",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Auberge de l'Île",
+      "experience": "Confortable",
+      "website": "http://www.aubergedelile.fr",
+      "phone": "+33 2 47 58 51 07",
+      "reference": "auberge-de-lile",
+      "address": {
+        "street": "3 place Bouchard",
+        "city": "L'Île-Bouchard",
+        "zip": "37220",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "56"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AU BON ACCUEIL",
+      "website": "http://www.aubonaccueil-restaurant.com",
+      "reference": "au-bon-accueil",
+      "phone": [
+        "+33 3 83 25 62 10"
+      ],
+      "address": {
+        "street": "1 rue de Laval",
+        "zip": "54630",
+        "city": "Richardmenil",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Bon Accueil",
+      "experience": "Confortable",
+      "website": "http://www.aubonaccueil-restaurant.com",
+      "phone": "+33 3 83 25 62 10",
+      "reference": "le-bon-accueil",
+      "address": {
+        "street": "1 rue de Laval",
+        "city": "Richardménil",
+        "zip": "54630",
+        "country": "France"
+      },
+      "services": [
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "32",
+        "max": "65"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA FORET",
+      "website": "http://www.hoteldelaforet-senonches.com",
+      "reference": "la-foret",
+      "phone": [
+        "+33 2 37 37 78 50"
+      ],
+      "address": {
+        "street": "22 rue de verdun",
+        "zip": "28250",
+        "city": "Senonches",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Forêt",
+      "experience": "Confortable",
+      "website": "http://www.hoteldelaforet-senonches.com",
+      "phone": "+33 2 37 37 78 50",
+      "reference": "la-foret",
+      "address": {
+        "street": "22 rue de Verdun",
+        "city": "Senonches",
+        "zip": "28250",
+        "country": "France"
+      },
+      "services": [
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "18",
+        "max": "70"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "RESTAURANT DE LA POINTE",
+      "website": "http://www.hotel-capcoz.com",
+      "reference": "restaurant-de-la-pointe",
+      "phone": [
+        "+33 2 98 56 01 63"
+      ],
+      "address": {
+        "street": "153 avenue DE LA POINTE COZ",
+        "zip": "29170",
+        "city": "Fouesnant",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Pointe du Cap Coz",
+      "experience": "Confortable",
+      "website": "http://www.hotel-capcoz.com",
+      "phone": "+33 2 98 56 01 63",
+      "reference": "la-pointe-du-cap-coz",
+      "address": {
+        "street": "1 Offre",
+        "city": null,
+        "zip": null,
+        "country": null
+      },
+      "services": [
+        "Accès handicapés",
+        "Belle vue",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "34",
+        "max": "106"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "L'EMBELLIE",
+      "website": "http://www.restaurant-lembellie.com",
+      "reference": "lembellie",
+      "phone": [
+        "+33 3 85 50 81 81"
+      ],
+      "address": {
+        "street": "Le Bourg",
+        "zip": "71250",
+        "city": "Sainte-Cecile",
+        "country": "France"
+      },
+      "specialities": [
+        "Agneau de lait",
+        "Agneau de pré-salé",
+        "Alsacienne",
+        "Baba au rhum",
+        "Blanquette de veau",
+        "Buf bourguignon",
+        "Brandade de morue",
+        "Cèpes",
+        "Chocolat",
+        "Choucroute",
+        "Confit de canard",
+        "Côte de buf",
+        "Foie gras",
+        "Galette de pomme de terre",
+        "Gougère",
+        "Gratin dauphinois",
+        "Huîtres",
+        "Macarons",
+        "Millefeuille",
+        "Paris Brest",
+        "Pâté en croute",
+        "Pochouse",
+        "Porc noir de bigorre",
+        "Pot au feu",
+        "Poule de Bresse",
+        "Poulet Basquaise",
+        "Quiche lorraine",
+        "Ratatouille",
+        "Ris de veau",
+        "Riz au lait",
+        "Saint Honoré",
+        "Spätzle",
+        "Tarte au sucre",
+        "Tarte aux myrtilles",
+        "Tête de veau",
+        "Truffe",
+        "Veau sous la mère",
+        "Viandes bovines (limousine, charolaise, Aubrac, bazadaise)",
+        "Soufflé au grand marnier",
+        "Raviles de morilles, crème de champignons des bois",
+        "Feuilletage Maison",
+        "Lièvre à la Royale",
+        "Joues de porc confites",
+        "Pigeon",
+        "Coq au vin",
+        "Chapon",
+        "Omelette norvégienne",
+        "Soufflé",
+        "moelleux chocolat",
+        "vins bio, biodynamic ou 100% nature"
+      ]
+    },
+    "michelin": {
+      "name": "L'Embellie",
+      "experience": "Confortable",
+      "website": "http://www.restaurant-lembellie.com",
+      "phone": "+33 3 85 50 81 81",
+      "reference": "lembellie",
+      "address": {
+        "street": "le Bourg",
+        "city": "Sainte-Cécile",
+        "zip": "71250",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "18",
+        "max": "63"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LES EPICES CURIENS",
+      "website": "http://www.lesepicescuriens.com",
+      "reference": "les-epices-curiens",
+      "phone": [
+        "+33 3 29 86 84 58"
+      ],
+      "address": {
+        "street": "3bis Place de la Gare",
+        "zip": "55600",
+        "city": "Ecouviez",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Les Épices Curiens",
+      "experience": "Assez confortable",
+      "website": "http://www.lesepicescuriens.com",
+      "phone": "+33 3 29 86 84 58",
+      "reference": "les-epices-curiens",
+      "address": {
+        "street": "3b place de la Gare",
+        "city": "Écouviez",
+        "zip": "55600",
+        "country": "France"
+      },
+      "services": [
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "30",
+        "max": "72"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE MEURIN",
+      "website": "http://www.le-meurin.fr",
+      "reference": "le-meurin",
+      "phone": [
+        "+33 3 21 68 88 88"
+      ],
+      "address": {
+        "street": "1098 rue de Lillers",
+        "zip": "62350",
+        "city": "Busnes",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Jardin d'Alice",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": "http://www.lejardindalice.fr",
+      "phone": "+33 3 21 68 88 88",
+      "reference": "le-jardin-dalice",
+      "address": {
+        "street": "1098 route de Lillers",
+        "city": "Busnes",
+        "zip": "62350",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Jardin ou parc",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Diners Club",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "57"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "VOYAGES DES SENS",
+      "website": "http://www.voyagesdessens.com",
+      "reference": "voyages-des-sens",
+      "phone": [
+        "+33 4 74 51 39 94"
+      ],
+      "address": {
+        "street": "33 rue Principale Cuisiat",
+        "zip": "01370",
+        "city": "Valrevermont",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Voyages des sens",
+      "experience": "Confortable",
+      "website": "http://www.voyagesdessens.com",
+      "phone": "+33 4 74 51 39 94",
+      "reference": "voyages-des-sens",
+      "address": {
+        "street": "33 rue Principale",
+        "city": "Treffort",
+        "zip": "01370",
+        "country": "France"
+      },
+      "services": [
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "14",
+        "max": "69"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE CHAMBARD",
+      "website": "http://www.lechambard.fr",
+      "reference": "le-chambard",
+      "phone": [
+        "+33 3 89 47 10 17"
+      ],
+      "address": {
+        "street": "9-13 rue du Général de Gaulle",
+        "zip": "68560",
+        "city": "Kaysenberg",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Winstub du Chambard",
+      "experience": "Assez confortable. Nos établissements de charme.",
+      "website": "http://www.lechambard.fr",
+      "phone": "+33 3 89 47 10 17",
+      "reference": "winstub-du-chambard",
+      "address": {
+        "street": "9-13 rue du Général-de-Gaulle",
+        "city": "Kaysersberg",
+        "zip": "68240",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Accès handicapés",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "24",
+        "max": "41"
+      },
+      "cookingType": "Cuisine alsacienne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE PYRÉNÉES CÉVENNES",
+      "website": "https://www.auberge-pyrenees-cevennes.fr/",
+      "reference": "auberge-pyrenees-cevennes",
+      "phone": [
+        "+33 1 43 57 33 78"
+      ],
+      "address": {
+        "street": "106 RUE DE LA FOLIE MÉRICOURT",
+        "zip": "75011",
+        "city": "Paris",
+        "country": "France"
+      },
+      "specialities": [
+        "Andouillette",
+        "Blanquette de veau",
+        "Buf bourguignon",
+        "Boudin",
+        "Cassoulet",
+        "Cèpes",
+        "Chocolat",
+        "Clafoutis",
+        "Confit de canard",
+        "Cuisses de grenouille",
+        "Escargots farcis",
+        "Foie gras",
+        "Gratin dauphinois",
+        "Lyonnaise",
+        "Millefeuille",
+        "Paris Brest",
+        "Parisienne",
+        "Pâté en croute",
+        "Pied de porc",
+        "Pot au feu",
+        "Ris de veau",
+        "Riz au lait",
+        "Soupe aux orties",
+        "Tête de veau",
+        "Truffe"
+      ]
+    },
+    "michelin": {
+      "name": "Auberge Pyrénées Cévennes",
+      "experience": "Assez confortable",
+      "website": "http://www.auberge-pyrenees-cevennes.fr",
+      "phone": "+33 1 43 57 33 78",
+      "reference": "auberge-pyrenees-cevennes",
+      "address": {
+        "street": "106 rue de la Folie-Méricourt",
+        "city": "Paris",
+        "zip": "75011",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "36",
+        "max": "72"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA VILLA ARCHANGE",
+      "website": "http://www.bruno-oger.com",
+      "reference": "la-villa-archange",
+      "phone": [
+        "+33 4 92 18 18 28"
+      ],
+      "address": {
+        "street": "rue de l'Ouest",
+        "zip": "06110",
+        "city": "Le cannet",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Bistrot des Anges",
+      "experience": "Assez confortable",
+      "website": "http://www.bruno-oger.com",
+      "phone": "+33 4 92 18 18 28",
+      "reference": "bistrot-des-anges",
+      "address": {
+        "street": "rue de l'Ouest",
+        "city": "Le Cannet",
+        "zip": "06110",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "93"
+      },
+      "cookingType": "Cuisine traditionnelle"
+    }
+  },
+  {
+    "maitre": {
+      "name": "HÔTEL DE FRANCE",
+      "website": "http://www.hoteldefrance-montmarault.com",
+      "reference": "hotel-de-france",
+      "phone": [
+        "+33 4 70 07 60 26",
+        "+33 6 72 49 68 97"
+      ],
+      "address": {
+        "street": "1, rue Marx Dormoy",
+        "zip": "03390",
+        "city": "Montmarault",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Hôtel de France",
+      "experience": "Confortable",
+      "website": "http://www.hoteldefrance-montmarault.com",
+      "phone": "+33 4 70 07 60 26",
+      "reference": "hotel-de-france",
+      "address": {
+        "street": "1 rue Marx-Dormoy",
+        "city": "Montmarault",
+        "zip": "03390",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Parking",
+        "Accès handicapés",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "34",
+        "max": "71"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LE DAUPHIN",
+      "website": "http://www.le-dauphin-normandie.com",
+      "reference": "le-dauphin",
+      "phone": [
+        "+33 2 31 86 22 26"
+      ],
+      "address": {
+        "street": "29 rue Gémare",
+        "zip": "14000",
+        "city": "Caen",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Le Dauphin",
+      "experience": "Très confortable",
+      "website": "http://www.le-dauphin-normandie.fr",
+      "phone": "+33 2 31 86 22 26",
+      "reference": "le-dauphin",
+      "address": {
+        "street": "29 rue Gemare",
+        "city": "Caen",
+        "zip": "14000",
+        "country": "France"
+      },
+      "services": [
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit American Express",
+        "Carte de crédit Diners Club",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "26",
+        "max": "90"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA TABLE DE LEO",
+      "website": "http://www.latabledeleo.fr",
+      "reference": "la-table-de-leo",
+      "phone": [
+        "+33 5 53 57 89 15",
+        "+33 6 03 77 92 91"
+      ],
+      "address": {
+        "street": "Le Bourg",
+        "zip": "24440",
+        "city": "Saint-Avit-Senieur",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Table de Léo",
+      "experience": "Assez confortable",
+      "website": "http://www.latabledeleo.fr",
+      "phone": "+33 5 53 57 89 15",
+      "reference": "la-table-de-leo",
+      "address": {
+        "street": "Le Bourg",
+        "city": "Saint-Avit-Sénieur",
+        "zip": "24440",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "42"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "AUBERGE DE LA RIVIERE",
+      "website": "http://www.hotel-riviere-vendee.com",
+      "reference": "auberge-de-la-riviere",
+      "phone": [
+        "+33 2 51 52 32 15"
+      ],
+      "address": {
+        "street": "2 rue du port de la Fouarne",
+        "zip": "85770",
+        "city": "Velluire",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Auberge de la Rivière",
+      "experience": "Très confortable",
+      "website": "http://www.hotel-riviere-vendee.com",
+      "phone": "+33 2 51 52 32 15",
+      "reference": "auberge-de-la-riviere",
+      "address": {
+        "street": "rue du Port-de-la-Fouarne",
+        "city": "Velluire",
+        "zip": "85770",
+        "country": "France"
+      },
+      "services": [
+        "Accès handicapés",
+        "Bonne sélection de vins",
+        "Possibilité de manger dehors",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Salon pour repas privés",
+        "Restaurant proposant des menus végétariens",
+        "Restaurant offrant également des chambres",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "34",
+        "max": "75"
+      },
+      "cookingType": "Cuisine moderne"
+    }
+  },
+  {
+    "maitre": {
+      "name": "LA CLOSERIE DES ROSES",
+      "website": "http://www.lacloseriedesroses.com",
+      "reference": "la-closerie-des-roses",
+      "phone": [
+        "+33 2 40 98 33 30"
+      ],
+      "address": {
+        "street": "455 La Haute Meilleraie - VARADES",
+        "zip": "44370",
+        "city": "Loireauxence",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "La Closerie des Roses",
+      "experience": "Confortable. Nos établissements de charme.",
+      "website": "http://www.lacloseriedesroses.com",
+      "phone": "+33 2 40 98 33 30",
+      "reference": "la-closerie-des-roses",
+      "address": {
+        "street": "455 La Haute-Meilleraie",
+        "city": "Varades",
+        "zip": "44370",
+        "country": "France"
+      },
+      "services": [
+        "Climatisé",
+        "Belle vue",
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "33",
+        "max": "67"
+      },
+      "cookingType": "Cuisine classique"
+    }
+  },
+  {
+    "maitre": {
+      "name": "RESTAURANT VIDAL",
+      "website": "http://www.restaurant-vidal.com",
+      "reference": "restaurant-vidal",
+      "phone": [
+        "+33 4 71 08 70 50"
+      ],
+      "address": {
+        "street": "Place du Marché",
+        "zip": "43260",
+        "city": "Saint-Julien-Chapteuil",
+        "country": "France"
+      },
+      "specialities": []
+    },
+    "michelin": {
+      "name": "Vidal",
+      "experience": "Très confortable",
+      "website": "http://www.restaurant-vidal.com",
+      "phone": "+33 4 71 08 70 50",
+      "reference": "vidal",
+      "address": {
+        "street": "Place du Marché",
+        "city": "Saint-Julien-Chapteuil",
+        "zip": "43260",
+        "country": "France"
+      },
+      "services": [
+        "Etablissement réservé partiellement ou entièrement aux non-fumeurs",
+        "Restaurant proposant des menus végétariens",
+        "Carte de crédit American Express",
+        "Carte de crédit Mastercard",
+        "Carte de crédit Visa"
+      ],
+      "rating": 0,
+      "price": {
+        "min": "31",
+        "max": "80"
+      },
+      "cookingType": "Cuisine du terroir"
+    }
+  }
+]
